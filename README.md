@@ -1,22 +1,24 @@
-# Indo-European (Chang et al. 2015):
+# Dataset chang_et_al2015
 
-```
-Chang W, Cathcart C, Hall D, & Garrett A. 2015. Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis. Language, 91(1):194-244.
-```
+## How to cite
 
-* ID: chang_et_al2015:
-* URL: [http://dx.doi.org/10.1353/lan.2015.0005](http://dx.doi.org/10.1353/lan.2015.0005)
-* Paper: [paper](paper)
-* Original Files: [original](original)
-* Scaling: years
-* Taxa: 52 taxa 
-* Data: [data](data)
-* Nexus: [data.nex](data.nex)
-* Character Specification: None
-* Summary Tree: [summary.trees](summary.trees)
-* Posterior Probability Distribution: [posterior.trees](posterior.trees)
+If you use these data please cite
+- the original source
+  > Chang W, Cathcart C, Hall D, & Garrett A. 2015. Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis. Language, 91(1):194-244.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
-## Errors:
+## Description
 
-* missing characters
-* missing cldf
+
+Available online at http://dx.doi.org/10.1353/lan.2015.0005
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Generic](https://github.com/cldf/cldf/tree/master/modules/Generic) at [cldf/Generic-metadata.json](cldf/Generic-metadata.json)
+
+## Summary Tree
+
+![summary](./summary_tree.svg)

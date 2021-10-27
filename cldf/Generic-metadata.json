@@ -19,13 +19,13 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-tree-chang_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "e666061",
+            "dc:created": "babec7c",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4-36-g7235e0249f",
+            "dc:created": "v4.4",
             "dc:title": "Glottolog"
         }
     ],
@@ -47,6 +47,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "The LanguageTable lists the taxa, i.e. the leafs of the phylogeny, mapped to languoids.",
             "dc:extent": 52,
             "tableSchema": {
                 "columns": [
@@ -109,6 +110,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
                         "required": false,
                         "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Glottolog_Name"
                     }
                 ],
                 "primaryKey": [
@@ -169,6 +174,46 @@
                 ]
             },
             "url": "trees.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "The ParameterTable lists characters (a.k.a. sites), i.e. the (often binary) variables used as data basis to compute the phylogeny from.",
+            "dc:extent": 2350,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "dc:description": "Sequence index of the site in the corresponding Nexus file.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "dc:description": "The data for this parameter is stored at 1-based index {ID} of the sequences in the DATA block of the Nexus file specified here. (See https://en.wikipedia.org/wiki/Nexus_file)",
+                        "propertyUrl": "http://purl.org/dc/terms/relation",
+                        "name": "Nexus_File"
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
         }
     ]
 }
