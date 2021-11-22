@@ -14,12 +14,12 @@
     },
     "dc:identifier": "http://dx.doi.org/10.1353/lan.2015.0005",
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/D-PLACE/dplace-tree-chang_et_al2015",
+    "dcat:accessURL": "https://github.com/phlorest/chang_et_al2015",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/D-PLACE/dplace-tree-chang_et_al2015",
+            "rdf:about": "https://github.com/phlorest/chang_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "babec7c",
+            "dc:created": "ccf50a4",
             "dc:title": "Repository"
         },
         {
