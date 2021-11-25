@@ -1,0 +1,15 @@
+{
+    "title": null,
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Chang W, Cathcart C, Hall D, &amp; Garrett A. 2015. Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis. Language, 91(1):194-244.</p>\n</blockquote>",
+    "communities": [
+        {
+            "identifier": "dplace"
+        }
+    ]
+}

@@ -1,6 +1,5 @@
 import pathlib
 
-from tqdm import tqdm
 import phlorest
 
 
@@ -10,23 +9,24 @@ class Dataset(phlorest.Dataset):
 
     def cmd_makecldf(self, args):
         self.init(args)
-        with self.nexus_summary() as nex:
-            self.add_tree_from_nexus(
-                args,
-                self.raw_dir / 'a1-c0-d0-g1-l2-s1-t1-z8' / 'mcc.trees',
-                nex,
-                'summary',
-                detranslate=True,
-            )
+        args.writer.add_summary(
+            self.raw_dir.joinpath('a1-c0-d0-g1-l2-s1-t1-z8').read_tree(
+                'mcc.trees', detranslate=True),
+            self.metadata,
+            args.log)
         posterior = self.sample(
             self.remove_burnin(
-                self.read_gzipped_text(self.raw_dir / 'analyses' / 'ieo.trees.gz'),
+                self.raw_dir.joinpath('analyses').read('ieo.trees.gz'),
                 10001),
             detranslate=True,
             as_nexus=True)
 
-        with self.nexus_posterior() as nex:
-            for i, tree in tqdm(enumerate(posterior.trees.trees, start=1), total=1000):
-                self.add_tree(args, tree, nex, 'posterior-{}'.format(i))
-
-        self.add_data(args, self.raw_dir / 'a1-c0-d0-g1-l2-s1-t1-z8_ieo.nex')
+        args.writer.add_posterior(
+            posterior.trees.trees,
+            self.metadata,
+            args.log,
+            verbose=True)
+        args.writer.add_data(
+            self.raw_dir.read_nexus('a1-c0-d0-g1-l2-s1-t1-z8_ieo.nex'),
+            self.characters,
+            args.log)
