@@ -11,7 +11,7 @@
     "dc:license": "https://creativecommons.org/licenses/by/2.0/",
     "dc:source": "sources.bib",
     "dc:subject": {
-        "family": "Indo-European [indo1319]",
+        "family": "Indo-European",
         "analysis": "bayesian",
         "scaling": "years"
     },
@@ -27,13 +27,13 @@
         {
             "rdf:about": "https://github.com/phlorest/chang_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "375c606",
+            "dc:created": "d36de5b",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.4",
+            "dc:created": "v4.5",
             "dc:title": "Glottolog"
         }
     ],
