@@ -1,2351 +1,2351 @@
-ID,Name,Description,Nexus_File
-1,Site 1,,data.nex
-2,Site 2,,data.nex
-3,Site 3,,data.nex
-4,Site 4,,data.nex
-5,Site 5,,data.nex
-6,Site 6,,data.nex
-7,Site 7,,data.nex
-8,Site 8,,data.nex
-9,Site 9,,data.nex
-10,Site 10,,data.nex
-11,Site 11,,data.nex
-12,Site 12,,data.nex
-13,Site 13,,data.nex
-14,Site 14,,data.nex
-15,Site 15,,data.nex
-16,Site 16,,data.nex
-17,Site 17,,data.nex
-18,Site 18,,data.nex
-19,Site 19,,data.nex
-20,Site 20,,data.nex
-21,Site 21,,data.nex
-22,Site 22,,data.nex
-23,Site 23,,data.nex
-24,Site 24,,data.nex
-25,Site 25,,data.nex
-26,Site 26,,data.nex
-27,Site 27,,data.nex
-28,Site 28,,data.nex
-29,Site 29,,data.nex
-30,Site 30,,data.nex
-31,Site 31,,data.nex
-32,Site 32,,data.nex
-33,Site 33,,data.nex
-34,Site 34,,data.nex
-35,Site 35,,data.nex
-36,Site 36,,data.nex
-37,Site 37,,data.nex
-38,Site 38,,data.nex
-39,Site 39,,data.nex
-40,Site 40,,data.nex
-41,Site 41,,data.nex
-42,Site 42,,data.nex
-43,Site 43,,data.nex
-44,Site 44,,data.nex
-45,Site 45,,data.nex
-46,Site 46,,data.nex
-47,Site 47,,data.nex
-48,Site 48,,data.nex
-49,Site 49,,data.nex
-50,Site 50,,data.nex
-51,Site 51,,data.nex
-52,Site 52,,data.nex
-53,Site 53,,data.nex
-54,Site 54,,data.nex
-55,Site 55,,data.nex
-56,Site 56,,data.nex
-57,Site 57,,data.nex
-58,Site 58,,data.nex
-59,Site 59,,data.nex
-60,Site 60,,data.nex
-61,Site 61,,data.nex
-62,Site 62,,data.nex
-63,Site 63,,data.nex
-64,Site 64,,data.nex
-65,Site 65,,data.nex
-66,Site 66,,data.nex
-67,Site 67,,data.nex
-68,Site 68,,data.nex
-69,Site 69,,data.nex
-70,Site 70,,data.nex
-71,Site 71,,data.nex
-72,Site 72,,data.nex
-73,Site 73,,data.nex
-74,Site 74,,data.nex
-75,Site 75,,data.nex
-76,Site 76,,data.nex
-77,Site 77,,data.nex
-78,Site 78,,data.nex
-79,Site 79,,data.nex
-80,Site 80,,data.nex
-81,Site 81,,data.nex
-82,Site 82,,data.nex
-83,Site 83,,data.nex
-84,Site 84,,data.nex
-85,Site 85,,data.nex
-86,Site 86,,data.nex
-87,Site 87,,data.nex
-88,Site 88,,data.nex
-89,Site 89,,data.nex
-90,Site 90,,data.nex
-91,Site 91,,data.nex
-92,Site 92,,data.nex
-93,Site 93,,data.nex
-94,Site 94,,data.nex
-95,Site 95,,data.nex
-96,Site 96,,data.nex
-97,Site 97,,data.nex
-98,Site 98,,data.nex
-99,Site 99,,data.nex
-100,Site 100,,data.nex
-101,Site 101,,data.nex
-102,Site 102,,data.nex
-103,Site 103,,data.nex
-104,Site 104,,data.nex
-105,Site 105,,data.nex
-106,Site 106,,data.nex
-107,Site 107,,data.nex
-108,Site 108,,data.nex
-109,Site 109,,data.nex
-110,Site 110,,data.nex
-111,Site 111,,data.nex
-112,Site 112,,data.nex
-113,Site 113,,data.nex
-114,Site 114,,data.nex
-115,Site 115,,data.nex
-116,Site 116,,data.nex
-117,Site 117,,data.nex
-118,Site 118,,data.nex
-119,Site 119,,data.nex
-120,Site 120,,data.nex
-121,Site 121,,data.nex
-122,Site 122,,data.nex
-123,Site 123,,data.nex
-124,Site 124,,data.nex
-125,Site 125,,data.nex
-126,Site 126,,data.nex
-127,Site 127,,data.nex
-128,Site 128,,data.nex
-129,Site 129,,data.nex
-130,Site 130,,data.nex
-131,Site 131,,data.nex
-132,Site 132,,data.nex
-133,Site 133,,data.nex
-134,Site 134,,data.nex
-135,Site 135,,data.nex
-136,Site 136,,data.nex
-137,Site 137,,data.nex
-138,Site 138,,data.nex
-139,Site 139,,data.nex
-140,Site 140,,data.nex
-141,Site 141,,data.nex
-142,Site 142,,data.nex
-143,Site 143,,data.nex
-144,Site 144,,data.nex
-145,Site 145,,data.nex
-146,Site 146,,data.nex
-147,Site 147,,data.nex
-148,Site 148,,data.nex
-149,Site 149,,data.nex
-150,Site 150,,data.nex
-151,Site 151,,data.nex
-152,Site 152,,data.nex
-153,Site 153,,data.nex
-154,Site 154,,data.nex
-155,Site 155,,data.nex
-156,Site 156,,data.nex
-157,Site 157,,data.nex
-158,Site 158,,data.nex
-159,Site 159,,data.nex
-160,Site 160,,data.nex
-161,Site 161,,data.nex
-162,Site 162,,data.nex
-163,Site 163,,data.nex
-164,Site 164,,data.nex
-165,Site 165,,data.nex
-166,Site 166,,data.nex
-167,Site 167,,data.nex
-168,Site 168,,data.nex
-169,Site 169,,data.nex
-170,Site 170,,data.nex
-171,Site 171,,data.nex
-172,Site 172,,data.nex
-173,Site 173,,data.nex
-174,Site 174,,data.nex
-175,Site 175,,data.nex
-176,Site 176,,data.nex
-177,Site 177,,data.nex
-178,Site 178,,data.nex
-179,Site 179,,data.nex
-180,Site 180,,data.nex
-181,Site 181,,data.nex
-182,Site 182,,data.nex
-183,Site 183,,data.nex
-184,Site 184,,data.nex
-185,Site 185,,data.nex
-186,Site 186,,data.nex
-187,Site 187,,data.nex
-188,Site 188,,data.nex
-189,Site 189,,data.nex
-190,Site 190,,data.nex
-191,Site 191,,data.nex
-192,Site 192,,data.nex
-193,Site 193,,data.nex
-194,Site 194,,data.nex
-195,Site 195,,data.nex
-196,Site 196,,data.nex
-197,Site 197,,data.nex
-198,Site 198,,data.nex
-199,Site 199,,data.nex
-200,Site 200,,data.nex
-201,Site 201,,data.nex
-202,Site 202,,data.nex
-203,Site 203,,data.nex
-204,Site 204,,data.nex
-205,Site 205,,data.nex
-206,Site 206,,data.nex
-207,Site 207,,data.nex
-208,Site 208,,data.nex
-209,Site 209,,data.nex
-210,Site 210,,data.nex
-211,Site 211,,data.nex
-212,Site 212,,data.nex
-213,Site 213,,data.nex
-214,Site 214,,data.nex
-215,Site 215,,data.nex
-216,Site 216,,data.nex
-217,Site 217,,data.nex
-218,Site 218,,data.nex
-219,Site 219,,data.nex
-220,Site 220,,data.nex
-221,Site 221,,data.nex
-222,Site 222,,data.nex
-223,Site 223,,data.nex
-224,Site 224,,data.nex
-225,Site 225,,data.nex
-226,Site 226,,data.nex
-227,Site 227,,data.nex
-228,Site 228,,data.nex
-229,Site 229,,data.nex
-230,Site 230,,data.nex
-231,Site 231,,data.nex
-232,Site 232,,data.nex
-233,Site 233,,data.nex
-234,Site 234,,data.nex
-235,Site 235,,data.nex
-236,Site 236,,data.nex
-237,Site 237,,data.nex
-238,Site 238,,data.nex
-239,Site 239,,data.nex
-240,Site 240,,data.nex
-241,Site 241,,data.nex
-242,Site 242,,data.nex
-243,Site 243,,data.nex
-244,Site 244,,data.nex
-245,Site 245,,data.nex
-246,Site 246,,data.nex
-247,Site 247,,data.nex
-248,Site 248,,data.nex
-249,Site 249,,data.nex
-250,Site 250,,data.nex
-251,Site 251,,data.nex
-252,Site 252,,data.nex
-253,Site 253,,data.nex
-254,Site 254,,data.nex
-255,Site 255,,data.nex
-256,Site 256,,data.nex
-257,Site 257,,data.nex
-258,Site 258,,data.nex
-259,Site 259,,data.nex
-260,Site 260,,data.nex
-261,Site 261,,data.nex
-262,Site 262,,data.nex
-263,Site 263,,data.nex
-264,Site 264,,data.nex
-265,Site 265,,data.nex
-266,Site 266,,data.nex
-267,Site 267,,data.nex
-268,Site 268,,data.nex
-269,Site 269,,data.nex
-270,Site 270,,data.nex
-271,Site 271,,data.nex
-272,Site 272,,data.nex
-273,Site 273,,data.nex
-274,Site 274,,data.nex
-275,Site 275,,data.nex
-276,Site 276,,data.nex
-277,Site 277,,data.nex
-278,Site 278,,data.nex
-279,Site 279,,data.nex
-280,Site 280,,data.nex
-281,Site 281,,data.nex
-282,Site 282,,data.nex
-283,Site 283,,data.nex
-284,Site 284,,data.nex
-285,Site 285,,data.nex
-286,Site 286,,data.nex
-287,Site 287,,data.nex
-288,Site 288,,data.nex
-289,Site 289,,data.nex
-290,Site 290,,data.nex
-291,Site 291,,data.nex
-292,Site 292,,data.nex
-293,Site 293,,data.nex
-294,Site 294,,data.nex
-295,Site 295,,data.nex
-296,Site 296,,data.nex
-297,Site 297,,data.nex
-298,Site 298,,data.nex
-299,Site 299,,data.nex
-300,Site 300,,data.nex
-301,Site 301,,data.nex
-302,Site 302,,data.nex
-303,Site 303,,data.nex
-304,Site 304,,data.nex
-305,Site 305,,data.nex
-306,Site 306,,data.nex
-307,Site 307,,data.nex
-308,Site 308,,data.nex
-309,Site 309,,data.nex
-310,Site 310,,data.nex
-311,Site 311,,data.nex
-312,Site 312,,data.nex
-313,Site 313,,data.nex
-314,Site 314,,data.nex
-315,Site 315,,data.nex
-316,Site 316,,data.nex
-317,Site 317,,data.nex
-318,Site 318,,data.nex
-319,Site 319,,data.nex
-320,Site 320,,data.nex
-321,Site 321,,data.nex
-322,Site 322,,data.nex
-323,Site 323,,data.nex
-324,Site 324,,data.nex
-325,Site 325,,data.nex
-326,Site 326,,data.nex
-327,Site 327,,data.nex
-328,Site 328,,data.nex
-329,Site 329,,data.nex
-330,Site 330,,data.nex
-331,Site 331,,data.nex
-332,Site 332,,data.nex
-333,Site 333,,data.nex
-334,Site 334,,data.nex
-335,Site 335,,data.nex
-336,Site 336,,data.nex
-337,Site 337,,data.nex
-338,Site 338,,data.nex
-339,Site 339,,data.nex
-340,Site 340,,data.nex
-341,Site 341,,data.nex
-342,Site 342,,data.nex
-343,Site 343,,data.nex
-344,Site 344,,data.nex
-345,Site 345,,data.nex
-346,Site 346,,data.nex
-347,Site 347,,data.nex
-348,Site 348,,data.nex
-349,Site 349,,data.nex
-350,Site 350,,data.nex
-351,Site 351,,data.nex
-352,Site 352,,data.nex
-353,Site 353,,data.nex
-354,Site 354,,data.nex
-355,Site 355,,data.nex
-356,Site 356,,data.nex
-357,Site 357,,data.nex
-358,Site 358,,data.nex
-359,Site 359,,data.nex
-360,Site 360,,data.nex
-361,Site 361,,data.nex
-362,Site 362,,data.nex
-363,Site 363,,data.nex
-364,Site 364,,data.nex
-365,Site 365,,data.nex
-366,Site 366,,data.nex
-367,Site 367,,data.nex
-368,Site 368,,data.nex
-369,Site 369,,data.nex
-370,Site 370,,data.nex
-371,Site 371,,data.nex
-372,Site 372,,data.nex
-373,Site 373,,data.nex
-374,Site 374,,data.nex
-375,Site 375,,data.nex
-376,Site 376,,data.nex
-377,Site 377,,data.nex
-378,Site 378,,data.nex
-379,Site 379,,data.nex
-380,Site 380,,data.nex
-381,Site 381,,data.nex
-382,Site 382,,data.nex
-383,Site 383,,data.nex
-384,Site 384,,data.nex
-385,Site 385,,data.nex
-386,Site 386,,data.nex
-387,Site 387,,data.nex
-388,Site 388,,data.nex
-389,Site 389,,data.nex
-390,Site 390,,data.nex
-391,Site 391,,data.nex
-392,Site 392,,data.nex
-393,Site 393,,data.nex
-394,Site 394,,data.nex
-395,Site 395,,data.nex
-396,Site 396,,data.nex
-397,Site 397,,data.nex
-398,Site 398,,data.nex
-399,Site 399,,data.nex
-400,Site 400,,data.nex
-401,Site 401,,data.nex
-402,Site 402,,data.nex
-403,Site 403,,data.nex
-404,Site 404,,data.nex
-405,Site 405,,data.nex
-406,Site 406,,data.nex
-407,Site 407,,data.nex
-408,Site 408,,data.nex
-409,Site 409,,data.nex
-410,Site 410,,data.nex
-411,Site 411,,data.nex
-412,Site 412,,data.nex
-413,Site 413,,data.nex
-414,Site 414,,data.nex
-415,Site 415,,data.nex
-416,Site 416,,data.nex
-417,Site 417,,data.nex
-418,Site 418,,data.nex
-419,Site 419,,data.nex
-420,Site 420,,data.nex
-421,Site 421,,data.nex
-422,Site 422,,data.nex
-423,Site 423,,data.nex
-424,Site 424,,data.nex
-425,Site 425,,data.nex
-426,Site 426,,data.nex
-427,Site 427,,data.nex
-428,Site 428,,data.nex
-429,Site 429,,data.nex
-430,Site 430,,data.nex
-431,Site 431,,data.nex
-432,Site 432,,data.nex
-433,Site 433,,data.nex
-434,Site 434,,data.nex
-435,Site 435,,data.nex
-436,Site 436,,data.nex
-437,Site 437,,data.nex
-438,Site 438,,data.nex
-439,Site 439,,data.nex
-440,Site 440,,data.nex
-441,Site 441,,data.nex
-442,Site 442,,data.nex
-443,Site 443,,data.nex
-444,Site 444,,data.nex
-445,Site 445,,data.nex
-446,Site 446,,data.nex
-447,Site 447,,data.nex
-448,Site 448,,data.nex
-449,Site 449,,data.nex
-450,Site 450,,data.nex
-451,Site 451,,data.nex
-452,Site 452,,data.nex
-453,Site 453,,data.nex
-454,Site 454,,data.nex
-455,Site 455,,data.nex
-456,Site 456,,data.nex
-457,Site 457,,data.nex
-458,Site 458,,data.nex
-459,Site 459,,data.nex
-460,Site 460,,data.nex
-461,Site 461,,data.nex
-462,Site 462,,data.nex
-463,Site 463,,data.nex
-464,Site 464,,data.nex
-465,Site 465,,data.nex
-466,Site 466,,data.nex
-467,Site 467,,data.nex
-468,Site 468,,data.nex
-469,Site 469,,data.nex
-470,Site 470,,data.nex
-471,Site 471,,data.nex
-472,Site 472,,data.nex
-473,Site 473,,data.nex
-474,Site 474,,data.nex
-475,Site 475,,data.nex
-476,Site 476,,data.nex
-477,Site 477,,data.nex
-478,Site 478,,data.nex
-479,Site 479,,data.nex
-480,Site 480,,data.nex
-481,Site 481,,data.nex
-482,Site 482,,data.nex
-483,Site 483,,data.nex
-484,Site 484,,data.nex
-485,Site 485,,data.nex
-486,Site 486,,data.nex
-487,Site 487,,data.nex
-488,Site 488,,data.nex
-489,Site 489,,data.nex
-490,Site 490,,data.nex
-491,Site 491,,data.nex
-492,Site 492,,data.nex
-493,Site 493,,data.nex
-494,Site 494,,data.nex
-495,Site 495,,data.nex
-496,Site 496,,data.nex
-497,Site 497,,data.nex
-498,Site 498,,data.nex
-499,Site 499,,data.nex
-500,Site 500,,data.nex
-501,Site 501,,data.nex
-502,Site 502,,data.nex
-503,Site 503,,data.nex
-504,Site 504,,data.nex
-505,Site 505,,data.nex
-506,Site 506,,data.nex
-507,Site 507,,data.nex
-508,Site 508,,data.nex
-509,Site 509,,data.nex
-510,Site 510,,data.nex
-511,Site 511,,data.nex
-512,Site 512,,data.nex
-513,Site 513,,data.nex
-514,Site 514,,data.nex
-515,Site 515,,data.nex
-516,Site 516,,data.nex
-517,Site 517,,data.nex
-518,Site 518,,data.nex
-519,Site 519,,data.nex
-520,Site 520,,data.nex
-521,Site 521,,data.nex
-522,Site 522,,data.nex
-523,Site 523,,data.nex
-524,Site 524,,data.nex
-525,Site 525,,data.nex
-526,Site 526,,data.nex
-527,Site 527,,data.nex
-528,Site 528,,data.nex
-529,Site 529,,data.nex
-530,Site 530,,data.nex
-531,Site 531,,data.nex
-532,Site 532,,data.nex
-533,Site 533,,data.nex
-534,Site 534,,data.nex
-535,Site 535,,data.nex
-536,Site 536,,data.nex
-537,Site 537,,data.nex
-538,Site 538,,data.nex
-539,Site 539,,data.nex
-540,Site 540,,data.nex
-541,Site 541,,data.nex
-542,Site 542,,data.nex
-543,Site 543,,data.nex
-544,Site 544,,data.nex
-545,Site 545,,data.nex
-546,Site 546,,data.nex
-547,Site 547,,data.nex
-548,Site 548,,data.nex
-549,Site 549,,data.nex
-550,Site 550,,data.nex
-551,Site 551,,data.nex
-552,Site 552,,data.nex
-553,Site 553,,data.nex
-554,Site 554,,data.nex
-555,Site 555,,data.nex
-556,Site 556,,data.nex
-557,Site 557,,data.nex
-558,Site 558,,data.nex
-559,Site 559,,data.nex
-560,Site 560,,data.nex
-561,Site 561,,data.nex
-562,Site 562,,data.nex
-563,Site 563,,data.nex
-564,Site 564,,data.nex
-565,Site 565,,data.nex
-566,Site 566,,data.nex
-567,Site 567,,data.nex
-568,Site 568,,data.nex
-569,Site 569,,data.nex
-570,Site 570,,data.nex
-571,Site 571,,data.nex
-572,Site 572,,data.nex
-573,Site 573,,data.nex
-574,Site 574,,data.nex
-575,Site 575,,data.nex
-576,Site 576,,data.nex
-577,Site 577,,data.nex
-578,Site 578,,data.nex
-579,Site 579,,data.nex
-580,Site 580,,data.nex
-581,Site 581,,data.nex
-582,Site 582,,data.nex
-583,Site 583,,data.nex
-584,Site 584,,data.nex
-585,Site 585,,data.nex
-586,Site 586,,data.nex
-587,Site 587,,data.nex
-588,Site 588,,data.nex
-589,Site 589,,data.nex
-590,Site 590,,data.nex
-591,Site 591,,data.nex
-592,Site 592,,data.nex
-593,Site 593,,data.nex
-594,Site 594,,data.nex
-595,Site 595,,data.nex
-596,Site 596,,data.nex
-597,Site 597,,data.nex
-598,Site 598,,data.nex
-599,Site 599,,data.nex
-600,Site 600,,data.nex
-601,Site 601,,data.nex
-602,Site 602,,data.nex
-603,Site 603,,data.nex
-604,Site 604,,data.nex
-605,Site 605,,data.nex
-606,Site 606,,data.nex
-607,Site 607,,data.nex
-608,Site 608,,data.nex
-609,Site 609,,data.nex
-610,Site 610,,data.nex
-611,Site 611,,data.nex
-612,Site 612,,data.nex
-613,Site 613,,data.nex
-614,Site 614,,data.nex
-615,Site 615,,data.nex
-616,Site 616,,data.nex
-617,Site 617,,data.nex
-618,Site 618,,data.nex
-619,Site 619,,data.nex
-620,Site 620,,data.nex
-621,Site 621,,data.nex
-622,Site 622,,data.nex
-623,Site 623,,data.nex
-624,Site 624,,data.nex
-625,Site 625,,data.nex
-626,Site 626,,data.nex
-627,Site 627,,data.nex
-628,Site 628,,data.nex
-629,Site 629,,data.nex
-630,Site 630,,data.nex
-631,Site 631,,data.nex
-632,Site 632,,data.nex
-633,Site 633,,data.nex
-634,Site 634,,data.nex
-635,Site 635,,data.nex
-636,Site 636,,data.nex
-637,Site 637,,data.nex
-638,Site 638,,data.nex
-639,Site 639,,data.nex
-640,Site 640,,data.nex
-641,Site 641,,data.nex
-642,Site 642,,data.nex
-643,Site 643,,data.nex
-644,Site 644,,data.nex
-645,Site 645,,data.nex
-646,Site 646,,data.nex
-647,Site 647,,data.nex
-648,Site 648,,data.nex
-649,Site 649,,data.nex
-650,Site 650,,data.nex
-651,Site 651,,data.nex
-652,Site 652,,data.nex
-653,Site 653,,data.nex
-654,Site 654,,data.nex
-655,Site 655,,data.nex
-656,Site 656,,data.nex
-657,Site 657,,data.nex
-658,Site 658,,data.nex
-659,Site 659,,data.nex
-660,Site 660,,data.nex
-661,Site 661,,data.nex
-662,Site 662,,data.nex
-663,Site 663,,data.nex
-664,Site 664,,data.nex
-665,Site 665,,data.nex
-666,Site 666,,data.nex
-667,Site 667,,data.nex
-668,Site 668,,data.nex
-669,Site 669,,data.nex
-670,Site 670,,data.nex
-671,Site 671,,data.nex
-672,Site 672,,data.nex
-673,Site 673,,data.nex
-674,Site 674,,data.nex
-675,Site 675,,data.nex
-676,Site 676,,data.nex
-677,Site 677,,data.nex
-678,Site 678,,data.nex
-679,Site 679,,data.nex
-680,Site 680,,data.nex
-681,Site 681,,data.nex
-682,Site 682,,data.nex
-683,Site 683,,data.nex
-684,Site 684,,data.nex
-685,Site 685,,data.nex
-686,Site 686,,data.nex
-687,Site 687,,data.nex
-688,Site 688,,data.nex
-689,Site 689,,data.nex
-690,Site 690,,data.nex
-691,Site 691,,data.nex
-692,Site 692,,data.nex
-693,Site 693,,data.nex
-694,Site 694,,data.nex
-695,Site 695,,data.nex
-696,Site 696,,data.nex
-697,Site 697,,data.nex
-698,Site 698,,data.nex
-699,Site 699,,data.nex
-700,Site 700,,data.nex
-701,Site 701,,data.nex
-702,Site 702,,data.nex
-703,Site 703,,data.nex
-704,Site 704,,data.nex
-705,Site 705,,data.nex
-706,Site 706,,data.nex
-707,Site 707,,data.nex
-708,Site 708,,data.nex
-709,Site 709,,data.nex
-710,Site 710,,data.nex
-711,Site 711,,data.nex
-712,Site 712,,data.nex
-713,Site 713,,data.nex
-714,Site 714,,data.nex
-715,Site 715,,data.nex
-716,Site 716,,data.nex
-717,Site 717,,data.nex
-718,Site 718,,data.nex
-719,Site 719,,data.nex
-720,Site 720,,data.nex
-721,Site 721,,data.nex
-722,Site 722,,data.nex
-723,Site 723,,data.nex
-724,Site 724,,data.nex
-725,Site 725,,data.nex
-726,Site 726,,data.nex
-727,Site 727,,data.nex
-728,Site 728,,data.nex
-729,Site 729,,data.nex
-730,Site 730,,data.nex
-731,Site 731,,data.nex
-732,Site 732,,data.nex
-733,Site 733,,data.nex
-734,Site 734,,data.nex
-735,Site 735,,data.nex
-736,Site 736,,data.nex
-737,Site 737,,data.nex
-738,Site 738,,data.nex
-739,Site 739,,data.nex
-740,Site 740,,data.nex
-741,Site 741,,data.nex
-742,Site 742,,data.nex
-743,Site 743,,data.nex
-744,Site 744,,data.nex
-745,Site 745,,data.nex
-746,Site 746,,data.nex
-747,Site 747,,data.nex
-748,Site 748,,data.nex
-749,Site 749,,data.nex
-750,Site 750,,data.nex
-751,Site 751,,data.nex
-752,Site 752,,data.nex
-753,Site 753,,data.nex
-754,Site 754,,data.nex
-755,Site 755,,data.nex
-756,Site 756,,data.nex
-757,Site 757,,data.nex
-758,Site 758,,data.nex
-759,Site 759,,data.nex
-760,Site 760,,data.nex
-761,Site 761,,data.nex
-762,Site 762,,data.nex
-763,Site 763,,data.nex
-764,Site 764,,data.nex
-765,Site 765,,data.nex
-766,Site 766,,data.nex
-767,Site 767,,data.nex
-768,Site 768,,data.nex
-769,Site 769,,data.nex
-770,Site 770,,data.nex
-771,Site 771,,data.nex
-772,Site 772,,data.nex
-773,Site 773,,data.nex
-774,Site 774,,data.nex
-775,Site 775,,data.nex
-776,Site 776,,data.nex
-777,Site 777,,data.nex
-778,Site 778,,data.nex
-779,Site 779,,data.nex
-780,Site 780,,data.nex
-781,Site 781,,data.nex
-782,Site 782,,data.nex
-783,Site 783,,data.nex
-784,Site 784,,data.nex
-785,Site 785,,data.nex
-786,Site 786,,data.nex
-787,Site 787,,data.nex
-788,Site 788,,data.nex
-789,Site 789,,data.nex
-790,Site 790,,data.nex
-791,Site 791,,data.nex
-792,Site 792,,data.nex
-793,Site 793,,data.nex
-794,Site 794,,data.nex
-795,Site 795,,data.nex
-796,Site 796,,data.nex
-797,Site 797,,data.nex
-798,Site 798,,data.nex
-799,Site 799,,data.nex
-800,Site 800,,data.nex
-801,Site 801,,data.nex
-802,Site 802,,data.nex
-803,Site 803,,data.nex
-804,Site 804,,data.nex
-805,Site 805,,data.nex
-806,Site 806,,data.nex
-807,Site 807,,data.nex
-808,Site 808,,data.nex
-809,Site 809,,data.nex
-810,Site 810,,data.nex
-811,Site 811,,data.nex
-812,Site 812,,data.nex
-813,Site 813,,data.nex
-814,Site 814,,data.nex
-815,Site 815,,data.nex
-816,Site 816,,data.nex
-817,Site 817,,data.nex
-818,Site 818,,data.nex
-819,Site 819,,data.nex
-820,Site 820,,data.nex
-821,Site 821,,data.nex
-822,Site 822,,data.nex
-823,Site 823,,data.nex
-824,Site 824,,data.nex
-825,Site 825,,data.nex
-826,Site 826,,data.nex
-827,Site 827,,data.nex
-828,Site 828,,data.nex
-829,Site 829,,data.nex
-830,Site 830,,data.nex
-831,Site 831,,data.nex
-832,Site 832,,data.nex
-833,Site 833,,data.nex
-834,Site 834,,data.nex
-835,Site 835,,data.nex
-836,Site 836,,data.nex
-837,Site 837,,data.nex
-838,Site 838,,data.nex
-839,Site 839,,data.nex
-840,Site 840,,data.nex
-841,Site 841,,data.nex
-842,Site 842,,data.nex
-843,Site 843,,data.nex
-844,Site 844,,data.nex
-845,Site 845,,data.nex
-846,Site 846,,data.nex
-847,Site 847,,data.nex
-848,Site 848,,data.nex
-849,Site 849,,data.nex
-850,Site 850,,data.nex
-851,Site 851,,data.nex
-852,Site 852,,data.nex
-853,Site 853,,data.nex
-854,Site 854,,data.nex
-855,Site 855,,data.nex
-856,Site 856,,data.nex
-857,Site 857,,data.nex
-858,Site 858,,data.nex
-859,Site 859,,data.nex
-860,Site 860,,data.nex
-861,Site 861,,data.nex
-862,Site 862,,data.nex
-863,Site 863,,data.nex
-864,Site 864,,data.nex
-865,Site 865,,data.nex
-866,Site 866,,data.nex
-867,Site 867,,data.nex
-868,Site 868,,data.nex
-869,Site 869,,data.nex
-870,Site 870,,data.nex
-871,Site 871,,data.nex
-872,Site 872,,data.nex
-873,Site 873,,data.nex
-874,Site 874,,data.nex
-875,Site 875,,data.nex
-876,Site 876,,data.nex
-877,Site 877,,data.nex
-878,Site 878,,data.nex
-879,Site 879,,data.nex
-880,Site 880,,data.nex
-881,Site 881,,data.nex
-882,Site 882,,data.nex
-883,Site 883,,data.nex
-884,Site 884,,data.nex
-885,Site 885,,data.nex
-886,Site 886,,data.nex
-887,Site 887,,data.nex
-888,Site 888,,data.nex
-889,Site 889,,data.nex
-890,Site 890,,data.nex
-891,Site 891,,data.nex
-892,Site 892,,data.nex
-893,Site 893,,data.nex
-894,Site 894,,data.nex
-895,Site 895,,data.nex
-896,Site 896,,data.nex
-897,Site 897,,data.nex
-898,Site 898,,data.nex
-899,Site 899,,data.nex
-900,Site 900,,data.nex
-901,Site 901,,data.nex
-902,Site 902,,data.nex
-903,Site 903,,data.nex
-904,Site 904,,data.nex
-905,Site 905,,data.nex
-906,Site 906,,data.nex
-907,Site 907,,data.nex
-908,Site 908,,data.nex
-909,Site 909,,data.nex
-910,Site 910,,data.nex
-911,Site 911,,data.nex
-912,Site 912,,data.nex
-913,Site 913,,data.nex
-914,Site 914,,data.nex
-915,Site 915,,data.nex
-916,Site 916,,data.nex
-917,Site 917,,data.nex
-918,Site 918,,data.nex
-919,Site 919,,data.nex
-920,Site 920,,data.nex
-921,Site 921,,data.nex
-922,Site 922,,data.nex
-923,Site 923,,data.nex
-924,Site 924,,data.nex
-925,Site 925,,data.nex
-926,Site 926,,data.nex
-927,Site 927,,data.nex
-928,Site 928,,data.nex
-929,Site 929,,data.nex
-930,Site 930,,data.nex
-931,Site 931,,data.nex
-932,Site 932,,data.nex
-933,Site 933,,data.nex
-934,Site 934,,data.nex
-935,Site 935,,data.nex
-936,Site 936,,data.nex
-937,Site 937,,data.nex
-938,Site 938,,data.nex
-939,Site 939,,data.nex
-940,Site 940,,data.nex
-941,Site 941,,data.nex
-942,Site 942,,data.nex
-943,Site 943,,data.nex
-944,Site 944,,data.nex
-945,Site 945,,data.nex
-946,Site 946,,data.nex
-947,Site 947,,data.nex
-948,Site 948,,data.nex
-949,Site 949,,data.nex
-950,Site 950,,data.nex
-951,Site 951,,data.nex
-952,Site 952,,data.nex
-953,Site 953,,data.nex
-954,Site 954,,data.nex
-955,Site 955,,data.nex
-956,Site 956,,data.nex
-957,Site 957,,data.nex
-958,Site 958,,data.nex
-959,Site 959,,data.nex
-960,Site 960,,data.nex
-961,Site 961,,data.nex
-962,Site 962,,data.nex
-963,Site 963,,data.nex
-964,Site 964,,data.nex
-965,Site 965,,data.nex
-966,Site 966,,data.nex
-967,Site 967,,data.nex
-968,Site 968,,data.nex
-969,Site 969,,data.nex
-970,Site 970,,data.nex
-971,Site 971,,data.nex
-972,Site 972,,data.nex
-973,Site 973,,data.nex
-974,Site 974,,data.nex
-975,Site 975,,data.nex
-976,Site 976,,data.nex
-977,Site 977,,data.nex
-978,Site 978,,data.nex
-979,Site 979,,data.nex
-980,Site 980,,data.nex
-981,Site 981,,data.nex
-982,Site 982,,data.nex
-983,Site 983,,data.nex
-984,Site 984,,data.nex
-985,Site 985,,data.nex
-986,Site 986,,data.nex
-987,Site 987,,data.nex
-988,Site 988,,data.nex
-989,Site 989,,data.nex
-990,Site 990,,data.nex
-991,Site 991,,data.nex
-992,Site 992,,data.nex
-993,Site 993,,data.nex
-994,Site 994,,data.nex
-995,Site 995,,data.nex
-996,Site 996,,data.nex
-997,Site 997,,data.nex
-998,Site 998,,data.nex
-999,Site 999,,data.nex
-1000,Site 1000,,data.nex
-1001,Site 1001,,data.nex
-1002,Site 1002,,data.nex
-1003,Site 1003,,data.nex
-1004,Site 1004,,data.nex
-1005,Site 1005,,data.nex
-1006,Site 1006,,data.nex
-1007,Site 1007,,data.nex
-1008,Site 1008,,data.nex
-1009,Site 1009,,data.nex
-1010,Site 1010,,data.nex
-1011,Site 1011,,data.nex
-1012,Site 1012,,data.nex
-1013,Site 1013,,data.nex
-1014,Site 1014,,data.nex
-1015,Site 1015,,data.nex
-1016,Site 1016,,data.nex
-1017,Site 1017,,data.nex
-1018,Site 1018,,data.nex
-1019,Site 1019,,data.nex
-1020,Site 1020,,data.nex
-1021,Site 1021,,data.nex
-1022,Site 1022,,data.nex
-1023,Site 1023,,data.nex
-1024,Site 1024,,data.nex
-1025,Site 1025,,data.nex
-1026,Site 1026,,data.nex
-1027,Site 1027,,data.nex
-1028,Site 1028,,data.nex
-1029,Site 1029,,data.nex
-1030,Site 1030,,data.nex
-1031,Site 1031,,data.nex
-1032,Site 1032,,data.nex
-1033,Site 1033,,data.nex
-1034,Site 1034,,data.nex
-1035,Site 1035,,data.nex
-1036,Site 1036,,data.nex
-1037,Site 1037,,data.nex
-1038,Site 1038,,data.nex
-1039,Site 1039,,data.nex
-1040,Site 1040,,data.nex
-1041,Site 1041,,data.nex
-1042,Site 1042,,data.nex
-1043,Site 1043,,data.nex
-1044,Site 1044,,data.nex
-1045,Site 1045,,data.nex
-1046,Site 1046,,data.nex
-1047,Site 1047,,data.nex
-1048,Site 1048,,data.nex
-1049,Site 1049,,data.nex
-1050,Site 1050,,data.nex
-1051,Site 1051,,data.nex
-1052,Site 1052,,data.nex
-1053,Site 1053,,data.nex
-1054,Site 1054,,data.nex
-1055,Site 1055,,data.nex
-1056,Site 1056,,data.nex
-1057,Site 1057,,data.nex
-1058,Site 1058,,data.nex
-1059,Site 1059,,data.nex
-1060,Site 1060,,data.nex
-1061,Site 1061,,data.nex
-1062,Site 1062,,data.nex
-1063,Site 1063,,data.nex
-1064,Site 1064,,data.nex
-1065,Site 1065,,data.nex
-1066,Site 1066,,data.nex
-1067,Site 1067,,data.nex
-1068,Site 1068,,data.nex
-1069,Site 1069,,data.nex
-1070,Site 1070,,data.nex
-1071,Site 1071,,data.nex
-1072,Site 1072,,data.nex
-1073,Site 1073,,data.nex
-1074,Site 1074,,data.nex
-1075,Site 1075,,data.nex
-1076,Site 1076,,data.nex
-1077,Site 1077,,data.nex
-1078,Site 1078,,data.nex
-1079,Site 1079,,data.nex
-1080,Site 1080,,data.nex
-1081,Site 1081,,data.nex
-1082,Site 1082,,data.nex
-1083,Site 1083,,data.nex
-1084,Site 1084,,data.nex
-1085,Site 1085,,data.nex
-1086,Site 1086,,data.nex
-1087,Site 1087,,data.nex
-1088,Site 1088,,data.nex
-1089,Site 1089,,data.nex
-1090,Site 1090,,data.nex
-1091,Site 1091,,data.nex
-1092,Site 1092,,data.nex
-1093,Site 1093,,data.nex
-1094,Site 1094,,data.nex
-1095,Site 1095,,data.nex
-1096,Site 1096,,data.nex
-1097,Site 1097,,data.nex
-1098,Site 1098,,data.nex
-1099,Site 1099,,data.nex
-1100,Site 1100,,data.nex
-1101,Site 1101,,data.nex
-1102,Site 1102,,data.nex
-1103,Site 1103,,data.nex
-1104,Site 1104,,data.nex
-1105,Site 1105,,data.nex
-1106,Site 1106,,data.nex
-1107,Site 1107,,data.nex
-1108,Site 1108,,data.nex
-1109,Site 1109,,data.nex
-1110,Site 1110,,data.nex
-1111,Site 1111,,data.nex
-1112,Site 1112,,data.nex
-1113,Site 1113,,data.nex
-1114,Site 1114,,data.nex
-1115,Site 1115,,data.nex
-1116,Site 1116,,data.nex
-1117,Site 1117,,data.nex
-1118,Site 1118,,data.nex
-1119,Site 1119,,data.nex
-1120,Site 1120,,data.nex
-1121,Site 1121,,data.nex
-1122,Site 1122,,data.nex
-1123,Site 1123,,data.nex
-1124,Site 1124,,data.nex
-1125,Site 1125,,data.nex
-1126,Site 1126,,data.nex
-1127,Site 1127,,data.nex
-1128,Site 1128,,data.nex
-1129,Site 1129,,data.nex
-1130,Site 1130,,data.nex
-1131,Site 1131,,data.nex
-1132,Site 1132,,data.nex
-1133,Site 1133,,data.nex
-1134,Site 1134,,data.nex
-1135,Site 1135,,data.nex
-1136,Site 1136,,data.nex
-1137,Site 1137,,data.nex
-1138,Site 1138,,data.nex
-1139,Site 1139,,data.nex
-1140,Site 1140,,data.nex
-1141,Site 1141,,data.nex
-1142,Site 1142,,data.nex
-1143,Site 1143,,data.nex
-1144,Site 1144,,data.nex
-1145,Site 1145,,data.nex
-1146,Site 1146,,data.nex
-1147,Site 1147,,data.nex
-1148,Site 1148,,data.nex
-1149,Site 1149,,data.nex
-1150,Site 1150,,data.nex
-1151,Site 1151,,data.nex
-1152,Site 1152,,data.nex
-1153,Site 1153,,data.nex
-1154,Site 1154,,data.nex
-1155,Site 1155,,data.nex
-1156,Site 1156,,data.nex
-1157,Site 1157,,data.nex
-1158,Site 1158,,data.nex
-1159,Site 1159,,data.nex
-1160,Site 1160,,data.nex
-1161,Site 1161,,data.nex
-1162,Site 1162,,data.nex
-1163,Site 1163,,data.nex
-1164,Site 1164,,data.nex
-1165,Site 1165,,data.nex
-1166,Site 1166,,data.nex
-1167,Site 1167,,data.nex
-1168,Site 1168,,data.nex
-1169,Site 1169,,data.nex
-1170,Site 1170,,data.nex
-1171,Site 1171,,data.nex
-1172,Site 1172,,data.nex
-1173,Site 1173,,data.nex
-1174,Site 1174,,data.nex
-1175,Site 1175,,data.nex
-1176,Site 1176,,data.nex
-1177,Site 1177,,data.nex
-1178,Site 1178,,data.nex
-1179,Site 1179,,data.nex
-1180,Site 1180,,data.nex
-1181,Site 1181,,data.nex
-1182,Site 1182,,data.nex
-1183,Site 1183,,data.nex
-1184,Site 1184,,data.nex
-1185,Site 1185,,data.nex
-1186,Site 1186,,data.nex
-1187,Site 1187,,data.nex
-1188,Site 1188,,data.nex
-1189,Site 1189,,data.nex
-1190,Site 1190,,data.nex
-1191,Site 1191,,data.nex
-1192,Site 1192,,data.nex
-1193,Site 1193,,data.nex
-1194,Site 1194,,data.nex
-1195,Site 1195,,data.nex
-1196,Site 1196,,data.nex
-1197,Site 1197,,data.nex
-1198,Site 1198,,data.nex
-1199,Site 1199,,data.nex
-1200,Site 1200,,data.nex
-1201,Site 1201,,data.nex
-1202,Site 1202,,data.nex
-1203,Site 1203,,data.nex
-1204,Site 1204,,data.nex
-1205,Site 1205,,data.nex
-1206,Site 1206,,data.nex
-1207,Site 1207,,data.nex
-1208,Site 1208,,data.nex
-1209,Site 1209,,data.nex
-1210,Site 1210,,data.nex
-1211,Site 1211,,data.nex
-1212,Site 1212,,data.nex
-1213,Site 1213,,data.nex
-1214,Site 1214,,data.nex
-1215,Site 1215,,data.nex
-1216,Site 1216,,data.nex
-1217,Site 1217,,data.nex
-1218,Site 1218,,data.nex
-1219,Site 1219,,data.nex
-1220,Site 1220,,data.nex
-1221,Site 1221,,data.nex
-1222,Site 1222,,data.nex
-1223,Site 1223,,data.nex
-1224,Site 1224,,data.nex
-1225,Site 1225,,data.nex
-1226,Site 1226,,data.nex
-1227,Site 1227,,data.nex
-1228,Site 1228,,data.nex
-1229,Site 1229,,data.nex
-1230,Site 1230,,data.nex
-1231,Site 1231,,data.nex
-1232,Site 1232,,data.nex
-1233,Site 1233,,data.nex
-1234,Site 1234,,data.nex
-1235,Site 1235,,data.nex
-1236,Site 1236,,data.nex
-1237,Site 1237,,data.nex
-1238,Site 1238,,data.nex
-1239,Site 1239,,data.nex
-1240,Site 1240,,data.nex
-1241,Site 1241,,data.nex
-1242,Site 1242,,data.nex
-1243,Site 1243,,data.nex
-1244,Site 1244,,data.nex
-1245,Site 1245,,data.nex
-1246,Site 1246,,data.nex
-1247,Site 1247,,data.nex
-1248,Site 1248,,data.nex
-1249,Site 1249,,data.nex
-1250,Site 1250,,data.nex
-1251,Site 1251,,data.nex
-1252,Site 1252,,data.nex
-1253,Site 1253,,data.nex
-1254,Site 1254,,data.nex
-1255,Site 1255,,data.nex
-1256,Site 1256,,data.nex
-1257,Site 1257,,data.nex
-1258,Site 1258,,data.nex
-1259,Site 1259,,data.nex
-1260,Site 1260,,data.nex
-1261,Site 1261,,data.nex
-1262,Site 1262,,data.nex
-1263,Site 1263,,data.nex
-1264,Site 1264,,data.nex
-1265,Site 1265,,data.nex
-1266,Site 1266,,data.nex
-1267,Site 1267,,data.nex
-1268,Site 1268,,data.nex
-1269,Site 1269,,data.nex
-1270,Site 1270,,data.nex
-1271,Site 1271,,data.nex
-1272,Site 1272,,data.nex
-1273,Site 1273,,data.nex
-1274,Site 1274,,data.nex
-1275,Site 1275,,data.nex
-1276,Site 1276,,data.nex
-1277,Site 1277,,data.nex
-1278,Site 1278,,data.nex
-1279,Site 1279,,data.nex
-1280,Site 1280,,data.nex
-1281,Site 1281,,data.nex
-1282,Site 1282,,data.nex
-1283,Site 1283,,data.nex
-1284,Site 1284,,data.nex
-1285,Site 1285,,data.nex
-1286,Site 1286,,data.nex
-1287,Site 1287,,data.nex
-1288,Site 1288,,data.nex
-1289,Site 1289,,data.nex
-1290,Site 1290,,data.nex
-1291,Site 1291,,data.nex
-1292,Site 1292,,data.nex
-1293,Site 1293,,data.nex
-1294,Site 1294,,data.nex
-1295,Site 1295,,data.nex
-1296,Site 1296,,data.nex
-1297,Site 1297,,data.nex
-1298,Site 1298,,data.nex
-1299,Site 1299,,data.nex
-1300,Site 1300,,data.nex
-1301,Site 1301,,data.nex
-1302,Site 1302,,data.nex
-1303,Site 1303,,data.nex
-1304,Site 1304,,data.nex
-1305,Site 1305,,data.nex
-1306,Site 1306,,data.nex
-1307,Site 1307,,data.nex
-1308,Site 1308,,data.nex
-1309,Site 1309,,data.nex
-1310,Site 1310,,data.nex
-1311,Site 1311,,data.nex
-1312,Site 1312,,data.nex
-1313,Site 1313,,data.nex
-1314,Site 1314,,data.nex
-1315,Site 1315,,data.nex
-1316,Site 1316,,data.nex
-1317,Site 1317,,data.nex
-1318,Site 1318,,data.nex
-1319,Site 1319,,data.nex
-1320,Site 1320,,data.nex
-1321,Site 1321,,data.nex
-1322,Site 1322,,data.nex
-1323,Site 1323,,data.nex
-1324,Site 1324,,data.nex
-1325,Site 1325,,data.nex
-1326,Site 1326,,data.nex
-1327,Site 1327,,data.nex
-1328,Site 1328,,data.nex
-1329,Site 1329,,data.nex
-1330,Site 1330,,data.nex
-1331,Site 1331,,data.nex
-1332,Site 1332,,data.nex
-1333,Site 1333,,data.nex
-1334,Site 1334,,data.nex
-1335,Site 1335,,data.nex
-1336,Site 1336,,data.nex
-1337,Site 1337,,data.nex
-1338,Site 1338,,data.nex
-1339,Site 1339,,data.nex
-1340,Site 1340,,data.nex
-1341,Site 1341,,data.nex
-1342,Site 1342,,data.nex
-1343,Site 1343,,data.nex
-1344,Site 1344,,data.nex
-1345,Site 1345,,data.nex
-1346,Site 1346,,data.nex
-1347,Site 1347,,data.nex
-1348,Site 1348,,data.nex
-1349,Site 1349,,data.nex
-1350,Site 1350,,data.nex
-1351,Site 1351,,data.nex
-1352,Site 1352,,data.nex
-1353,Site 1353,,data.nex
-1354,Site 1354,,data.nex
-1355,Site 1355,,data.nex
-1356,Site 1356,,data.nex
-1357,Site 1357,,data.nex
-1358,Site 1358,,data.nex
-1359,Site 1359,,data.nex
-1360,Site 1360,,data.nex
-1361,Site 1361,,data.nex
-1362,Site 1362,,data.nex
-1363,Site 1363,,data.nex
-1364,Site 1364,,data.nex
-1365,Site 1365,,data.nex
-1366,Site 1366,,data.nex
-1367,Site 1367,,data.nex
-1368,Site 1368,,data.nex
-1369,Site 1369,,data.nex
-1370,Site 1370,,data.nex
-1371,Site 1371,,data.nex
-1372,Site 1372,,data.nex
-1373,Site 1373,,data.nex
-1374,Site 1374,,data.nex
-1375,Site 1375,,data.nex
-1376,Site 1376,,data.nex
-1377,Site 1377,,data.nex
-1378,Site 1378,,data.nex
-1379,Site 1379,,data.nex
-1380,Site 1380,,data.nex
-1381,Site 1381,,data.nex
-1382,Site 1382,,data.nex
-1383,Site 1383,,data.nex
-1384,Site 1384,,data.nex
-1385,Site 1385,,data.nex
-1386,Site 1386,,data.nex
-1387,Site 1387,,data.nex
-1388,Site 1388,,data.nex
-1389,Site 1389,,data.nex
-1390,Site 1390,,data.nex
-1391,Site 1391,,data.nex
-1392,Site 1392,,data.nex
-1393,Site 1393,,data.nex
-1394,Site 1394,,data.nex
-1395,Site 1395,,data.nex
-1396,Site 1396,,data.nex
-1397,Site 1397,,data.nex
-1398,Site 1398,,data.nex
-1399,Site 1399,,data.nex
-1400,Site 1400,,data.nex
-1401,Site 1401,,data.nex
-1402,Site 1402,,data.nex
-1403,Site 1403,,data.nex
-1404,Site 1404,,data.nex
-1405,Site 1405,,data.nex
-1406,Site 1406,,data.nex
-1407,Site 1407,,data.nex
-1408,Site 1408,,data.nex
-1409,Site 1409,,data.nex
-1410,Site 1410,,data.nex
-1411,Site 1411,,data.nex
-1412,Site 1412,,data.nex
-1413,Site 1413,,data.nex
-1414,Site 1414,,data.nex
-1415,Site 1415,,data.nex
-1416,Site 1416,,data.nex
-1417,Site 1417,,data.nex
-1418,Site 1418,,data.nex
-1419,Site 1419,,data.nex
-1420,Site 1420,,data.nex
-1421,Site 1421,,data.nex
-1422,Site 1422,,data.nex
-1423,Site 1423,,data.nex
-1424,Site 1424,,data.nex
-1425,Site 1425,,data.nex
-1426,Site 1426,,data.nex
-1427,Site 1427,,data.nex
-1428,Site 1428,,data.nex
-1429,Site 1429,,data.nex
-1430,Site 1430,,data.nex
-1431,Site 1431,,data.nex
-1432,Site 1432,,data.nex
-1433,Site 1433,,data.nex
-1434,Site 1434,,data.nex
-1435,Site 1435,,data.nex
-1436,Site 1436,,data.nex
-1437,Site 1437,,data.nex
-1438,Site 1438,,data.nex
-1439,Site 1439,,data.nex
-1440,Site 1440,,data.nex
-1441,Site 1441,,data.nex
-1442,Site 1442,,data.nex
-1443,Site 1443,,data.nex
-1444,Site 1444,,data.nex
-1445,Site 1445,,data.nex
-1446,Site 1446,,data.nex
-1447,Site 1447,,data.nex
-1448,Site 1448,,data.nex
-1449,Site 1449,,data.nex
-1450,Site 1450,,data.nex
-1451,Site 1451,,data.nex
-1452,Site 1452,,data.nex
-1453,Site 1453,,data.nex
-1454,Site 1454,,data.nex
-1455,Site 1455,,data.nex
-1456,Site 1456,,data.nex
-1457,Site 1457,,data.nex
-1458,Site 1458,,data.nex
-1459,Site 1459,,data.nex
-1460,Site 1460,,data.nex
-1461,Site 1461,,data.nex
-1462,Site 1462,,data.nex
-1463,Site 1463,,data.nex
-1464,Site 1464,,data.nex
-1465,Site 1465,,data.nex
-1466,Site 1466,,data.nex
-1467,Site 1467,,data.nex
-1468,Site 1468,,data.nex
-1469,Site 1469,,data.nex
-1470,Site 1470,,data.nex
-1471,Site 1471,,data.nex
-1472,Site 1472,,data.nex
-1473,Site 1473,,data.nex
-1474,Site 1474,,data.nex
-1475,Site 1475,,data.nex
-1476,Site 1476,,data.nex
-1477,Site 1477,,data.nex
-1478,Site 1478,,data.nex
-1479,Site 1479,,data.nex
-1480,Site 1480,,data.nex
-1481,Site 1481,,data.nex
-1482,Site 1482,,data.nex
-1483,Site 1483,,data.nex
-1484,Site 1484,,data.nex
-1485,Site 1485,,data.nex
-1486,Site 1486,,data.nex
-1487,Site 1487,,data.nex
-1488,Site 1488,,data.nex
-1489,Site 1489,,data.nex
-1490,Site 1490,,data.nex
-1491,Site 1491,,data.nex
-1492,Site 1492,,data.nex
-1493,Site 1493,,data.nex
-1494,Site 1494,,data.nex
-1495,Site 1495,,data.nex
-1496,Site 1496,,data.nex
-1497,Site 1497,,data.nex
-1498,Site 1498,,data.nex
-1499,Site 1499,,data.nex
-1500,Site 1500,,data.nex
-1501,Site 1501,,data.nex
-1502,Site 1502,,data.nex
-1503,Site 1503,,data.nex
-1504,Site 1504,,data.nex
-1505,Site 1505,,data.nex
-1506,Site 1506,,data.nex
-1507,Site 1507,,data.nex
-1508,Site 1508,,data.nex
-1509,Site 1509,,data.nex
-1510,Site 1510,,data.nex
-1511,Site 1511,,data.nex
-1512,Site 1512,,data.nex
-1513,Site 1513,,data.nex
-1514,Site 1514,,data.nex
-1515,Site 1515,,data.nex
-1516,Site 1516,,data.nex
-1517,Site 1517,,data.nex
-1518,Site 1518,,data.nex
-1519,Site 1519,,data.nex
-1520,Site 1520,,data.nex
-1521,Site 1521,,data.nex
-1522,Site 1522,,data.nex
-1523,Site 1523,,data.nex
-1524,Site 1524,,data.nex
-1525,Site 1525,,data.nex
-1526,Site 1526,,data.nex
-1527,Site 1527,,data.nex
-1528,Site 1528,,data.nex
-1529,Site 1529,,data.nex
-1530,Site 1530,,data.nex
-1531,Site 1531,,data.nex
-1532,Site 1532,,data.nex
-1533,Site 1533,,data.nex
-1534,Site 1534,,data.nex
-1535,Site 1535,,data.nex
-1536,Site 1536,,data.nex
-1537,Site 1537,,data.nex
-1538,Site 1538,,data.nex
-1539,Site 1539,,data.nex
-1540,Site 1540,,data.nex
-1541,Site 1541,,data.nex
-1542,Site 1542,,data.nex
-1543,Site 1543,,data.nex
-1544,Site 1544,,data.nex
-1545,Site 1545,,data.nex
-1546,Site 1546,,data.nex
-1547,Site 1547,,data.nex
-1548,Site 1548,,data.nex
-1549,Site 1549,,data.nex
-1550,Site 1550,,data.nex
-1551,Site 1551,,data.nex
-1552,Site 1552,,data.nex
-1553,Site 1553,,data.nex
-1554,Site 1554,,data.nex
-1555,Site 1555,,data.nex
-1556,Site 1556,,data.nex
-1557,Site 1557,,data.nex
-1558,Site 1558,,data.nex
-1559,Site 1559,,data.nex
-1560,Site 1560,,data.nex
-1561,Site 1561,,data.nex
-1562,Site 1562,,data.nex
-1563,Site 1563,,data.nex
-1564,Site 1564,,data.nex
-1565,Site 1565,,data.nex
-1566,Site 1566,,data.nex
-1567,Site 1567,,data.nex
-1568,Site 1568,,data.nex
-1569,Site 1569,,data.nex
-1570,Site 1570,,data.nex
-1571,Site 1571,,data.nex
-1572,Site 1572,,data.nex
-1573,Site 1573,,data.nex
-1574,Site 1574,,data.nex
-1575,Site 1575,,data.nex
-1576,Site 1576,,data.nex
-1577,Site 1577,,data.nex
-1578,Site 1578,,data.nex
-1579,Site 1579,,data.nex
-1580,Site 1580,,data.nex
-1581,Site 1581,,data.nex
-1582,Site 1582,,data.nex
-1583,Site 1583,,data.nex
-1584,Site 1584,,data.nex
-1585,Site 1585,,data.nex
-1586,Site 1586,,data.nex
-1587,Site 1587,,data.nex
-1588,Site 1588,,data.nex
-1589,Site 1589,,data.nex
-1590,Site 1590,,data.nex
-1591,Site 1591,,data.nex
-1592,Site 1592,,data.nex
-1593,Site 1593,,data.nex
-1594,Site 1594,,data.nex
-1595,Site 1595,,data.nex
-1596,Site 1596,,data.nex
-1597,Site 1597,,data.nex
-1598,Site 1598,,data.nex
-1599,Site 1599,,data.nex
-1600,Site 1600,,data.nex
-1601,Site 1601,,data.nex
-1602,Site 1602,,data.nex
-1603,Site 1603,,data.nex
-1604,Site 1604,,data.nex
-1605,Site 1605,,data.nex
-1606,Site 1606,,data.nex
-1607,Site 1607,,data.nex
-1608,Site 1608,,data.nex
-1609,Site 1609,,data.nex
-1610,Site 1610,,data.nex
-1611,Site 1611,,data.nex
-1612,Site 1612,,data.nex
-1613,Site 1613,,data.nex
-1614,Site 1614,,data.nex
-1615,Site 1615,,data.nex
-1616,Site 1616,,data.nex
-1617,Site 1617,,data.nex
-1618,Site 1618,,data.nex
-1619,Site 1619,,data.nex
-1620,Site 1620,,data.nex
-1621,Site 1621,,data.nex
-1622,Site 1622,,data.nex
-1623,Site 1623,,data.nex
-1624,Site 1624,,data.nex
-1625,Site 1625,,data.nex
-1626,Site 1626,,data.nex
-1627,Site 1627,,data.nex
-1628,Site 1628,,data.nex
-1629,Site 1629,,data.nex
-1630,Site 1630,,data.nex
-1631,Site 1631,,data.nex
-1632,Site 1632,,data.nex
-1633,Site 1633,,data.nex
-1634,Site 1634,,data.nex
-1635,Site 1635,,data.nex
-1636,Site 1636,,data.nex
-1637,Site 1637,,data.nex
-1638,Site 1638,,data.nex
-1639,Site 1639,,data.nex
-1640,Site 1640,,data.nex
-1641,Site 1641,,data.nex
-1642,Site 1642,,data.nex
-1643,Site 1643,,data.nex
-1644,Site 1644,,data.nex
-1645,Site 1645,,data.nex
-1646,Site 1646,,data.nex
-1647,Site 1647,,data.nex
-1648,Site 1648,,data.nex
-1649,Site 1649,,data.nex
-1650,Site 1650,,data.nex
-1651,Site 1651,,data.nex
-1652,Site 1652,,data.nex
-1653,Site 1653,,data.nex
-1654,Site 1654,,data.nex
-1655,Site 1655,,data.nex
-1656,Site 1656,,data.nex
-1657,Site 1657,,data.nex
-1658,Site 1658,,data.nex
-1659,Site 1659,,data.nex
-1660,Site 1660,,data.nex
-1661,Site 1661,,data.nex
-1662,Site 1662,,data.nex
-1663,Site 1663,,data.nex
-1664,Site 1664,,data.nex
-1665,Site 1665,,data.nex
-1666,Site 1666,,data.nex
-1667,Site 1667,,data.nex
-1668,Site 1668,,data.nex
-1669,Site 1669,,data.nex
-1670,Site 1670,,data.nex
-1671,Site 1671,,data.nex
-1672,Site 1672,,data.nex
-1673,Site 1673,,data.nex
-1674,Site 1674,,data.nex
-1675,Site 1675,,data.nex
-1676,Site 1676,,data.nex
-1677,Site 1677,,data.nex
-1678,Site 1678,,data.nex
-1679,Site 1679,,data.nex
-1680,Site 1680,,data.nex
-1681,Site 1681,,data.nex
-1682,Site 1682,,data.nex
-1683,Site 1683,,data.nex
-1684,Site 1684,,data.nex
-1685,Site 1685,,data.nex
-1686,Site 1686,,data.nex
-1687,Site 1687,,data.nex
-1688,Site 1688,,data.nex
-1689,Site 1689,,data.nex
-1690,Site 1690,,data.nex
-1691,Site 1691,,data.nex
-1692,Site 1692,,data.nex
-1693,Site 1693,,data.nex
-1694,Site 1694,,data.nex
-1695,Site 1695,,data.nex
-1696,Site 1696,,data.nex
-1697,Site 1697,,data.nex
-1698,Site 1698,,data.nex
-1699,Site 1699,,data.nex
-1700,Site 1700,,data.nex
-1701,Site 1701,,data.nex
-1702,Site 1702,,data.nex
-1703,Site 1703,,data.nex
-1704,Site 1704,,data.nex
-1705,Site 1705,,data.nex
-1706,Site 1706,,data.nex
-1707,Site 1707,,data.nex
-1708,Site 1708,,data.nex
-1709,Site 1709,,data.nex
-1710,Site 1710,,data.nex
-1711,Site 1711,,data.nex
-1712,Site 1712,,data.nex
-1713,Site 1713,,data.nex
-1714,Site 1714,,data.nex
-1715,Site 1715,,data.nex
-1716,Site 1716,,data.nex
-1717,Site 1717,,data.nex
-1718,Site 1718,,data.nex
-1719,Site 1719,,data.nex
-1720,Site 1720,,data.nex
-1721,Site 1721,,data.nex
-1722,Site 1722,,data.nex
-1723,Site 1723,,data.nex
-1724,Site 1724,,data.nex
-1725,Site 1725,,data.nex
-1726,Site 1726,,data.nex
-1727,Site 1727,,data.nex
-1728,Site 1728,,data.nex
-1729,Site 1729,,data.nex
-1730,Site 1730,,data.nex
-1731,Site 1731,,data.nex
-1732,Site 1732,,data.nex
-1733,Site 1733,,data.nex
-1734,Site 1734,,data.nex
-1735,Site 1735,,data.nex
-1736,Site 1736,,data.nex
-1737,Site 1737,,data.nex
-1738,Site 1738,,data.nex
-1739,Site 1739,,data.nex
-1740,Site 1740,,data.nex
-1741,Site 1741,,data.nex
-1742,Site 1742,,data.nex
-1743,Site 1743,,data.nex
-1744,Site 1744,,data.nex
-1745,Site 1745,,data.nex
-1746,Site 1746,,data.nex
-1747,Site 1747,,data.nex
-1748,Site 1748,,data.nex
-1749,Site 1749,,data.nex
-1750,Site 1750,,data.nex
-1751,Site 1751,,data.nex
-1752,Site 1752,,data.nex
-1753,Site 1753,,data.nex
-1754,Site 1754,,data.nex
-1755,Site 1755,,data.nex
-1756,Site 1756,,data.nex
-1757,Site 1757,,data.nex
-1758,Site 1758,,data.nex
-1759,Site 1759,,data.nex
-1760,Site 1760,,data.nex
-1761,Site 1761,,data.nex
-1762,Site 1762,,data.nex
-1763,Site 1763,,data.nex
-1764,Site 1764,,data.nex
-1765,Site 1765,,data.nex
-1766,Site 1766,,data.nex
-1767,Site 1767,,data.nex
-1768,Site 1768,,data.nex
-1769,Site 1769,,data.nex
-1770,Site 1770,,data.nex
-1771,Site 1771,,data.nex
-1772,Site 1772,,data.nex
-1773,Site 1773,,data.nex
-1774,Site 1774,,data.nex
-1775,Site 1775,,data.nex
-1776,Site 1776,,data.nex
-1777,Site 1777,,data.nex
-1778,Site 1778,,data.nex
-1779,Site 1779,,data.nex
-1780,Site 1780,,data.nex
-1781,Site 1781,,data.nex
-1782,Site 1782,,data.nex
-1783,Site 1783,,data.nex
-1784,Site 1784,,data.nex
-1785,Site 1785,,data.nex
-1786,Site 1786,,data.nex
-1787,Site 1787,,data.nex
-1788,Site 1788,,data.nex
-1789,Site 1789,,data.nex
-1790,Site 1790,,data.nex
-1791,Site 1791,,data.nex
-1792,Site 1792,,data.nex
-1793,Site 1793,,data.nex
-1794,Site 1794,,data.nex
-1795,Site 1795,,data.nex
-1796,Site 1796,,data.nex
-1797,Site 1797,,data.nex
-1798,Site 1798,,data.nex
-1799,Site 1799,,data.nex
-1800,Site 1800,,data.nex
-1801,Site 1801,,data.nex
-1802,Site 1802,,data.nex
-1803,Site 1803,,data.nex
-1804,Site 1804,,data.nex
-1805,Site 1805,,data.nex
-1806,Site 1806,,data.nex
-1807,Site 1807,,data.nex
-1808,Site 1808,,data.nex
-1809,Site 1809,,data.nex
-1810,Site 1810,,data.nex
-1811,Site 1811,,data.nex
-1812,Site 1812,,data.nex
-1813,Site 1813,,data.nex
-1814,Site 1814,,data.nex
-1815,Site 1815,,data.nex
-1816,Site 1816,,data.nex
-1817,Site 1817,,data.nex
-1818,Site 1818,,data.nex
-1819,Site 1819,,data.nex
-1820,Site 1820,,data.nex
-1821,Site 1821,,data.nex
-1822,Site 1822,,data.nex
-1823,Site 1823,,data.nex
-1824,Site 1824,,data.nex
-1825,Site 1825,,data.nex
-1826,Site 1826,,data.nex
-1827,Site 1827,,data.nex
-1828,Site 1828,,data.nex
-1829,Site 1829,,data.nex
-1830,Site 1830,,data.nex
-1831,Site 1831,,data.nex
-1832,Site 1832,,data.nex
-1833,Site 1833,,data.nex
-1834,Site 1834,,data.nex
-1835,Site 1835,,data.nex
-1836,Site 1836,,data.nex
-1837,Site 1837,,data.nex
-1838,Site 1838,,data.nex
-1839,Site 1839,,data.nex
-1840,Site 1840,,data.nex
-1841,Site 1841,,data.nex
-1842,Site 1842,,data.nex
-1843,Site 1843,,data.nex
-1844,Site 1844,,data.nex
-1845,Site 1845,,data.nex
-1846,Site 1846,,data.nex
-1847,Site 1847,,data.nex
-1848,Site 1848,,data.nex
-1849,Site 1849,,data.nex
-1850,Site 1850,,data.nex
-1851,Site 1851,,data.nex
-1852,Site 1852,,data.nex
-1853,Site 1853,,data.nex
-1854,Site 1854,,data.nex
-1855,Site 1855,,data.nex
-1856,Site 1856,,data.nex
-1857,Site 1857,,data.nex
-1858,Site 1858,,data.nex
-1859,Site 1859,,data.nex
-1860,Site 1860,,data.nex
-1861,Site 1861,,data.nex
-1862,Site 1862,,data.nex
-1863,Site 1863,,data.nex
-1864,Site 1864,,data.nex
-1865,Site 1865,,data.nex
-1866,Site 1866,,data.nex
-1867,Site 1867,,data.nex
-1868,Site 1868,,data.nex
-1869,Site 1869,,data.nex
-1870,Site 1870,,data.nex
-1871,Site 1871,,data.nex
-1872,Site 1872,,data.nex
-1873,Site 1873,,data.nex
-1874,Site 1874,,data.nex
-1875,Site 1875,,data.nex
-1876,Site 1876,,data.nex
-1877,Site 1877,,data.nex
-1878,Site 1878,,data.nex
-1879,Site 1879,,data.nex
-1880,Site 1880,,data.nex
-1881,Site 1881,,data.nex
-1882,Site 1882,,data.nex
-1883,Site 1883,,data.nex
-1884,Site 1884,,data.nex
-1885,Site 1885,,data.nex
-1886,Site 1886,,data.nex
-1887,Site 1887,,data.nex
-1888,Site 1888,,data.nex
-1889,Site 1889,,data.nex
-1890,Site 1890,,data.nex
-1891,Site 1891,,data.nex
-1892,Site 1892,,data.nex
-1893,Site 1893,,data.nex
-1894,Site 1894,,data.nex
-1895,Site 1895,,data.nex
-1896,Site 1896,,data.nex
-1897,Site 1897,,data.nex
-1898,Site 1898,,data.nex
-1899,Site 1899,,data.nex
-1900,Site 1900,,data.nex
-1901,Site 1901,,data.nex
-1902,Site 1902,,data.nex
-1903,Site 1903,,data.nex
-1904,Site 1904,,data.nex
-1905,Site 1905,,data.nex
-1906,Site 1906,,data.nex
-1907,Site 1907,,data.nex
-1908,Site 1908,,data.nex
-1909,Site 1909,,data.nex
-1910,Site 1910,,data.nex
-1911,Site 1911,,data.nex
-1912,Site 1912,,data.nex
-1913,Site 1913,,data.nex
-1914,Site 1914,,data.nex
-1915,Site 1915,,data.nex
-1916,Site 1916,,data.nex
-1917,Site 1917,,data.nex
-1918,Site 1918,,data.nex
-1919,Site 1919,,data.nex
-1920,Site 1920,,data.nex
-1921,Site 1921,,data.nex
-1922,Site 1922,,data.nex
-1923,Site 1923,,data.nex
-1924,Site 1924,,data.nex
-1925,Site 1925,,data.nex
-1926,Site 1926,,data.nex
-1927,Site 1927,,data.nex
-1928,Site 1928,,data.nex
-1929,Site 1929,,data.nex
-1930,Site 1930,,data.nex
-1931,Site 1931,,data.nex
-1932,Site 1932,,data.nex
-1933,Site 1933,,data.nex
-1934,Site 1934,,data.nex
-1935,Site 1935,,data.nex
-1936,Site 1936,,data.nex
-1937,Site 1937,,data.nex
-1938,Site 1938,,data.nex
-1939,Site 1939,,data.nex
-1940,Site 1940,,data.nex
-1941,Site 1941,,data.nex
-1942,Site 1942,,data.nex
-1943,Site 1943,,data.nex
-1944,Site 1944,,data.nex
-1945,Site 1945,,data.nex
-1946,Site 1946,,data.nex
-1947,Site 1947,,data.nex
-1948,Site 1948,,data.nex
-1949,Site 1949,,data.nex
-1950,Site 1950,,data.nex
-1951,Site 1951,,data.nex
-1952,Site 1952,,data.nex
-1953,Site 1953,,data.nex
-1954,Site 1954,,data.nex
-1955,Site 1955,,data.nex
-1956,Site 1956,,data.nex
-1957,Site 1957,,data.nex
-1958,Site 1958,,data.nex
-1959,Site 1959,,data.nex
-1960,Site 1960,,data.nex
-1961,Site 1961,,data.nex
-1962,Site 1962,,data.nex
-1963,Site 1963,,data.nex
-1964,Site 1964,,data.nex
-1965,Site 1965,,data.nex
-1966,Site 1966,,data.nex
-1967,Site 1967,,data.nex
-1968,Site 1968,,data.nex
-1969,Site 1969,,data.nex
-1970,Site 1970,,data.nex
-1971,Site 1971,,data.nex
-1972,Site 1972,,data.nex
-1973,Site 1973,,data.nex
-1974,Site 1974,,data.nex
-1975,Site 1975,,data.nex
-1976,Site 1976,,data.nex
-1977,Site 1977,,data.nex
-1978,Site 1978,,data.nex
-1979,Site 1979,,data.nex
-1980,Site 1980,,data.nex
-1981,Site 1981,,data.nex
-1982,Site 1982,,data.nex
-1983,Site 1983,,data.nex
-1984,Site 1984,,data.nex
-1985,Site 1985,,data.nex
-1986,Site 1986,,data.nex
-1987,Site 1987,,data.nex
-1988,Site 1988,,data.nex
-1989,Site 1989,,data.nex
-1990,Site 1990,,data.nex
-1991,Site 1991,,data.nex
-1992,Site 1992,,data.nex
-1993,Site 1993,,data.nex
-1994,Site 1994,,data.nex
-1995,Site 1995,,data.nex
-1996,Site 1996,,data.nex
-1997,Site 1997,,data.nex
-1998,Site 1998,,data.nex
-1999,Site 1999,,data.nex
-2000,Site 2000,,data.nex
-2001,Site 2001,,data.nex
-2002,Site 2002,,data.nex
-2003,Site 2003,,data.nex
-2004,Site 2004,,data.nex
-2005,Site 2005,,data.nex
-2006,Site 2006,,data.nex
-2007,Site 2007,,data.nex
-2008,Site 2008,,data.nex
-2009,Site 2009,,data.nex
-2010,Site 2010,,data.nex
-2011,Site 2011,,data.nex
-2012,Site 2012,,data.nex
-2013,Site 2013,,data.nex
-2014,Site 2014,,data.nex
-2015,Site 2015,,data.nex
-2016,Site 2016,,data.nex
-2017,Site 2017,,data.nex
-2018,Site 2018,,data.nex
-2019,Site 2019,,data.nex
-2020,Site 2020,,data.nex
-2021,Site 2021,,data.nex
-2022,Site 2022,,data.nex
-2023,Site 2023,,data.nex
-2024,Site 2024,,data.nex
-2025,Site 2025,,data.nex
-2026,Site 2026,,data.nex
-2027,Site 2027,,data.nex
-2028,Site 2028,,data.nex
-2029,Site 2029,,data.nex
-2030,Site 2030,,data.nex
-2031,Site 2031,,data.nex
-2032,Site 2032,,data.nex
-2033,Site 2033,,data.nex
-2034,Site 2034,,data.nex
-2035,Site 2035,,data.nex
-2036,Site 2036,,data.nex
-2037,Site 2037,,data.nex
-2038,Site 2038,,data.nex
-2039,Site 2039,,data.nex
-2040,Site 2040,,data.nex
-2041,Site 2041,,data.nex
-2042,Site 2042,,data.nex
-2043,Site 2043,,data.nex
-2044,Site 2044,,data.nex
-2045,Site 2045,,data.nex
-2046,Site 2046,,data.nex
-2047,Site 2047,,data.nex
-2048,Site 2048,,data.nex
-2049,Site 2049,,data.nex
-2050,Site 2050,,data.nex
-2051,Site 2051,,data.nex
-2052,Site 2052,,data.nex
-2053,Site 2053,,data.nex
-2054,Site 2054,,data.nex
-2055,Site 2055,,data.nex
-2056,Site 2056,,data.nex
-2057,Site 2057,,data.nex
-2058,Site 2058,,data.nex
-2059,Site 2059,,data.nex
-2060,Site 2060,,data.nex
-2061,Site 2061,,data.nex
-2062,Site 2062,,data.nex
-2063,Site 2063,,data.nex
-2064,Site 2064,,data.nex
-2065,Site 2065,,data.nex
-2066,Site 2066,,data.nex
-2067,Site 2067,,data.nex
-2068,Site 2068,,data.nex
-2069,Site 2069,,data.nex
-2070,Site 2070,,data.nex
-2071,Site 2071,,data.nex
-2072,Site 2072,,data.nex
-2073,Site 2073,,data.nex
-2074,Site 2074,,data.nex
-2075,Site 2075,,data.nex
-2076,Site 2076,,data.nex
-2077,Site 2077,,data.nex
-2078,Site 2078,,data.nex
-2079,Site 2079,,data.nex
-2080,Site 2080,,data.nex
-2081,Site 2081,,data.nex
-2082,Site 2082,,data.nex
-2083,Site 2083,,data.nex
-2084,Site 2084,,data.nex
-2085,Site 2085,,data.nex
-2086,Site 2086,,data.nex
-2087,Site 2087,,data.nex
-2088,Site 2088,,data.nex
-2089,Site 2089,,data.nex
-2090,Site 2090,,data.nex
-2091,Site 2091,,data.nex
-2092,Site 2092,,data.nex
-2093,Site 2093,,data.nex
-2094,Site 2094,,data.nex
-2095,Site 2095,,data.nex
-2096,Site 2096,,data.nex
-2097,Site 2097,,data.nex
-2098,Site 2098,,data.nex
-2099,Site 2099,,data.nex
-2100,Site 2100,,data.nex
-2101,Site 2101,,data.nex
-2102,Site 2102,,data.nex
-2103,Site 2103,,data.nex
-2104,Site 2104,,data.nex
-2105,Site 2105,,data.nex
-2106,Site 2106,,data.nex
-2107,Site 2107,,data.nex
-2108,Site 2108,,data.nex
-2109,Site 2109,,data.nex
-2110,Site 2110,,data.nex
-2111,Site 2111,,data.nex
-2112,Site 2112,,data.nex
-2113,Site 2113,,data.nex
-2114,Site 2114,,data.nex
-2115,Site 2115,,data.nex
-2116,Site 2116,,data.nex
-2117,Site 2117,,data.nex
-2118,Site 2118,,data.nex
-2119,Site 2119,,data.nex
-2120,Site 2120,,data.nex
-2121,Site 2121,,data.nex
-2122,Site 2122,,data.nex
-2123,Site 2123,,data.nex
-2124,Site 2124,,data.nex
-2125,Site 2125,,data.nex
-2126,Site 2126,,data.nex
-2127,Site 2127,,data.nex
-2128,Site 2128,,data.nex
-2129,Site 2129,,data.nex
-2130,Site 2130,,data.nex
-2131,Site 2131,,data.nex
-2132,Site 2132,,data.nex
-2133,Site 2133,,data.nex
-2134,Site 2134,,data.nex
-2135,Site 2135,,data.nex
-2136,Site 2136,,data.nex
-2137,Site 2137,,data.nex
-2138,Site 2138,,data.nex
-2139,Site 2139,,data.nex
-2140,Site 2140,,data.nex
-2141,Site 2141,,data.nex
-2142,Site 2142,,data.nex
-2143,Site 2143,,data.nex
-2144,Site 2144,,data.nex
-2145,Site 2145,,data.nex
-2146,Site 2146,,data.nex
-2147,Site 2147,,data.nex
-2148,Site 2148,,data.nex
-2149,Site 2149,,data.nex
-2150,Site 2150,,data.nex
-2151,Site 2151,,data.nex
-2152,Site 2152,,data.nex
-2153,Site 2153,,data.nex
-2154,Site 2154,,data.nex
-2155,Site 2155,,data.nex
-2156,Site 2156,,data.nex
-2157,Site 2157,,data.nex
-2158,Site 2158,,data.nex
-2159,Site 2159,,data.nex
-2160,Site 2160,,data.nex
-2161,Site 2161,,data.nex
-2162,Site 2162,,data.nex
-2163,Site 2163,,data.nex
-2164,Site 2164,,data.nex
-2165,Site 2165,,data.nex
-2166,Site 2166,,data.nex
-2167,Site 2167,,data.nex
-2168,Site 2168,,data.nex
-2169,Site 2169,,data.nex
-2170,Site 2170,,data.nex
-2171,Site 2171,,data.nex
-2172,Site 2172,,data.nex
-2173,Site 2173,,data.nex
-2174,Site 2174,,data.nex
-2175,Site 2175,,data.nex
-2176,Site 2176,,data.nex
-2177,Site 2177,,data.nex
-2178,Site 2178,,data.nex
-2179,Site 2179,,data.nex
-2180,Site 2180,,data.nex
-2181,Site 2181,,data.nex
-2182,Site 2182,,data.nex
-2183,Site 2183,,data.nex
-2184,Site 2184,,data.nex
-2185,Site 2185,,data.nex
-2186,Site 2186,,data.nex
-2187,Site 2187,,data.nex
-2188,Site 2188,,data.nex
-2189,Site 2189,,data.nex
-2190,Site 2190,,data.nex
-2191,Site 2191,,data.nex
-2192,Site 2192,,data.nex
-2193,Site 2193,,data.nex
-2194,Site 2194,,data.nex
-2195,Site 2195,,data.nex
-2196,Site 2196,,data.nex
-2197,Site 2197,,data.nex
-2198,Site 2198,,data.nex
-2199,Site 2199,,data.nex
-2200,Site 2200,,data.nex
-2201,Site 2201,,data.nex
-2202,Site 2202,,data.nex
-2203,Site 2203,,data.nex
-2204,Site 2204,,data.nex
-2205,Site 2205,,data.nex
-2206,Site 2206,,data.nex
-2207,Site 2207,,data.nex
-2208,Site 2208,,data.nex
-2209,Site 2209,,data.nex
-2210,Site 2210,,data.nex
-2211,Site 2211,,data.nex
-2212,Site 2212,,data.nex
-2213,Site 2213,,data.nex
-2214,Site 2214,,data.nex
-2215,Site 2215,,data.nex
-2216,Site 2216,,data.nex
-2217,Site 2217,,data.nex
-2218,Site 2218,,data.nex
-2219,Site 2219,,data.nex
-2220,Site 2220,,data.nex
-2221,Site 2221,,data.nex
-2222,Site 2222,,data.nex
-2223,Site 2223,,data.nex
-2224,Site 2224,,data.nex
-2225,Site 2225,,data.nex
-2226,Site 2226,,data.nex
-2227,Site 2227,,data.nex
-2228,Site 2228,,data.nex
-2229,Site 2229,,data.nex
-2230,Site 2230,,data.nex
-2231,Site 2231,,data.nex
-2232,Site 2232,,data.nex
-2233,Site 2233,,data.nex
-2234,Site 2234,,data.nex
-2235,Site 2235,,data.nex
-2236,Site 2236,,data.nex
-2237,Site 2237,,data.nex
-2238,Site 2238,,data.nex
-2239,Site 2239,,data.nex
-2240,Site 2240,,data.nex
-2241,Site 2241,,data.nex
-2242,Site 2242,,data.nex
-2243,Site 2243,,data.nex
-2244,Site 2244,,data.nex
-2245,Site 2245,,data.nex
-2246,Site 2246,,data.nex
-2247,Site 2247,,data.nex
-2248,Site 2248,,data.nex
-2249,Site 2249,,data.nex
-2250,Site 2250,,data.nex
-2251,Site 2251,,data.nex
-2252,Site 2252,,data.nex
-2253,Site 2253,,data.nex
-2254,Site 2254,,data.nex
-2255,Site 2255,,data.nex
-2256,Site 2256,,data.nex
-2257,Site 2257,,data.nex
-2258,Site 2258,,data.nex
-2259,Site 2259,,data.nex
-2260,Site 2260,,data.nex
-2261,Site 2261,,data.nex
-2262,Site 2262,,data.nex
-2263,Site 2263,,data.nex
-2264,Site 2264,,data.nex
-2265,Site 2265,,data.nex
-2266,Site 2266,,data.nex
-2267,Site 2267,,data.nex
-2268,Site 2268,,data.nex
-2269,Site 2269,,data.nex
-2270,Site 2270,,data.nex
-2271,Site 2271,,data.nex
-2272,Site 2272,,data.nex
-2273,Site 2273,,data.nex
-2274,Site 2274,,data.nex
-2275,Site 2275,,data.nex
-2276,Site 2276,,data.nex
-2277,Site 2277,,data.nex
-2278,Site 2278,,data.nex
-2279,Site 2279,,data.nex
-2280,Site 2280,,data.nex
-2281,Site 2281,,data.nex
-2282,Site 2282,,data.nex
-2283,Site 2283,,data.nex
-2284,Site 2284,,data.nex
-2285,Site 2285,,data.nex
-2286,Site 2286,,data.nex
-2287,Site 2287,,data.nex
-2288,Site 2288,,data.nex
-2289,Site 2289,,data.nex
-2290,Site 2290,,data.nex
-2291,Site 2291,,data.nex
-2292,Site 2292,,data.nex
-2293,Site 2293,,data.nex
-2294,Site 2294,,data.nex
-2295,Site 2295,,data.nex
-2296,Site 2296,,data.nex
-2297,Site 2297,,data.nex
-2298,Site 2298,,data.nex
-2299,Site 2299,,data.nex
-2300,Site 2300,,data.nex
-2301,Site 2301,,data.nex
-2302,Site 2302,,data.nex
-2303,Site 2303,,data.nex
-2304,Site 2304,,data.nex
-2305,Site 2305,,data.nex
-2306,Site 2306,,data.nex
-2307,Site 2307,,data.nex
-2308,Site 2308,,data.nex
-2309,Site 2309,,data.nex
-2310,Site 2310,,data.nex
-2311,Site 2311,,data.nex
-2312,Site 2312,,data.nex
-2313,Site 2313,,data.nex
-2314,Site 2314,,data.nex
-2315,Site 2315,,data.nex
-2316,Site 2316,,data.nex
-2317,Site 2317,,data.nex
-2318,Site 2318,,data.nex
-2319,Site 2319,,data.nex
-2320,Site 2320,,data.nex
-2321,Site 2321,,data.nex
-2322,Site 2322,,data.nex
-2323,Site 2323,,data.nex
-2324,Site 2324,,data.nex
-2325,Site 2325,,data.nex
-2326,Site 2326,,data.nex
-2327,Site 2327,,data.nex
-2328,Site 2328,,data.nex
-2329,Site 2329,,data.nex
-2330,Site 2330,,data.nex
-2331,Site 2331,,data.nex
-2332,Site 2332,,data.nex
-2333,Site 2333,,data.nex
-2334,Site 2334,,data.nex
-2335,Site 2335,,data.nex
-2336,Site 2336,,data.nex
-2337,Site 2337,,data.nex
-2338,Site 2338,,data.nex
-2339,Site 2339,,data.nex
-2340,Site 2340,,data.nex
-2341,Site 2341,,data.nex
-2342,Site 2342,,data.nex
-2343,Site 2343,,data.nex
-2344,Site 2344,,data.nex
-2345,Site 2345,,data.nex
-2346,Site 2346,,data.nex
-2347,Site 2347,,data.nex
-2348,Site 2348,,data.nex
-2349,Site 2349,,data.nex
-2350,Site 2350,,data.nex
+ID,Name,Description,Nexus_File,Concepticon_ID,Concepticon_Gloss
+1,I,,data.nex,1209,I
+2,I,,data.nex,1209,I
+3,I,,data.nex,1209,I
+4,all,,data.nex,98,ALL
+5,all,,data.nex,98,ALL
+6,all,,data.nex,98,ALL
+7,all,,data.nex,98,ALL
+8,all,,data.nex,98,ALL
+9,all,,data.nex,98,ALL
+10,all,,data.nex,98,ALL
+11,all,,data.nex,98,ALL
+12,all,,data.nex,98,ALL
+13,all,,data.nex,98,ALL
+14,all,,data.nex,98,ALL
+15,all,,data.nex,98,ALL
+16,all,,data.nex,98,ALL
+17,all,,data.nex,98,ALL
+18,all,,data.nex,98,ALL
+19,all,,data.nex,98,ALL
+20,and,,data.nex,1577,AND
+21,and,,data.nex,1577,AND
+22,and,,data.nex,1577,AND
+23,and,,data.nex,1577,AND
+24,and,,data.nex,1577,AND
+25,and,,data.nex,1577,AND
+26,and,,data.nex,1577,AND
+27,and,,data.nex,1577,AND
+28,and,,data.nex,1577,AND
+29,and,,data.nex,1577,AND
+30,and,,data.nex,1577,AND
+31,and,,data.nex,1577,AND
+32,and,,data.nex,1577,AND
+33,and,,data.nex,1577,AND
+34,and,,data.nex,1577,AND
+35,and,,data.nex,1577,AND
+36,and,,data.nex,1577,AND
+37,and,,data.nex,1577,AND
+38,and,,data.nex,1577,AND
+39,and,,data.nex,1577,AND
+40,and,,data.nex,1577,AND
+41,animal,,data.nex,619,ANIMAL
+42,animal,,data.nex,619,ANIMAL
+43,animal,,data.nex,619,ANIMAL
+44,animal,,data.nex,619,ANIMAL
+45,animal,,data.nex,619,ANIMAL
+46,animal,,data.nex,619,ANIMAL
+47,animal,,data.nex,619,ANIMAL
+48,animal,,data.nex,619,ANIMAL
+49,animal,,data.nex,619,ANIMAL
+50,animal,,data.nex,619,ANIMAL
+51,animal,,data.nex,619,ANIMAL
+52,animal,,data.nex,619,ANIMAL
+53,animal,,data.nex,619,ANIMAL
+54,animal,,data.nex,619,ANIMAL
+55,ashes,,data.nex,646,ASH
+56,ashes,,data.nex,646,ASH
+57,ashes,,data.nex,646,ASH
+58,ashes,,data.nex,646,ASH
+59,ashes,,data.nex,646,ASH
+60,ashes,,data.nex,646,ASH
+61,ashes,,data.nex,646,ASH
+62,ashes,,data.nex,646,ASH
+63,ashes,,data.nex,646,ASH
+64,ashes,,data.nex,646,ASH
+65,ashes,,data.nex,646,ASH
+66,ashes,,data.nex,646,ASH
+67,ashes,,data.nex,646,ASH
+68,ashes,,data.nex,646,ASH
+69,ashes,,data.nex,646,ASH
+70,ashes,,data.nex,646,ASH
+71,ashes,,data.nex,646,ASH
+72,back,,data.nex,1291,BACK
+73,back,,data.nex,1291,BACK
+74,back,,data.nex,1291,BACK
+75,back,,data.nex,1291,BACK
+76,back,,data.nex,1291,BACK
+77,back,,data.nex,1291,BACK
+78,back,,data.nex,1291,BACK
+79,back,,data.nex,1291,BACK
+80,back,,data.nex,1291,BACK
+81,back,,data.nex,1291,BACK
+82,back,,data.nex,1291,BACK
+83,back,,data.nex,1291,BACK
+84,back,,data.nex,1291,BACK
+85,back,,data.nex,1291,BACK
+86,back,,data.nex,1291,BACK
+87,back,,data.nex,1291,BACK
+88,back,,data.nex,1291,BACK
+89,back,,data.nex,1291,BACK
+90,back,,data.nex,1291,BACK
+91,back,,data.nex,1291,BACK
+92,back,,data.nex,1291,BACK
+93,back,,data.nex,1291,BACK
+94,back,,data.nex,1291,BACK
+95,back,,data.nex,1291,BACK
+96,back,,data.nex,1291,BACK
+97,back,,data.nex,1291,BACK
+98,back,,data.nex,1291,BACK
+99,bad,,data.nex,1292,BAD
+100,bad,,data.nex,1292,BAD
+101,bad,,data.nex,1292,BAD
+102,bad,,data.nex,1292,BAD
+103,bad,,data.nex,1292,BAD
+104,bad,,data.nex,1292,BAD
+105,bad,,data.nex,1292,BAD
+106,bad,,data.nex,1292,BAD
+107,bad,,data.nex,1292,BAD
+108,bad,,data.nex,1292,BAD
+109,bad,,data.nex,1292,BAD
+110,bad,,data.nex,1292,BAD
+111,bad,,data.nex,1292,BAD
+112,bad,,data.nex,1292,BAD
+113,bad,,data.nex,1292,BAD
+114,bad,,data.nex,1292,BAD
+115,bad,,data.nex,1292,BAD
+116,bad,,data.nex,1292,BAD
+117,bad,,data.nex,1292,BAD
+118,bad,,data.nex,1292,BAD
+119,bad,,data.nex,1292,BAD
+120,bad,,data.nex,1292,BAD
+121,bad,,data.nex,1292,BAD
+122,bad,,data.nex,1292,BAD
+123,bad,,data.nex,1292,BAD
+124,bad,,data.nex,1292,BAD
+125,bad,,data.nex,1292,BAD
+126,bad,,data.nex,1292,BAD
+127,bad,,data.nex,1292,BAD
+128,bad,,data.nex,1292,BAD
+129,bad,,data.nex,1292,BAD
+130,bad,,data.nex,1292,BAD
+131,bad,,data.nex,1292,BAD
+132,bad,,data.nex,1292,BAD
+133,bad,,data.nex,1292,BAD
+134,bad,,data.nex,1292,BAD
+135,because,,data.nex,1157,BECAUSE
+136,because,,data.nex,1157,BECAUSE
+137,because,,data.nex,1157,BECAUSE
+138,because,,data.nex,1157,BECAUSE
+139,because,,data.nex,1157,BECAUSE
+140,because,,data.nex,1157,BECAUSE
+141,because,,data.nex,1157,BECAUSE
+142,because,,data.nex,1157,BECAUSE
+143,because,,data.nex,1157,BECAUSE
+144,because,,data.nex,1157,BECAUSE
+145,because,,data.nex,1157,BECAUSE
+146,because,,data.nex,1157,BECAUSE
+147,because,,data.nex,1157,BECAUSE
+148,because,,data.nex,1157,BECAUSE
+149,because,,data.nex,1157,BECAUSE
+150,because,,data.nex,1157,BECAUSE
+151,because,,data.nex,1157,BECAUSE
+152,because,,data.nex,1157,BECAUSE
+153,because,,data.nex,1157,BECAUSE
+154,because,,data.nex,1157,BECAUSE
+155,because,,data.nex,1157,BECAUSE
+156,because,,data.nex,1157,BECAUSE
+157,because,,data.nex,1157,BECAUSE
+158,because,,data.nex,1157,BECAUSE
+159,because,,data.nex,1157,BECAUSE
+160,because,,data.nex,1157,BECAUSE
+161,because,,data.nex,1157,BECAUSE
+162,because,,data.nex,1157,BECAUSE
+163,because,,data.nex,1157,BECAUSE
+164,because,,data.nex,1157,BECAUSE
+165,because,,data.nex,1157,BECAUSE
+166,because,,data.nex,1157,BECAUSE
+167,because,,data.nex,1157,BECAUSE
+168,because,,data.nex,1157,BECAUSE
+169,because,,data.nex,1157,BECAUSE
+170,belly,,data.nex,1251,BELLY
+171,belly,,data.nex,1251,BELLY
+172,belly,,data.nex,1251,BELLY
+173,belly,,data.nex,1251,BELLY
+174,belly,,data.nex,1251,BELLY
+175,belly,,data.nex,1251,BELLY
+176,belly,,data.nex,1251,BELLY
+177,belly,,data.nex,1251,BELLY
+178,belly,,data.nex,1251,BELLY
+179,belly,,data.nex,1251,BELLY
+180,belly,,data.nex,1251,BELLY
+181,belly,,data.nex,1251,BELLY
+182,belly,,data.nex,1251,BELLY
+183,belly,,data.nex,1251,BELLY
+184,belly,,data.nex,1251,BELLY
+185,belly,,data.nex,1251,BELLY
+186,belly,,data.nex,1251,BELLY
+187,belly,,data.nex,1251,BELLY
+188,belly,,data.nex,1251,BELLY
+189,belly,,data.nex,1251,BELLY
+190,belly,,data.nex,1251,BELLY
+191,belly,,data.nex,1251,BELLY
+192,belly,,data.nex,1251,BELLY
+193,belly,,data.nex,1251,BELLY
+194,big,,data.nex,1202,BIG
+195,big,,data.nex,1202,BIG
+196,big,,data.nex,1202,BIG
+197,big,,data.nex,1202,BIG
+198,big,,data.nex,1202,BIG
+199,big,,data.nex,1202,BIG
+200,big,,data.nex,1202,BIG
+201,big,,data.nex,1202,BIG
+202,big,,data.nex,1202,BIG
+203,big,,data.nex,1202,BIG
+204,big,,data.nex,1202,BIG
+205,big,,data.nex,1202,BIG
+206,big,,data.nex,1202,BIG
+207,big,,data.nex,1202,BIG
+208,big,,data.nex,1202,BIG
+209,big,,data.nex,1202,BIG
+210,big,,data.nex,1202,BIG
+211,big,,data.nex,1202,BIG
+212,bird,,data.nex,937,BIRD
+213,bird,,data.nex,937,BIRD
+214,bird,,data.nex,937,BIRD
+215,bird,,data.nex,937,BIRD
+216,bird,,data.nex,937,BIRD
+217,bird,,data.nex,937,BIRD
+218,bird,,data.nex,937,BIRD
+219,bird,,data.nex,937,BIRD
+220,bird,,data.nex,937,BIRD
+221,bird,,data.nex,937,BIRD
+222,bird,,data.nex,937,BIRD
+223,bird,,data.nex,937,BIRD
+224,bird,,data.nex,937,BIRD
+225,bird,,data.nex,937,BIRD
+226,bird,,data.nex,937,BIRD
+227,bite,,data.nex,1403,BITE
+228,bite,,data.nex,1403,BITE
+229,bite,,data.nex,1403,BITE
+230,bite,,data.nex,1403,BITE
+231,bite,,data.nex,1403,BITE
+232,bite,,data.nex,1403,BITE
+233,bite,,data.nex,1403,BITE
+234,bite,,data.nex,1403,BITE
+235,bite,,data.nex,1403,BITE
+236,bite,,data.nex,1403,BITE
+237,bite,,data.nex,1403,BITE
+238,bite,,data.nex,1403,BITE
+239,bite,,data.nex,1403,BITE
+240,bite,,data.nex,1403,BITE
+241,bite,,data.nex,1403,BITE
+242,bite,,data.nex,1403,BITE
+243,bite,,data.nex,1403,BITE
+244,bite,,data.nex,1403,BITE
+245,bite,,data.nex,1403,BITE
+246,bite,,data.nex,1403,BITE
+247,bite,,data.nex,1403,BITE
+248,black,,data.nex,163,BLACK
+249,black,,data.nex,163,BLACK
+250,black,,data.nex,163,BLACK
+251,black,,data.nex,163,BLACK
+252,black,,data.nex,163,BLACK
+253,black,,data.nex,163,BLACK
+254,black,,data.nex,163,BLACK
+255,black,,data.nex,163,BLACK
+256,black,,data.nex,163,BLACK
+257,black,,data.nex,163,BLACK
+258,black,,data.nex,163,BLACK
+259,black,,data.nex,163,BLACK
+260,black,,data.nex,163,BLACK
+261,black,,data.nex,163,BLACK
+262,black,,data.nex,163,BLACK
+263,blood,,data.nex,946,BLOOD
+264,blood,,data.nex,946,BLOOD
+265,blood,,data.nex,946,BLOOD
+266,blood,,data.nex,946,BLOOD
+267,blood,,data.nex,946,BLOOD
+268,blood,,data.nex,946,BLOOD
+269,blood,,data.nex,946,BLOOD
+270,blood,,data.nex,946,BLOOD
+271,blood,,data.nex,946,BLOOD
+272,blood,,data.nex,946,BLOOD
+273,blood,,data.nex,946,BLOOD
+274,blood,,data.nex,946,BLOOD
+275,bone,,data.nex,1394,BONE
+276,bone,,data.nex,1394,BONE
+277,bone,,data.nex,1394,BONE
+278,bone,,data.nex,1394,BONE
+279,bone,,data.nex,1394,BONE
+280,bone,,data.nex,1394,BONE
+281,bone,,data.nex,1394,BONE
+282,bone,,data.nex,1394,BONE
+283,bone,,data.nex,1394,BONE
+284,breathe,,data.nex,1407,BREATHE
+285,breathe,,data.nex,1407,BREATHE
+286,breathe,,data.nex,1407,BREATHE
+287,breathe,,data.nex,1407,BREATHE
+288,breathe,,data.nex,1407,BREATHE
+289,breathe,,data.nex,1407,BREATHE
+290,breathe,,data.nex,1407,BREATHE
+291,breathe,,data.nex,1407,BREATHE
+292,breathe,,data.nex,1407,BREATHE
+293,breathe,,data.nex,1407,BREATHE
+294,breathe,,data.nex,1407,BREATHE
+295,breathe,,data.nex,1407,BREATHE
+296,breathe,,data.nex,1407,BREATHE
+297,breathe,,data.nex,1407,BREATHE
+298,breathe,,data.nex,1407,BREATHE
+299,burn,,data.nex,2102,BURN
+300,burn,,data.nex,2102,BURN
+301,burn,,data.nex,2102,BURN
+302,burn,,data.nex,2102,BURN
+303,burn,,data.nex,2102,BURN
+304,burn,,data.nex,2102,BURN
+305,burn,,data.nex,2102,BURN
+306,burn,,data.nex,2102,BURN
+307,burn,,data.nex,2102,BURN
+308,burn,,data.nex,2102,BURN
+309,burn,,data.nex,2102,BURN
+310,burn,,data.nex,2102,BURN
+311,burn,,data.nex,2102,BURN
+312,burn,,data.nex,2102,BURN
+313,burn,,data.nex,2102,BURN
+314,burn,,data.nex,2102,BURN
+315,burn,,data.nex,2102,BURN
+316,burn,,data.nex,2102,BURN
+317,burn,,data.nex,2102,BURN
+318,burn,,data.nex,2102,BURN
+319,burn,,data.nex,2102,BURN
+320,child,,data.nex,2099,CHILD
+321,child,,data.nex,2099,CHILD
+322,child,,data.nex,2099,CHILD
+323,child,,data.nex,2099,CHILD
+324,child,,data.nex,2099,CHILD
+325,child,,data.nex,2099,CHILD
+326,child,,data.nex,2099,CHILD
+327,child,,data.nex,2099,CHILD
+328,child,,data.nex,2099,CHILD
+329,child,,data.nex,2099,CHILD
+330,child,,data.nex,2099,CHILD
+331,child,,data.nex,2099,CHILD
+332,child,,data.nex,2099,CHILD
+333,child,,data.nex,2099,CHILD
+334,child,,data.nex,2099,CHILD
+335,child,,data.nex,2099,CHILD
+336,child,,data.nex,2099,CHILD
+337,child,,data.nex,2099,CHILD
+338,child,,data.nex,2099,CHILD
+339,child,,data.nex,2099,CHILD
+340,child,,data.nex,2099,CHILD
+341,child,,data.nex,2099,CHILD
+342,child,,data.nex,2099,CHILD
+343,child,,data.nex,2099,CHILD
+344,child,,data.nex,2099,CHILD
+345,child,,data.nex,2099,CHILD
+346,child,,data.nex,2099,CHILD
+347,child,,data.nex,2099,CHILD
+348,child,,data.nex,2099,CHILD
+349,child,,data.nex,2099,CHILD
+350,child,,data.nex,2099,CHILD
+351,child,,data.nex,2099,CHILD
+352,child,,data.nex,2099,CHILD
+353,child,,data.nex,2099,CHILD
+354,child,,data.nex,2099,CHILD
+355,child,,data.nex,2099,CHILD
+356,child,,data.nex,2099,CHILD
+357,child,,data.nex,2099,CHILD
+358,child,,data.nex,2099,CHILD
+359,cloud,,data.nex,1489,CLOUD
+360,cloud,,data.nex,1489,CLOUD
+361,cloud,,data.nex,1489,CLOUD
+362,cloud,,data.nex,1489,CLOUD
+363,cloud,,data.nex,1489,CLOUD
+364,cloud,,data.nex,1489,CLOUD
+365,cloud,,data.nex,1489,CLOUD
+366,cloud,,data.nex,1489,CLOUD
+367,cloud,,data.nex,1489,CLOUD
+368,cloud,,data.nex,1489,CLOUD
+369,cloud,,data.nex,1489,CLOUD
+370,cloud,,data.nex,1489,CLOUD
+371,cloud,,data.nex,1489,CLOUD
+372,cloud,,data.nex,1489,CLOUD
+373,cloud,,data.nex,1489,CLOUD
+374,cloud,,data.nex,1489,CLOUD
+375,cold,,data.nex,1287,COLD
+376,cold,,data.nex,1287,COLD
+377,cold,,data.nex,1287,COLD
+378,cold,,data.nex,1287,COLD
+379,cold,,data.nex,1287,COLD
+380,cold,,data.nex,1287,COLD
+381,cold,,data.nex,1287,COLD
+382,cold,,data.nex,1287,COLD
+383,cold,,data.nex,1287,COLD
+384,cold,,data.nex,1287,COLD
+385,cold,,data.nex,1287,COLD
+386,cold,,data.nex,1287,COLD
+387,cold,,data.nex,1287,COLD
+388,cold,,data.nex,1287,COLD
+389,cold,,data.nex,1287,COLD
+390,cold,,data.nex,1287,COLD
+391,cold,,data.nex,1287,COLD
+392,cold,,data.nex,1287,COLD
+393,come,,data.nex,1446,COME
+394,come,,data.nex,1446,COME
+395,come,,data.nex,1446,COME
+396,come,,data.nex,1446,COME
+397,come,,data.nex,1446,COME
+398,come,,data.nex,1446,COME
+399,come,,data.nex,1446,COME
+400,come,,data.nex,1446,COME
+401,come,,data.nex,1446,COME
+402,come,,data.nex,1446,COME
+403,come,,data.nex,1446,COME
+404,come,,data.nex,1446,COME
+405,cut,,data.nex,1432,CUT
+406,cut,,data.nex,1432,CUT
+407,cut,,data.nex,1432,CUT
+408,cut,,data.nex,1432,CUT
+409,cut,,data.nex,1432,CUT
+410,cut,,data.nex,1432,CUT
+411,cut,,data.nex,1432,CUT
+412,cut,,data.nex,1432,CUT
+413,cut,,data.nex,1432,CUT
+414,cut,,data.nex,1432,CUT
+415,cut,,data.nex,1432,CUT
+416,cut,,data.nex,1432,CUT
+417,cut,,data.nex,1432,CUT
+418,cut,,data.nex,1432,CUT
+419,cut,,data.nex,1432,CUT
+420,cut,,data.nex,1432,CUT
+421,cut,,data.nex,1432,CUT
+422,cut,,data.nex,1432,CUT
+423,cut,,data.nex,1432,CUT
+424,cut,,data.nex,1432,CUT
+425,cut,,data.nex,1432,CUT
+426,cut,,data.nex,1432,CUT
+427,cut,,data.nex,1432,CUT
+428,day,,data.nex,1225,DAY (NOT NIGHT)
+429,day,,data.nex,1225,DAY (NOT NIGHT)
+430,day,,data.nex,1225,DAY (NOT NIGHT)
+431,day,,data.nex,1225,DAY (NOT NIGHT)
+432,day,,data.nex,1225,DAY (NOT NIGHT)
+433,day,,data.nex,1225,DAY (NOT NIGHT)
+434,day,,data.nex,1225,DAY (NOT NIGHT)
+435,day,,data.nex,1225,DAY (NOT NIGHT)
+436,day,,data.nex,1225,DAY (NOT NIGHT)
+437,day,,data.nex,1225,DAY (NOT NIGHT)
+438,die,,data.nex,1494,DIE
+439,die,,data.nex,1494,DIE
+440,die,,data.nex,1494,DIE
+441,die,,data.nex,1494,DIE
+442,die,,data.nex,1494,DIE
+443,die,,data.nex,1494,DIE
+444,die,,data.nex,1494,DIE
+445,die,,data.nex,1494,DIE
+446,die,,data.nex,1494,DIE
+447,die,,data.nex,1494,DIE
+448,die,,data.nex,1494,DIE
+449,die,,data.nex,1494,DIE
+450,die,,data.nex,1494,DIE
+451,die,,data.nex,1494,DIE
+452,dig,,data.nex,1418,DIG
+453,dig,,data.nex,1418,DIG
+454,dig,,data.nex,1418,DIG
+455,dig,,data.nex,1418,DIG
+456,dig,,data.nex,1418,DIG
+457,dig,,data.nex,1418,DIG
+458,dig,,data.nex,1418,DIG
+459,dig,,data.nex,1418,DIG
+460,dig,,data.nex,1418,DIG
+461,dig,,data.nex,1418,DIG
+462,dig,,data.nex,1418,DIG
+463,dig,,data.nex,1418,DIG
+464,dig,,data.nex,1418,DIG
+465,dig,,data.nex,1418,DIG
+466,dig,,data.nex,1418,DIG
+467,dig,,data.nex,1418,DIG
+468,dig,,data.nex,1418,DIG
+469,dig,,data.nex,1418,DIG
+470,dig,,data.nex,1418,DIG
+471,dig,,data.nex,1418,DIG
+472,dig,,data.nex,1418,DIG
+473,dig,,data.nex,1418,DIG
+474,dig,,data.nex,1418,DIG
+475,dig,,data.nex,1418,DIG
+476,dog,,data.nex,2009,DOG
+477,dog,,data.nex,2009,DOG
+478,dog,,data.nex,2009,DOG
+479,dog,,data.nex,2009,DOG
+480,dog,,data.nex,2009,DOG
+481,dog,,data.nex,2009,DOG
+482,dog,,data.nex,2009,DOG
+483,dog,,data.nex,2009,DOG
+484,dog,,data.nex,2009,DOG
+485,dog,,data.nex,2009,DOG
+486,dog,,data.nex,2009,DOG
+487,dog,,data.nex,2009,DOG
+488,drink,,data.nex,1401,DRINK
+489,drink,,data.nex,1401,DRINK
+490,drink,,data.nex,1401,DRINK
+491,drink,,data.nex,1401,DRINK
+492,drink,,data.nex,1401,DRINK
+493,drink,,data.nex,1401,DRINK
+494,drink,,data.nex,1401,DRINK
+495,dry,,data.nex,1398,DRY
+496,dry,,data.nex,1398,DRY
+497,dry,,data.nex,1398,DRY
+498,dry,,data.nex,1398,DRY
+499,dry,,data.nex,1398,DRY
+500,dry,,data.nex,1398,DRY
+501,dry,,data.nex,1398,DRY
+502,dry,,data.nex,1398,DRY
+503,dry,,data.nex,1398,DRY
+504,dry,,data.nex,1398,DRY
+505,dry,,data.nex,1398,DRY
+506,dry,,data.nex,1398,DRY
+507,dry,,data.nex,1398,DRY
+508,ear,,data.nex,1247,EAR
+509,ear,,data.nex,1247,EAR
+510,ear,,data.nex,1247,EAR
+511,ear,,data.nex,1247,EAR
+512,ear,,data.nex,1247,EAR
+513,earth,,data.nex,1228,EARTH (SOIL)
+514,earth,,data.nex,1228,EARTH (SOIL)
+515,earth,,data.nex,1228,EARTH (SOIL)
+516,earth,,data.nex,1228,EARTH (SOIL)
+517,earth,,data.nex,1228,EARTH (SOIL)
+518,earth,,data.nex,1228,EARTH (SOIL)
+519,earth,,data.nex,1228,EARTH (SOIL)
+520,earth,,data.nex,1228,EARTH (SOIL)
+521,earth,,data.nex,1228,EARTH (SOIL)
+522,earth,,data.nex,1228,EARTH (SOIL)
+523,earth,,data.nex,1228,EARTH (SOIL)
+524,earth,,data.nex,1228,EARTH (SOIL)
+525,earth,,data.nex,1228,EARTH (SOIL)
+526,earth,,data.nex,1228,EARTH (SOIL)
+527,earth,,data.nex,1228,EARTH (SOIL)
+528,earth,,data.nex,1228,EARTH (SOIL)
+529,earth,,data.nex,1228,EARTH (SOIL)
+530,earth,,data.nex,1228,EARTH (SOIL)
+531,earth,,data.nex,1228,EARTH (SOIL)
+532,earth,,data.nex,1228,EARTH (SOIL)
+533,earth,,data.nex,1228,EARTH (SOIL)
+534,earth,,data.nex,1228,EARTH (SOIL)
+535,earth,,data.nex,1228,EARTH (SOIL)
+536,eat,,data.nex,1336,EAT
+537,eat,,data.nex,1336,EAT
+538,eat,,data.nex,1336,EAT
+539,eat,,data.nex,1336,EAT
+540,eat,,data.nex,1336,EAT
+541,eat,,data.nex,1336,EAT
+542,eat,,data.nex,1336,EAT
+543,eat,,data.nex,1336,EAT
+544,eat,,data.nex,1336,EAT
+545,eat,,data.nex,1336,EAT
+546,eat,,data.nex,1336,EAT
+547,eat,,data.nex,1336,EAT
+548,eat,,data.nex,1336,EAT
+549,eat,,data.nex,1336,EAT
+550,eat,,data.nex,1336,EAT
+551,eye,,data.nex,1248,EYE
+552,eye,,data.nex,1248,EYE
+553,eye,,data.nex,1248,EYE
+554,eye,,data.nex,1248,EYE
+555,eye,,data.nex,1248,EYE
+556,eye,,data.nex,1248,EYE
+557,fall,,data.nex,1280,FALL
+558,fall,,data.nex,1280,FALL
+559,fall,,data.nex,1280,FALL
+560,fall,,data.nex,1280,FALL
+561,fall,,data.nex,1280,FALL
+562,fall,,data.nex,1280,FALL
+563,fall,,data.nex,1280,FALL
+564,fall,,data.nex,1280,FALL
+565,fall,,data.nex,1280,FALL
+566,fall,,data.nex,1280,FALL
+567,fall,,data.nex,1280,FALL
+568,fall,,data.nex,1280,FALL
+569,fall,,data.nex,1280,FALL
+570,fall,,data.nex,1280,FALL
+571,fall,,data.nex,1280,FALL
+572,fall,,data.nex,1280,FALL
+573,fall,,data.nex,1280,FALL
+574,fall,,data.nex,1280,FALL
+575,fall,,data.nex,1280,FALL
+576,fall,,data.nex,1280,FALL
+577,fall,,data.nex,1280,FALL
+578,fall,,data.nex,1280,FALL
+579,far,,data.nex,1406,FAR
+580,far,,data.nex,1406,FAR
+581,far,,data.nex,1406,FAR
+582,far,,data.nex,1406,FAR
+583,far,,data.nex,1406,FAR
+584,far,,data.nex,1406,FAR
+585,far,,data.nex,1406,FAR
+586,far,,data.nex,1406,FAR
+587,far,,data.nex,1406,FAR
+588,far,,data.nex,1406,FAR
+589,far,,data.nex,1406,FAR
+590,far,,data.nex,1406,FAR
+591,far,,data.nex,1406,FAR
+592,far,,data.nex,1406,FAR
+593,far,,data.nex,1406,FAR
+594,far,,data.nex,1406,FAR
+595,far,,data.nex,1406,FAR
+596,far,,data.nex,1406,FAR
+597,far,,data.nex,1406,FAR
+598,fat,,data.nex,1282,FAT (FROM ANIMALS)
+599,fat,,data.nex,1282,FAT (FROM ANIMALS)
+600,fat,,data.nex,1282,FAT (FROM ANIMALS)
+601,fat,,data.nex,1282,FAT (FROM ANIMALS)
+602,fat,,data.nex,1282,FAT (FROM ANIMALS)
+603,fat,,data.nex,1282,FAT (FROM ANIMALS)
+604,fat,,data.nex,1282,FAT (FROM ANIMALS)
+605,fat,,data.nex,1282,FAT (FROM ANIMALS)
+606,fat,,data.nex,1282,FAT (FROM ANIMALS)
+607,fat,,data.nex,1282,FAT (FROM ANIMALS)
+608,fat,,data.nex,1282,FAT (FROM ANIMALS)
+609,fat,,data.nex,1282,FAT (FROM ANIMALS)
+610,fat,,data.nex,1282,FAT (FROM ANIMALS)
+611,fat,,data.nex,1282,FAT (FROM ANIMALS)
+612,fat,,data.nex,1282,FAT (FROM ANIMALS)
+613,fat,,data.nex,1282,FAT (FROM ANIMALS)
+614,fat,,data.nex,1282,FAT (FROM ANIMALS)
+615,fat,,data.nex,1282,FAT (FROM ANIMALS)
+616,fat,,data.nex,1282,FAT (FROM ANIMALS)
+617,fat,,data.nex,1282,FAT (FROM ANIMALS)
+618,fat,,data.nex,1282,FAT (FROM ANIMALS)
+619,fat,,data.nex,1282,FAT (FROM ANIMALS)
+620,fat,,data.nex,1282,FAT (FROM ANIMALS)
+621,fat,,data.nex,1282,FAT (FROM ANIMALS)
+622,fear,,data.nex,1419,FEAR (BE AFRAID)
+623,fear,,data.nex,1419,FEAR (BE AFRAID)
+624,fear,,data.nex,1419,FEAR (BE AFRAID)
+625,fear,,data.nex,1419,FEAR (BE AFRAID)
+626,fear,,data.nex,1419,FEAR (BE AFRAID)
+627,fear,,data.nex,1419,FEAR (BE AFRAID)
+628,fear,,data.nex,1419,FEAR (BE AFRAID)
+629,fear,,data.nex,1419,FEAR (BE AFRAID)
+630,fear,,data.nex,1419,FEAR (BE AFRAID)
+631,fear,,data.nex,1419,FEAR (BE AFRAID)
+632,fear,,data.nex,1419,FEAR (BE AFRAID)
+633,fear,,data.nex,1419,FEAR (BE AFRAID)
+634,fear,,data.nex,1419,FEAR (BE AFRAID)
+635,fear,,data.nex,1419,FEAR (BE AFRAID)
+636,fear,,data.nex,1419,FEAR (BE AFRAID)
+637,fear,,data.nex,1419,FEAR (BE AFRAID)
+638,fear,,data.nex,1419,FEAR (BE AFRAID)
+639,fear,,data.nex,1419,FEAR (BE AFRAID)
+640,few,,data.nex,1242,FEW
+641,few,,data.nex,1242,FEW
+642,few,,data.nex,1242,FEW
+643,few,,data.nex,1242,FEW
+644,few,,data.nex,1242,FEW
+645,few,,data.nex,1242,FEW
+646,few,,data.nex,1242,FEW
+647,few,,data.nex,1242,FEW
+648,few,,data.nex,1242,FEW
+649,few,,data.nex,1242,FEW
+650,few,,data.nex,1242,FEW
+651,few,,data.nex,1242,FEW
+652,few,,data.nex,1242,FEW
+653,few,,data.nex,1242,FEW
+654,few,,data.nex,1242,FEW
+655,few,,data.nex,1242,FEW
+656,few,,data.nex,1242,FEW
+657,few,,data.nex,1242,FEW
+658,few,,data.nex,1242,FEW
+659,few,,data.nex,1242,FEW
+660,few,,data.nex,1242,FEW
+661,few,,data.nex,1242,FEW
+662,fight,,data.nex,1423,FIGHT
+663,fight,,data.nex,1423,FIGHT
+664,fight,,data.nex,1423,FIGHT
+665,fight,,data.nex,1423,FIGHT
+666,fight,,data.nex,1423,FIGHT
+667,fight,,data.nex,1423,FIGHT
+668,fight,,data.nex,1423,FIGHT
+669,fight,,data.nex,1423,FIGHT
+670,fight,,data.nex,1423,FIGHT
+671,fight,,data.nex,1423,FIGHT
+672,fight,,data.nex,1423,FIGHT
+673,fight,,data.nex,1423,FIGHT
+674,fight,,data.nex,1423,FIGHT
+675,fight,,data.nex,1423,FIGHT
+676,fight,,data.nex,1423,FIGHT
+677,fight,,data.nex,1423,FIGHT
+678,fight,,data.nex,1423,FIGHT
+679,fight,,data.nex,1423,FIGHT
+680,fight,,data.nex,1423,FIGHT
+681,fight,,data.nex,1423,FIGHT
+682,fight,,data.nex,1423,FIGHT
+683,fight,,data.nex,1423,FIGHT
+684,fight,,data.nex,1423,FIGHT
+685,fight,,data.nex,1423,FIGHT
+686,fight,,data.nex,1423,FIGHT
+687,fight,,data.nex,1423,FIGHT
+688,fight,,data.nex,1423,FIGHT
+689,fight,,data.nex,1423,FIGHT
+690,fight,,data.nex,1423,FIGHT
+691,fight,,data.nex,1423,FIGHT
+692,fight,,data.nex,1423,FIGHT
+693,fight,,data.nex,1423,FIGHT
+694,fight,,data.nex,1423,FIGHT
+695,fight,,data.nex,1423,FIGHT
+696,fight,,data.nex,1423,FIGHT
+697,fire,,data.nex,221,FIRE
+698,fire,,data.nex,221,FIRE
+699,fire,,data.nex,221,FIRE
+700,fire,,data.nex,221,FIRE
+701,fire,,data.nex,221,FIRE
+702,fire,,data.nex,221,FIRE
+703,fire,,data.nex,221,FIRE
+704,fire,,data.nex,221,FIRE
+705,fire,,data.nex,221,FIRE
+706,fire,,data.nex,221,FIRE
+707,fire,,data.nex,221,FIRE
+708,fire,,data.nex,221,FIRE
+709,fire,,data.nex,221,FIRE
+710,fire,,data.nex,221,FIRE
+711,fire,,data.nex,221,FIRE
+712,fire,,data.nex,221,FIRE
+713,fire,,data.nex,221,FIRE
+714,fish,,data.nex,227,FISH
+715,fish,,data.nex,227,FISH
+716,fish,,data.nex,227,FISH
+717,fish,,data.nex,227,FISH
+718,fish,,data.nex,227,FISH
+719,fish,,data.nex,227,FISH
+720,fish,,data.nex,227,FISH
+721,fish,,data.nex,227,FISH
+722,five,,data.nex,493,FIVE
+723,flow,,data.nex,2003,FLOW
+724,flow,,data.nex,2003,FLOW
+725,flow,,data.nex,2003,FLOW
+726,flow,,data.nex,2003,FLOW
+727,flow,,data.nex,2003,FLOW
+728,flow,,data.nex,2003,FLOW
+729,flow,,data.nex,2003,FLOW
+730,flow,,data.nex,2003,FLOW
+731,flow,,data.nex,2003,FLOW
+732,flow,,data.nex,2003,FLOW
+733,flow,,data.nex,2003,FLOW
+734,flow,,data.nex,2003,FLOW
+735,flow,,data.nex,2003,FLOW
+736,flow,,data.nex,2003,FLOW
+737,flow,,data.nex,2003,FLOW
+738,flow,,data.nex,2003,FLOW
+739,flow,,data.nex,2003,FLOW
+740,flower,,data.nex,239,FLOWER
+741,flower,,data.nex,239,FLOWER
+742,flower,,data.nex,239,FLOWER
+743,flower,,data.nex,239,FLOWER
+744,flower,,data.nex,239,FLOWER
+745,flower,,data.nex,239,FLOWER
+746,flower,,data.nex,239,FLOWER
+747,flower,,data.nex,239,FLOWER
+748,flower,,data.nex,239,FLOWER
+749,flower,,data.nex,239,FLOWER
+750,flower,,data.nex,239,FLOWER
+751,flower,,data.nex,239,FLOWER
+752,flower,,data.nex,239,FLOWER
+753,flower,,data.nex,239,FLOWER
+754,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+755,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+756,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+757,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+758,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+759,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+760,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+761,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+762,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+763,fly,,data.nex,1441,FLY (MOVE THROUGH AIR)
+764,foot,,data.nex,1301,FOOT
+765,foot,,data.nex,1301,FOOT
+766,foot,,data.nex,1301,FOOT
+767,foot,,data.nex,1301,FOOT
+768,foot,,data.nex,1301,FOOT
+769,foot,,data.nex,1301,FOOT
+770,foot,,data.nex,1301,FOOT
+771,foot,,data.nex,1301,FOOT
+772,foot,,data.nex,1301,FOOT
+773,foot,,data.nex,1301,FOOT
+774,foot,,data.nex,1301,FOOT
+775,foot,,data.nex,1301,FOOT
+776,four,,data.nex,1500,FOUR
+777,four,,data.nex,1500,FOUR
+778,give,,data.nex,1447,GIVE
+779,give,,data.nex,1447,GIVE
+780,give,,data.nex,1447,GIVE
+781,give,,data.nex,1447,GIVE
+782,give,,data.nex,1447,GIVE
+783,give,,data.nex,1447,GIVE
+784,give,,data.nex,1447,GIVE
+785,good,,data.nex,1035,GOOD
+786,good,,data.nex,1035,GOOD
+787,good,,data.nex,1035,GOOD
+788,good,,data.nex,1035,GOOD
+789,good,,data.nex,1035,GOOD
+790,good,,data.nex,1035,GOOD
+791,good,,data.nex,1035,GOOD
+792,good,,data.nex,1035,GOOD
+793,good,,data.nex,1035,GOOD
+794,good,,data.nex,1035,GOOD
+795,good,,data.nex,1035,GOOD
+796,good,,data.nex,1035,GOOD
+797,good,,data.nex,1035,GOOD
+798,good,,data.nex,1035,GOOD
+799,good,,data.nex,1035,GOOD
+800,good,,data.nex,1035,GOOD
+801,good,,data.nex,1035,GOOD
+802,good,,data.nex,1035,GOOD
+803,good,,data.nex,1035,GOOD
+804,good,,data.nex,1035,GOOD
+805,good,,data.nex,1035,GOOD
+806,good,,data.nex,1035,GOOD
+807,good,,data.nex,1035,GOOD
+808,good,,data.nex,1035,GOOD
+809,hair,,data.nex,1040,HAIR
+810,hair,,data.nex,1040,HAIR
+811,hair,,data.nex,1040,HAIR
+812,hair,,data.nex,1040,HAIR
+813,hair,,data.nex,1040,HAIR
+814,hair,,data.nex,1040,HAIR
+815,hair,,data.nex,1040,HAIR
+816,hair,,data.nex,1040,HAIR
+817,hair,,data.nex,1040,HAIR
+818,hair,,data.nex,1040,HAIR
+819,hair,,data.nex,1040,HAIR
+820,hair,,data.nex,1040,HAIR
+821,hair,,data.nex,1040,HAIR
+822,hair,,data.nex,1040,HAIR
+823,hair,,data.nex,1040,HAIR
+824,hair,,data.nex,1040,HAIR
+825,hair,,data.nex,1040,HAIR
+826,hair,,data.nex,1040,HAIR
+827,hair,,data.nex,1040,HAIR
+828,hair,,data.nex,1040,HAIR
+829,hair,,data.nex,1040,HAIR
+830,hair,,data.nex,1040,HAIR
+831,hand,,data.nex,1277,HAND
+832,hand,,data.nex,1277,HAND
+833,hand,,data.nex,1277,HAND
+834,hand,,data.nex,1277,HAND
+835,hand,,data.nex,1277,HAND
+836,hand,,data.nex,1277,HAND
+837,hand,,data.nex,1277,HAND
+838,hand,,data.nex,1277,HAND
+839,he,,data.nex,1211,HE
+840,he,,data.nex,1211,HE
+841,he,,data.nex,1211,HE
+842,he,,data.nex,1211,HE
+843,he,,data.nex,1211,HE
+844,he,,data.nex,1211,HE
+845,he,,data.nex,1211,HE
+846,he,,data.nex,1211,HE
+847,he,,data.nex,1211,HE
+848,he,,data.nex,1211,HE
+849,he,,data.nex,1211,HE
+850,he,,data.nex,1211,HE
+851,he,,data.nex,1211,HE
+852,head,,data.nex,1256,HEAD
+853,head,,data.nex,1256,HEAD
+854,head,,data.nex,1256,HEAD
+855,head,,data.nex,1256,HEAD
+856,head,,data.nex,1256,HEAD
+857,head,,data.nex,1256,HEAD
+858,head,,data.nex,1256,HEAD
+859,head,,data.nex,1256,HEAD
+860,head,,data.nex,1256,HEAD
+861,head,,data.nex,1256,HEAD
+862,head,,data.nex,1256,HEAD
+863,head,,data.nex,1256,HEAD
+864,head,,data.nex,1256,HEAD
+865,head,,data.nex,1256,HEAD
+866,head,,data.nex,1256,HEAD
+867,head,,data.nex,1256,HEAD
+868,head,,data.nex,1256,HEAD
+869,head,,data.nex,1256,HEAD
+870,head,,data.nex,1256,HEAD
+871,hear,,data.nex,1408,HEAR
+872,hear,,data.nex,1408,HEAR
+873,hear,,data.nex,1408,HEAR
+874,hear,,data.nex,1408,HEAR
+875,hear,,data.nex,1408,HEAR
+876,hear,,data.nex,1408,HEAR
+877,hear,,data.nex,1408,HEAR
+878,hear,,data.nex,1408,HEAR
+879,hear,,data.nex,1408,HEAR
+880,hear,,data.nex,1408,HEAR
+881,hear,,data.nex,1408,HEAR
+882,hear,,data.nex,1408,HEAR
+883,hear,,data.nex,1408,HEAR
+884,heart,,data.nex,1223,HEART
+885,heart,,data.nex,1223,HEART
+886,heart,,data.nex,1223,HEART
+887,heart,,data.nex,1223,HEART
+888,heart,,data.nex,1223,HEART
+889,heart,,data.nex,1223,HEART
+890,heart,,data.nex,1223,HEART
+891,heart,,data.nex,1223,HEART
+892,heavy,,data.nex,1210,HEAVY
+893,heavy,,data.nex,1210,HEAVY
+894,heavy,,data.nex,1210,HEAVY
+895,heavy,,data.nex,1210,HEAVY
+896,heavy,,data.nex,1210,HEAVY
+897,heavy,,data.nex,1210,HEAVY
+898,heavy,,data.nex,1210,HEAVY
+899,heavy,,data.nex,1210,HEAVY
+900,heavy,,data.nex,1210,HEAVY
+901,heavy,,data.nex,1210,HEAVY
+902,heavy,,data.nex,1210,HEAVY
+903,heavy,,data.nex,1210,HEAVY
+904,heavy,,data.nex,1210,HEAVY
+905,here,,data.nex,136,HERE
+906,here,,data.nex,136,HERE
+907,here,,data.nex,136,HERE
+908,here,,data.nex,136,HERE
+909,here,,data.nex,136,HERE
+910,here,,data.nex,136,HERE
+911,here,,data.nex,136,HERE
+912,here,,data.nex,136,HERE
+913,here,,data.nex,136,HERE
+914,here,,data.nex,136,HERE
+915,here,,data.nex,136,HERE
+916,here,,data.nex,136,HERE
+917,here,,data.nex,136,HERE
+918,here,,data.nex,136,HERE
+919,here,,data.nex,136,HERE
+920,here,,data.nex,136,HERE
+921,here,,data.nex,136,HERE
+922,here,,data.nex,136,HERE
+923,here,,data.nex,136,HERE
+924,here,,data.nex,136,HERE
+925,here,,data.nex,136,HERE
+926,here,,data.nex,136,HERE
+927,here,,data.nex,136,HERE
+928,here,,data.nex,136,HERE
+929,hit,,data.nex,1433,HIT
+930,hit,,data.nex,1433,HIT
+931,hit,,data.nex,1433,HIT
+932,hit,,data.nex,1433,HIT
+933,hit,,data.nex,1433,HIT
+934,hit,,data.nex,1433,HIT
+935,hit,,data.nex,1433,HIT
+936,hit,,data.nex,1433,HIT
+937,hit,,data.nex,1433,HIT
+938,hit,,data.nex,1433,HIT
+939,hit,,data.nex,1433,HIT
+940,hit,,data.nex,1433,HIT
+941,hit,,data.nex,1433,HIT
+942,hit,,data.nex,1433,HIT
+943,hit,,data.nex,1433,HIT
+944,hit,,data.nex,1433,HIT
+945,hit,,data.nex,1433,HIT
+946,hit,,data.nex,1433,HIT
+947,hit,,data.nex,1433,HIT
+948,hit,,data.nex,1433,HIT
+949,hit,,data.nex,1433,HIT
+950,hit,,data.nex,1433,HIT
+951,hit,,data.nex,1433,HIT
+952,hit,,data.nex,1433,HIT
+953,hit,,data.nex,1433,HIT
+954,hit,,data.nex,1433,HIT
+955,hit,,data.nex,1433,HIT
+956,hit,,data.nex,1433,HIT
+957,hit,,data.nex,1433,HIT
+958,hit,,data.nex,1433,HIT
+959,hit,,data.nex,1433,HIT
+960,hit,,data.nex,1433,HIT
+961,hit,,data.nex,1433,HIT
+962,hit,,data.nex,1433,HIT
+963,hit,,data.nex,1433,HIT
+964,hit,,data.nex,1433,HIT
+965,hit,,data.nex,1433,HIT
+966,hit,,data.nex,1433,HIT
+967,hit,,data.nex,1433,HIT
+968,hit,,data.nex,1433,HIT
+969,hit,,data.nex,1433,HIT
+970,how,,data.nex,1239,HOW
+971,how,,data.nex,1239,HOW
+972,how,,data.nex,1239,HOW
+973,how,,data.nex,1239,HOW
+974,how,,data.nex,1239,HOW
+975,how,,data.nex,1239,HOW
+976,how,,data.nex,1239,HOW
+977,how,,data.nex,1239,HOW
+978,husband,,data.nex,1200,HUSBAND
+979,husband,,data.nex,1200,HUSBAND
+980,husband,,data.nex,1200,HUSBAND
+981,husband,,data.nex,1200,HUSBAND
+982,husband,,data.nex,1200,HUSBAND
+983,husband,,data.nex,1200,HUSBAND
+984,husband,,data.nex,1200,HUSBAND
+985,husband,,data.nex,1200,HUSBAND
+986,husband,,data.nex,1200,HUSBAND
+987,husband,,data.nex,1200,HUSBAND
+988,husband,,data.nex,1200,HUSBAND
+989,husband,,data.nex,1200,HUSBAND
+990,husband,,data.nex,1200,HUSBAND
+991,husband,,data.nex,1200,HUSBAND
+992,husband,,data.nex,1200,HUSBAND
+993,husband,,data.nex,1200,HUSBAND
+994,husband,,data.nex,1200,HUSBAND
+995,husband,,data.nex,1200,HUSBAND
+996,husband,,data.nex,1200,HUSBAND
+997,husband,,data.nex,1200,HUSBAND
+998,husband,,data.nex,1200,HUSBAND
+999,husband,,data.nex,1200,HUSBAND
+1000,husband,,data.nex,1200,HUSBAND
+1001,husband,,data.nex,1200,HUSBAND
+1002,husband,,data.nex,1200,HUSBAND
+1003,husband,,data.nex,1200,HUSBAND
+1004,husband,,data.nex,1200,HUSBAND
+1005,husband,,data.nex,1200,HUSBAND
+1006,ice,,data.nex,617,ICE
+1007,ice,,data.nex,617,ICE
+1008,ice,,data.nex,617,ICE
+1009,ice,,data.nex,617,ICE
+1010,ice,,data.nex,617,ICE
+1011,ice,,data.nex,617,ICE
+1012,ice,,data.nex,617,ICE
+1013,ice,,data.nex,617,ICE
+1014,ice,,data.nex,617,ICE
+1015,ice,,data.nex,617,ICE
+1016,ice,,data.nex,617,ICE
+1017,ice,,data.nex,617,ICE
+1018,if,,data.nex,1459,IF
+1019,if,,data.nex,1459,IF
+1020,if,,data.nex,1459,IF
+1021,if,,data.nex,1459,IF
+1022,if,,data.nex,1459,IF
+1023,if,,data.nex,1459,IF
+1024,if,,data.nex,1459,IF
+1025,if,,data.nex,1459,IF
+1026,if,,data.nex,1459,IF
+1027,if,,data.nex,1459,IF
+1028,if,,data.nex,1459,IF
+1029,if,,data.nex,1459,IF
+1030,if,,data.nex,1459,IF
+1031,if,,data.nex,1459,IF
+1032,if,,data.nex,1459,IF
+1033,if,,data.nex,1459,IF
+1034,if,,data.nex,1459,IF
+1035,if,,data.nex,1459,IF
+1036,if,,data.nex,1459,IF
+1037,if,,data.nex,1459,IF
+1038,if,,data.nex,1459,IF
+1039,if,,data.nex,1459,IF
+1040,if,,data.nex,1459,IF
+1041,kill,,data.nex,1417,KILL
+1042,kill,,data.nex,1417,KILL
+1043,kill,,data.nex,1417,KILL
+1044,kill,,data.nex,1417,KILL
+1045,kill,,data.nex,1417,KILL
+1046,kill,,data.nex,1417,KILL
+1047,kill,,data.nex,1417,KILL
+1048,kill,,data.nex,1417,KILL
+1049,kill,,data.nex,1417,KILL
+1050,kill,,data.nex,1417,KILL
+1051,kill,,data.nex,1417,KILL
+1052,kill,,data.nex,1417,KILL
+1053,kill,,data.nex,1417,KILL
+1054,kill,,data.nex,1417,KILL
+1055,kill,,data.nex,1417,KILL
+1056,kill,,data.nex,1417,KILL
+1057,kill,,data.nex,1417,KILL
+1058,kill,,data.nex,1417,KILL
+1059,kill,,data.nex,1417,KILL
+1060,kill,,data.nex,1417,KILL
+1061,kill,,data.nex,1417,KILL
+1062,kill,,data.nex,1417,KILL
+1063,kill,,data.nex,1417,KILL
+1064,kill,,data.nex,1417,KILL
+1065,kill,,data.nex,1417,KILL
+1066,kill,,data.nex,1417,KILL
+1067,know,,data.nex,3626,KNOW
+1068,know,,data.nex,3626,KNOW
+1069,know,,data.nex,3626,KNOW
+1070,know,,data.nex,3626,KNOW
+1071,know,,data.nex,3626,KNOW
+1072,know,,data.nex,3626,KNOW
+1073,know,,data.nex,3626,KNOW
+1074,know,,data.nex,3626,KNOW
+1075,know,,data.nex,3626,KNOW
+1076,know,,data.nex,3626,KNOW
+1077,know,,data.nex,3626,KNOW
+1078,know,,data.nex,3626,KNOW
+1079,laugh,,data.nex,1355,LAUGH
+1080,laugh,,data.nex,1355,LAUGH
+1081,laugh,,data.nex,1355,LAUGH
+1082,laugh,,data.nex,1355,LAUGH
+1083,laugh,,data.nex,1355,LAUGH
+1084,laugh,,data.nex,1355,LAUGH
+1085,laugh,,data.nex,1355,LAUGH
+1086,laugh,,data.nex,1355,LAUGH
+1087,laugh,,data.nex,1355,LAUGH
+1088,laugh,,data.nex,1355,LAUGH
+1089,laugh,,data.nex,1355,LAUGH
+1090,leaf,,data.nex,628,LEAF
+1091,leaf,,data.nex,628,LEAF
+1092,leaf,,data.nex,628,LEAF
+1093,leaf,,data.nex,628,LEAF
+1094,leaf,,data.nex,628,LEAF
+1095,leaf,,data.nex,628,LEAF
+1096,leaf,,data.nex,628,LEAF
+1097,leaf,,data.nex,628,LEAF
+1098,leaf,,data.nex,628,LEAF
+1099,leaf,,data.nex,628,LEAF
+1100,leaf,,data.nex,628,LEAF
+1101,leaf,,data.nex,628,LEAF
+1102,leaf,,data.nex,628,LEAF
+1103,leaf,,data.nex,628,LEAF
+1104,leg,,data.nex,1297,LEG
+1105,leg,,data.nex,1297,LEG
+1106,leg,,data.nex,1297,LEG
+1107,leg,,data.nex,1297,LEG
+1108,leg,,data.nex,1297,LEG
+1109,leg,,data.nex,1297,LEG
+1110,leg,,data.nex,1297,LEG
+1111,leg,,data.nex,1297,LEG
+1112,leg,,data.nex,1297,LEG
+1113,leg,,data.nex,1297,LEG
+1114,leg,,data.nex,1297,LEG
+1115,leg,,data.nex,1297,LEG
+1116,leg,,data.nex,1297,LEG
+1117,leg,,data.nex,1297,LEG
+1118,leg,,data.nex,1297,LEG
+1119,leg,,data.nex,1297,LEG
+1120,leg,,data.nex,1297,LEG
+1121,leg,,data.nex,1297,LEG
+1122,leg,,data.nex,1297,LEG
+1123,leg,,data.nex,1297,LEG
+1124,leg,,data.nex,1297,LEG
+1125,leg,,data.nex,1297,LEG
+1126,lie,,data.nex,1411,LIE (REST)
+1127,lie,,data.nex,1411,LIE (REST)
+1128,lie,,data.nex,1411,LIE (REST)
+1129,lie,,data.nex,1411,LIE (REST)
+1130,lie,,data.nex,1411,LIE (REST)
+1131,lie,,data.nex,1411,LIE (REST)
+1132,lie,,data.nex,1411,LIE (REST)
+1133,lie,,data.nex,1411,LIE (REST)
+1134,lie,,data.nex,1411,LIE (REST)
+1135,lie,,data.nex,1411,LIE (REST)
+1136,lie,,data.nex,1411,LIE (REST)
+1137,lie,,data.nex,1411,LIE (REST)
+1138,lie,,data.nex,1411,LIE (REST)
+1139,lie,,data.nex,1411,LIE (REST)
+1140,lie,,data.nex,1411,LIE (REST)
+1141,lie,,data.nex,1411,LIE (REST)
+1142,lie,,data.nex,1411,LIE (REST)
+1143,lie,,data.nex,1411,LIE (REST)
+1144,lie,,data.nex,1411,LIE (REST)
+1145,lie,,data.nex,1411,LIE (REST)
+1146,lie,,data.nex,1411,LIE (REST)
+1147,lie,,data.nex,1411,LIE (REST)
+1148,lie,,data.nex,1411,LIE (REST)
+1149,lie,,data.nex,1411,LIE (REST)
+1150,lie,,data.nex,1411,LIE (REST)
+1151,lie,,data.nex,1411,LIE (REST)
+1152,lie,,data.nex,1411,LIE (REST)
+1153,live,,data.nex,1422,BE ALIVE
+1154,live,,data.nex,1422,BE ALIVE
+1155,live,,data.nex,1422,BE ALIVE
+1156,live,,data.nex,1422,BE ALIVE
+1157,live,,data.nex,1422,BE ALIVE
+1158,live,,data.nex,1422,BE ALIVE
+1159,live,,data.nex,1422,BE ALIVE
+1160,live,,data.nex,1422,BE ALIVE
+1161,live,,data.nex,1422,BE ALIVE
+1162,live,,data.nex,1422,BE ALIVE
+1163,live,,data.nex,1422,BE ALIVE
+1164,live,,data.nex,1422,BE ALIVE
+1165,long,,data.nex,1203,LONG
+1166,long,,data.nex,1203,LONG
+1167,long,,data.nex,1203,LONG
+1168,long,,data.nex,1203,LONG
+1169,long,,data.nex,1203,LONG
+1170,long,,data.nex,1203,LONG
+1171,long,,data.nex,1203,LONG
+1172,long,,data.nex,1203,LONG
+1173,long,,data.nex,1203,LONG
+1174,man,,data.nex,1554,MAN
+1175,man,,data.nex,1554,MAN
+1176,man,,data.nex,1554,MAN
+1177,man,,data.nex,1554,MAN
+1178,man,,data.nex,1554,MAN
+1179,man,,data.nex,1554,MAN
+1180,man,,data.nex,1554,MAN
+1181,man,,data.nex,1554,MAN
+1182,man,,data.nex,1554,MAN
+1183,man,,data.nex,1554,MAN
+1184,man,,data.nex,1554,MAN
+1185,man,,data.nex,1554,MAN
+1186,man,,data.nex,1554,MAN
+1187,man,,data.nex,1554,MAN
+1188,man,,data.nex,1554,MAN
+1189,man,,data.nex,1554,MAN
+1190,many,,data.nex,1198,MANY
+1191,many,,data.nex,1198,MANY
+1192,many,,data.nex,1198,MANY
+1193,many,,data.nex,1198,MANY
+1194,many,,data.nex,1198,MANY
+1195,many,,data.nex,1198,MANY
+1196,many,,data.nex,1198,MANY
+1197,many,,data.nex,1198,MANY
+1198,many,,data.nex,1198,MANY
+1199,many,,data.nex,1198,MANY
+1200,many,,data.nex,1198,MANY
+1201,many,,data.nex,1198,MANY
+1202,many,,data.nex,1198,MANY
+1203,many,,data.nex,1198,MANY
+1204,many,,data.nex,1198,MANY
+1205,many,,data.nex,1198,MANY
+1206,many,,data.nex,1198,MANY
+1207,many,,data.nex,1198,MANY
+1208,many,,data.nex,1198,MANY
+1209,many,,data.nex,1198,MANY
+1210,many,,data.nex,1198,MANY
+1211,many,,data.nex,1198,MANY
+1212,many,,data.nex,1198,MANY
+1213,many,,data.nex,1198,MANY
+1214,many,,data.nex,1198,MANY
+1215,many,,data.nex,1198,MANY
+1216,many,,data.nex,1198,MANY
+1217,many,,data.nex,1198,MANY
+1218,many,,data.nex,1198,MANY
+1219,mouth,,data.nex,674,MOUTH
+1220,mouth,,data.nex,674,MOUTH
+1221,mouth,,data.nex,674,MOUTH
+1222,mouth,,data.nex,674,MOUTH
+1223,mouth,,data.nex,674,MOUTH
+1224,mouth,,data.nex,674,MOUTH
+1225,mouth,,data.nex,674,MOUTH
+1226,mouth,,data.nex,674,MOUTH
+1227,mouth,,data.nex,674,MOUTH
+1228,mouth,,data.nex,674,MOUTH
+1229,mouth,,data.nex,674,MOUTH
+1230,mouth,,data.nex,674,MOUTH
+1231,mouth,,data.nex,674,MOUTH
+1232,name,,data.nex,1405,NAME
+1233,near,,data.nex,1942,NEAR
+1234,near,,data.nex,1942,NEAR
+1235,near,,data.nex,1942,NEAR
+1236,near,,data.nex,1942,NEAR
+1237,near,,data.nex,1942,NEAR
+1238,near,,data.nex,1942,NEAR
+1239,near,,data.nex,1942,NEAR
+1240,near,,data.nex,1942,NEAR
+1241,near,,data.nex,1942,NEAR
+1242,near,,data.nex,1942,NEAR
+1243,near,,data.nex,1942,NEAR
+1244,near,,data.nex,1942,NEAR
+1245,near,,data.nex,1942,NEAR
+1246,near,,data.nex,1942,NEAR
+1247,near,,data.nex,1942,NEAR
+1248,near,,data.nex,1942,NEAR
+1249,near,,data.nex,1942,NEAR
+1250,near,,data.nex,1942,NEAR
+1251,near,,data.nex,1942,NEAR
+1252,near,,data.nex,1942,NEAR
+1253,near,,data.nex,1942,NEAR
+1254,near,,data.nex,1942,NEAR
+1255,near,,data.nex,1942,NEAR
+1256,near,,data.nex,1942,NEAR
+1257,near,,data.nex,1942,NEAR
+1258,near,,data.nex,1942,NEAR
+1259,near,,data.nex,1942,NEAR
+1260,near,,data.nex,1942,NEAR
+1261,near,,data.nex,1942,NEAR
+1262,near,,data.nex,1942,NEAR
+1263,near,,data.nex,1942,NEAR
+1264,near,,data.nex,1942,NEAR
+1265,near,,data.nex,1942,NEAR
+1266,near,,data.nex,1942,NEAR
+1267,near,,data.nex,1942,NEAR
+1268,near,,data.nex,1942,NEAR
+1269,near,,data.nex,1942,NEAR
+1270,near,,data.nex,1942,NEAR
+1271,near,,data.nex,1942,NEAR
+1272,near,,data.nex,1942,NEAR
+1273,near,,data.nex,1942,NEAR
+1274,near,,data.nex,1942,NEAR
+1275,near,,data.nex,1942,NEAR
+1276,new,,data.nex,1231,NEW
+1277,new,,data.nex,1231,NEW
+1278,new,,data.nex,1231,NEW
+1279,new,,data.nex,1231,NEW
+1280,night,,data.nex,1233,NIGHT
+1281,night,,data.nex,1233,NIGHT
+1282,night,,data.nex,1233,NIGHT
+1283,night,,data.nex,1233,NIGHT
+1284,night,,data.nex,1233,NIGHT
+1285,night,,data.nex,1233,NIGHT
+1286,night,,data.nex,1233,NIGHT
+1287,night,,data.nex,1233,NIGHT
+1288,night,,data.nex,1233,NIGHT
+1289,night,,data.nex,1233,NIGHT
+1290,night,,data.nex,1233,NIGHT
+1291,nose,,data.nex,1221,NOSE
+1292,nose,,data.nex,1221,NOSE
+1293,nose,,data.nex,1221,NOSE
+1294,nose,,data.nex,1221,NOSE
+1295,nose,,data.nex,1221,NOSE
+1296,nose,,data.nex,1221,NOSE
+1297,nose,,data.nex,1221,NOSE
+1298,nose,,data.nex,1221,NOSE
+1299,nose,,data.nex,1221,NOSE
+1300,nose,,data.nex,1221,NOSE
+1301,not,,data.nex,1240,NOT
+1302,not,,data.nex,1240,NOT
+1303,not,,data.nex,1240,NOT
+1304,not,,data.nex,1240,NOT
+1305,not,,data.nex,1240,NOT
+1306,not,,data.nex,1240,NOT
+1307,not,,data.nex,1240,NOT
+1308,old,,data.nex,1229,OLD
+1309,old,,data.nex,1229,OLD
+1310,old,,data.nex,1229,OLD
+1311,old,,data.nex,1229,OLD
+1312,old,,data.nex,1229,OLD
+1313,old,,data.nex,1229,OLD
+1314,old,,data.nex,1229,OLD
+1315,old,,data.nex,1229,OLD
+1316,old,,data.nex,1229,OLD
+1317,old,,data.nex,1229,OLD
+1318,old,,data.nex,1229,OLD
+1319,old,,data.nex,1229,OLD
+1320,old,,data.nex,1229,OLD
+1321,old,,data.nex,1229,OLD
+1322,old,,data.nex,1229,OLD
+1323,old,,data.nex,1229,OLD
+1324,old,,data.nex,1229,OLD
+1325,old,,data.nex,1229,OLD
+1326,old,,data.nex,1229,OLD
+1327,old,,data.nex,1229,OLD
+1328,one,,data.nex,1493,ONE
+1329,one,,data.nex,1493,ONE
+1330,one,,data.nex,1493,ONE
+1331,other,,data.nex,197,OTHER
+1332,other,,data.nex,197,OTHER
+1333,other,,data.nex,197,OTHER
+1334,other,,data.nex,197,OTHER
+1335,other,,data.nex,197,OTHER
+1336,other,,data.nex,197,OTHER
+1337,other,,data.nex,197,OTHER
+1338,other,,data.nex,197,OTHER
+1339,other,,data.nex,197,OTHER
+1340,other,,data.nex,197,OTHER
+1341,other,,data.nex,197,OTHER
+1342,other,,data.nex,197,OTHER
+1343,person,,data.nex,683,PERSON
+1344,person,,data.nex,683,PERSON
+1345,person,,data.nex,683,PERSON
+1346,person,,data.nex,683,PERSON
+1347,person,,data.nex,683,PERSON
+1348,person,,data.nex,683,PERSON
+1349,person,,data.nex,683,PERSON
+1350,person,,data.nex,683,PERSON
+1351,person,,data.nex,683,PERSON
+1352,person,,data.nex,683,PERSON
+1353,person,,data.nex,683,PERSON
+1354,person,,data.nex,683,PERSON
+1355,person,,data.nex,683,PERSON
+1356,person,,data.nex,683,PERSON
+1357,person,,data.nex,683,PERSON
+1358,person,,data.nex,683,PERSON
+1359,person,,data.nex,683,PERSON
+1360,person,,data.nex,683,PERSON
+1361,person,,data.nex,683,PERSON
+1362,person,,data.nex,683,PERSON
+1363,person,,data.nex,683,PERSON
+1364,person,,data.nex,683,PERSON
+1365,person,,data.nex,683,PERSON
+1366,person,,data.nex,683,PERSON
+1367,pull,,data.nex,1455,PULL
+1368,pull,,data.nex,1455,PULL
+1369,pull,,data.nex,1455,PULL
+1370,pull,,data.nex,1455,PULL
+1371,pull,,data.nex,1455,PULL
+1372,pull,,data.nex,1455,PULL
+1373,pull,,data.nex,1455,PULL
+1374,pull,,data.nex,1455,PULL
+1375,pull,,data.nex,1455,PULL
+1376,pull,,data.nex,1455,PULL
+1377,pull,,data.nex,1455,PULL
+1378,pull,,data.nex,1455,PULL
+1379,pull,,data.nex,1455,PULL
+1380,pull,,data.nex,1455,PULL
+1381,pull,,data.nex,1455,PULL
+1382,pull,,data.nex,1455,PULL
+1383,pull,,data.nex,1455,PULL
+1384,pull,,data.nex,1455,PULL
+1385,pull,,data.nex,1455,PULL
+1386,pull,,data.nex,1455,PULL
+1387,pull,,data.nex,1455,PULL
+1388,pull,,data.nex,1455,PULL
+1389,pull,,data.nex,1455,PULL
+1390,pull,,data.nex,1455,PULL
+1391,pull,,data.nex,1455,PULL
+1392,pull,,data.nex,1455,PULL
+1393,pull,,data.nex,1455,PULL
+1394,rain,,data.nex,658,RAIN (PRECIPITATION)
+1395,rain,,data.nex,658,RAIN (PRECIPITATION)
+1396,rain,,data.nex,658,RAIN (PRECIPITATION)
+1397,rain,,data.nex,658,RAIN (PRECIPITATION)
+1398,rain,,data.nex,658,RAIN (PRECIPITATION)
+1399,rain,,data.nex,658,RAIN (PRECIPITATION)
+1400,rain,,data.nex,658,RAIN (PRECIPITATION)
+1401,rain,,data.nex,658,RAIN (PRECIPITATION)
+1402,rain,,data.nex,658,RAIN (PRECIPITATION)
+1403,rain,,data.nex,658,RAIN (PRECIPITATION)
+1404,rain,,data.nex,658,RAIN (PRECIPITATION)
+1405,rain,,data.nex,658,RAIN (PRECIPITATION)
+1406,rain,,data.nex,658,RAIN (PRECIPITATION)
+1407,rain,,data.nex,658,RAIN (PRECIPITATION)
+1408,rain,,data.nex,658,RAIN (PRECIPITATION)
+1409,rain,,data.nex,658,RAIN (PRECIPITATION)
+1410,red,,data.nex,156,RED
+1411,red,,data.nex,156,RED
+1412,red,,data.nex,156,RED
+1413,red,,data.nex,156,RED
+1414,red,,data.nex,156,RED
+1415,red,,data.nex,156,RED
+1416,red,,data.nex,156,RED
+1417,red,,data.nex,156,RED
+1418,red,,data.nex,156,RED
+1419,red,,data.nex,156,RED
+1420,red,,data.nex,156,RED
+1421,red,,data.nex,156,RED
+1422,red,,data.nex,156,RED
+1423,red,,data.nex,156,RED
+1424,red,,data.nex,156,RED
+1425,rightsid,,data.nex,1019,RIGHT
+1426,rightsid,,data.nex,1019,RIGHT
+1427,rightsid,,data.nex,1019,RIGHT
+1428,rightsid,,data.nex,1019,RIGHT
+1429,rightsid,,data.nex,1019,RIGHT
+1430,rightsid,,data.nex,1019,RIGHT
+1431,rightsid,,data.nex,1019,RIGHT
+1432,rightsid,,data.nex,1019,RIGHT
+1433,rightsid,,data.nex,1019,RIGHT
+1434,rightsid,,data.nex,1019,RIGHT
+1435,rightsid,,data.nex,1019,RIGHT
+1436,rightsid,,data.nex,1019,RIGHT
+1437,rightsid,,data.nex,1019,RIGHT
+1438,rightsid,,data.nex,1019,RIGHT
+1439,river,,data.nex,666,RIVER
+1440,river,,data.nex,666,RIVER
+1441,river,,data.nex,666,RIVER
+1442,river,,data.nex,666,RIVER
+1443,river,,data.nex,666,RIVER
+1444,river,,data.nex,666,RIVER
+1445,river,,data.nex,666,RIVER
+1446,river,,data.nex,666,RIVER
+1447,river,,data.nex,666,RIVER
+1448,river,,data.nex,666,RIVER
+1449,river,,data.nex,666,RIVER
+1450,river,,data.nex,666,RIVER
+1451,river,,data.nex,666,RIVER
+1452,river,,data.nex,666,RIVER
+1453,river,,data.nex,666,RIVER
+1454,river,,data.nex,666,RIVER
+1455,road,,data.nex,667,ROAD
+1456,road,,data.nex,667,ROAD
+1457,road,,data.nex,667,ROAD
+1458,road,,data.nex,667,ROAD
+1459,road,,data.nex,667,ROAD
+1460,road,,data.nex,667,ROAD
+1461,road,,data.nex,667,ROAD
+1462,road,,data.nex,667,ROAD
+1463,road,,data.nex,667,ROAD
+1464,road,,data.nex,667,ROAD
+1465,road,,data.nex,667,ROAD
+1466,road,,data.nex,667,ROAD
+1467,road,,data.nex,667,ROAD
+1468,road,,data.nex,667,ROAD
+1469,road,,data.nex,667,ROAD
+1470,road,,data.nex,667,ROAD
+1471,road,,data.nex,667,ROAD
+1472,road,,data.nex,667,ROAD
+1473,road,,data.nex,667,ROAD
+1474,road,,data.nex,667,ROAD
+1475,road,,data.nex,667,ROAD
+1476,road,,data.nex,667,ROAD
+1477,road,,data.nex,667,ROAD
+1478,road,,data.nex,667,ROAD
+1479,road,,data.nex,667,ROAD
+1480,road,,data.nex,667,ROAD
+1481,road,,data.nex,667,ROAD
+1482,road,,data.nex,667,ROAD
+1483,road,,data.nex,667,ROAD
+1484,road,,data.nex,667,ROAD
+1485,road,,data.nex,667,ROAD
+1486,road,,data.nex,667,ROAD
+1487,road,,data.nex,667,ROAD
+1488,root,,data.nex,670,ROOT
+1489,root,,data.nex,670,ROOT
+1490,root,,data.nex,670,ROOT
+1491,root,,data.nex,670,ROOT
+1492,root,,data.nex,670,ROOT
+1493,root,,data.nex,670,ROOT
+1494,root,,data.nex,670,ROOT
+1495,root,,data.nex,670,ROOT
+1496,root,,data.nex,670,ROOT
+1497,root,,data.nex,670,ROOT
+1498,rotten,,data.nex,1728,ROTTEN
+1499,rotten,,data.nex,1728,ROTTEN
+1500,rotten,,data.nex,1728,ROTTEN
+1501,rotten,,data.nex,1728,ROTTEN
+1502,rotten,,data.nex,1728,ROTTEN
+1503,rotten,,data.nex,1728,ROTTEN
+1504,rotten,,data.nex,1728,ROTTEN
+1505,rotten,,data.nex,1728,ROTTEN
+1506,rotten,,data.nex,1728,ROTTEN
+1507,rotten,,data.nex,1728,ROTTEN
+1508,rotten,,data.nex,1728,ROTTEN
+1509,rotten,,data.nex,1728,ROTTEN
+1510,rotten,,data.nex,1728,ROTTEN
+1511,rotten,,data.nex,1728,ROTTEN
+1512,rotten,,data.nex,1728,ROTTEN
+1513,rotten,,data.nex,1728,ROTTEN
+1514,rotten,,data.nex,1728,ROTTEN
+1515,rotten,,data.nex,1728,ROTTEN
+1516,rotten,,data.nex,1728,ROTTEN
+1517,rotten,,data.nex,1728,ROTTEN
+1518,rotten,,data.nex,1728,ROTTEN
+1519,rotten,,data.nex,1728,ROTTEN
+1520,rotten,,data.nex,1728,ROTTEN
+1521,rotten,,data.nex,1728,ROTTEN
+1522,rotten,,data.nex,1728,ROTTEN
+1523,rotten,,data.nex,1728,ROTTEN
+1524,rotten,,data.nex,1728,ROTTEN
+1525,rotten,,data.nex,1728,ROTTEN
+1526,rotten,,data.nex,1728,ROTTEN
+1527,rotten,,data.nex,1728,ROTTEN
+1528,salt,,data.nex,1274,SALT
+1529,salt,,data.nex,1274,SALT
+1530,salt,,data.nex,1274,SALT
+1531,salt,,data.nex,1274,SALT
+1532,say,,data.nex,1458,SAY
+1533,say,,data.nex,1458,SAY
+1534,say,,data.nex,1458,SAY
+1535,say,,data.nex,1458,SAY
+1536,say,,data.nex,1458,SAY
+1537,say,,data.nex,1458,SAY
+1538,say,,data.nex,1458,SAY
+1539,say,,data.nex,1458,SAY
+1540,say,,data.nex,1458,SAY
+1541,say,,data.nex,1458,SAY
+1542,say,,data.nex,1458,SAY
+1543,say,,data.nex,1458,SAY
+1544,say,,data.nex,1458,SAY
+1545,say,,data.nex,1458,SAY
+1546,say,,data.nex,1458,SAY
+1547,say,,data.nex,1458,SAY
+1548,say,,data.nex,1458,SAY
+1549,say,,data.nex,1458,SAY
+1550,say,,data.nex,1458,SAY
+1551,say,,data.nex,1458,SAY
+1552,say,,data.nex,1458,SAY
+1553,say,,data.nex,1458,SAY
+1554,say,,data.nex,1458,SAY
+1555,say,,data.nex,1458,SAY
+1556,say,,data.nex,1458,SAY
+1557,sea,,data.nex,1474,SEA
+1558,sea,,data.nex,1474,SEA
+1559,sea,,data.nex,1474,SEA
+1560,sea,,data.nex,1474,SEA
+1561,sea,,data.nex,1474,SEA
+1562,sea,,data.nex,1474,SEA
+1563,sea,,data.nex,1474,SEA
+1564,sea,,data.nex,1474,SEA
+1565,sea,,data.nex,1474,SEA
+1566,sea,,data.nex,1474,SEA
+1567,sea,,data.nex,1474,SEA
+1568,sea,,data.nex,1474,SEA
+1569,sea,,data.nex,1474,SEA
+1570,sea,,data.nex,1474,SEA
+1571,sea,,data.nex,1474,SEA
+1572,see,,data.nex,1409,SEE
+1573,see,,data.nex,1409,SEE
+1574,see,,data.nex,1409,SEE
+1575,see,,data.nex,1409,SEE
+1576,see,,data.nex,1409,SEE
+1577,see,,data.nex,1409,SEE
+1578,see,,data.nex,1409,SEE
+1579,see,,data.nex,1409,SEE
+1580,see,,data.nex,1409,SEE
+1581,see,,data.nex,1409,SEE
+1582,see,,data.nex,1409,SEE
+1583,see,,data.nex,1409,SEE
+1584,see,,data.nex,1409,SEE
+1585,see,,data.nex,1409,SEE
+1586,see,,data.nex,1409,SEE
+1587,see,,data.nex,1409,SEE
+1588,seed,,data.nex,714,SEED
+1589,seed,,data.nex,714,SEED
+1590,seed,,data.nex,714,SEED
+1591,seed,,data.nex,714,SEED
+1592,seed,,data.nex,714,SEED
+1593,seed,,data.nex,714,SEED
+1594,seed,,data.nex,714,SEED
+1595,seed,,data.nex,714,SEED
+1596,seed,,data.nex,714,SEED
+1597,seed,,data.nex,714,SEED
+1598,seed,,data.nex,714,SEED
+1599,seed,,data.nex,714,SEED
+1600,seed,,data.nex,714,SEED
+1601,seed,,data.nex,714,SEED
+1602,sharp,,data.nex,1396,SHARP
+1603,sharp,,data.nex,1396,SHARP
+1604,sharp,,data.nex,1396,SHARP
+1605,sharp,,data.nex,1396,SHARP
+1606,sharp,,data.nex,1396,SHARP
+1607,sharp,,data.nex,1396,SHARP
+1608,sharp,,data.nex,1396,SHARP
+1609,sharp,,data.nex,1396,SHARP
+1610,sharp,,data.nex,1396,SHARP
+1611,sharp,,data.nex,1396,SHARP
+1612,sharp,,data.nex,1396,SHARP
+1613,sharp,,data.nex,1396,SHARP
+1614,sharp,,data.nex,1396,SHARP
+1615,sharp,,data.nex,1396,SHARP
+1616,sharp,,data.nex,1396,SHARP
+1617,sharp,,data.nex,1396,SHARP
+1618,sharp,,data.nex,1396,SHARP
+1619,sharp,,data.nex,1396,SHARP
+1620,sharp,,data.nex,1396,SHARP
+1621,sharp,,data.nex,1396,SHARP
+1622,sharp,,data.nex,1396,SHARP
+1623,sharp,,data.nex,1396,SHARP
+1624,sharp,,data.nex,1396,SHARP
+1625,sharp,,data.nex,1396,SHARP
+1626,sharp,,data.nex,1396,SHARP
+1627,sharp,,data.nex,1396,SHARP
+1628,sharp,,data.nex,1396,SHARP
+1629,short,,data.nex,1645,SHORT
+1630,short,,data.nex,1645,SHORT
+1631,short,,data.nex,1645,SHORT
+1632,short,,data.nex,1645,SHORT
+1633,short,,data.nex,1645,SHORT
+1634,short,,data.nex,1645,SHORT
+1635,short,,data.nex,1645,SHORT
+1636,short,,data.nex,1645,SHORT
+1637,short,,data.nex,1645,SHORT
+1638,short,,data.nex,1645,SHORT
+1639,short,,data.nex,1645,SHORT
+1640,short,,data.nex,1645,SHORT
+1641,short,,data.nex,1645,SHORT
+1642,short,,data.nex,1645,SHORT
+1643,short,,data.nex,1645,SHORT
+1644,short,,data.nex,1645,SHORT
+1645,short,,data.nex,1645,SHORT
+1646,short,,data.nex,1645,SHORT
+1647,short,,data.nex,1645,SHORT
+1648,sing,,data.nex,1261,SING
+1649,sing,,data.nex,1261,SING
+1650,sing,,data.nex,1261,SING
+1651,sing,,data.nex,1261,SING
+1652,sing,,data.nex,1261,SING
+1653,sing,,data.nex,1261,SING
+1654,sing,,data.nex,1261,SING
+1655,sing,,data.nex,1261,SING
+1656,sing,,data.nex,1261,SING
+1657,sing,,data.nex,1261,SING
+1658,sing,,data.nex,1261,SING
+1659,sing,,data.nex,1261,SING
+1660,sing,,data.nex,1261,SING
+1661,sing,,data.nex,1261,SING
+1662,sing,,data.nex,1261,SING
+1663,sit,,data.nex,1416,SIT
+1664,sit,,data.nex,1416,SIT
+1665,sit,,data.nex,1416,SIT
+1666,sit,,data.nex,1416,SIT
+1667,sit,,data.nex,1416,SIT
+1668,sit,,data.nex,1416,SIT
+1669,sit,,data.nex,1416,SIT
+1670,sit,,data.nex,1416,SIT
+1671,sit,,data.nex,1416,SIT
+1672,skin,,data.nex,763,SKIN
+1673,skin,,data.nex,763,SKIN
+1674,skin,,data.nex,763,SKIN
+1675,skin,,data.nex,763,SKIN
+1676,skin,,data.nex,763,SKIN
+1677,skin,,data.nex,763,SKIN
+1678,skin,,data.nex,763,SKIN
+1679,skin,,data.nex,763,SKIN
+1680,skin,,data.nex,763,SKIN
+1681,skin,,data.nex,763,SKIN
+1682,skin,,data.nex,763,SKIN
+1683,skin,,data.nex,763,SKIN
+1684,skin,,data.nex,763,SKIN
+1685,skin,,data.nex,763,SKIN
+1686,skin,,data.nex,763,SKIN
+1687,skin,,data.nex,763,SKIN
+1688,skin,,data.nex,763,SKIN
+1689,skin,,data.nex,763,SKIN
+1690,skin,,data.nex,763,SKIN
+1691,skin,,data.nex,763,SKIN
+1692,skin,,data.nex,763,SKIN
+1693,sky,,data.nex,1732,SKY
+1694,sky,,data.nex,1732,SKY
+1695,sky,,data.nex,1732,SKY
+1696,sky,,data.nex,1732,SKY
+1697,sky,,data.nex,1732,SKY
+1698,sky,,data.nex,1732,SKY
+1699,sky,,data.nex,1732,SKY
+1700,sky,,data.nex,1732,SKY
+1701,sky,,data.nex,1732,SKY
+1702,sky,,data.nex,1732,SKY
+1703,sky,,data.nex,1732,SKY
+1704,sky,,data.nex,1732,SKY
+1705,sky,,data.nex,1732,SKY
+1706,sky,,data.nex,1732,SKY
+1707,sky,,data.nex,1732,SKY
+1708,sky,,data.nex,1732,SKY
+1709,sleep,,data.nex,1585,SLEEP
+1710,sleep,,data.nex,1585,SLEEP
+1711,sleep,,data.nex,1585,SLEEP
+1712,sleep,,data.nex,1585,SLEEP
+1713,sleep,,data.nex,1585,SLEEP
+1714,sleep,,data.nex,1585,SLEEP
+1715,sleep,,data.nex,1585,SLEEP
+1716,sleep,,data.nex,1585,SLEEP
+1717,sleep,,data.nex,1585,SLEEP
+1718,sleep,,data.nex,1585,SLEEP
+1719,sleep,,data.nex,1585,SLEEP
+1720,sleep,,data.nex,1585,SLEEP
+1721,sleep,,data.nex,1585,SLEEP
+1722,sleep,,data.nex,1585,SLEEP
+1723,sleep,,data.nex,1585,SLEEP
+1724,sleep,,data.nex,1585,SLEEP
+1725,small,,data.nex,1246,SMALL
+1726,small,,data.nex,1246,SMALL
+1727,small,,data.nex,1246,SMALL
+1728,small,,data.nex,1246,SMALL
+1729,small,,data.nex,1246,SMALL
+1730,small,,data.nex,1246,SMALL
+1731,small,,data.nex,1246,SMALL
+1732,small,,data.nex,1246,SMALL
+1733,small,,data.nex,1246,SMALL
+1734,small,,data.nex,1246,SMALL
+1735,small,,data.nex,1246,SMALL
+1736,small,,data.nex,1246,SMALL
+1737,small,,data.nex,1246,SMALL
+1738,small,,data.nex,1246,SMALL
+1739,small,,data.nex,1246,SMALL
+1740,small,,data.nex,1246,SMALL
+1741,small,,data.nex,1246,SMALL
+1742,small,,data.nex,1246,SMALL
+1743,small,,data.nex,1246,SMALL
+1744,small,,data.nex,1246,SMALL
+1745,small,,data.nex,1246,SMALL
+1746,small,,data.nex,1246,SMALL
+1747,small,,data.nex,1246,SMALL
+1748,small,,data.nex,1246,SMALL
+1749,small,,data.nex,1246,SMALL
+1750,small,,data.nex,1246,SMALL
+1751,small,,data.nex,1246,SMALL
+1752,small,,data.nex,1246,SMALL
+1753,small,,data.nex,1246,SMALL
+1754,small,,data.nex,1246,SMALL
+1755,small,,data.nex,1246,SMALL
+1756,small,,data.nex,1246,SMALL
+1757,small,,data.nex,1246,SMALL
+1758,small,,data.nex,1246,SMALL
+1759,smoke,,data.nex,778,SMOKE (EXHAUST)
+1760,smoke,,data.nex,778,SMOKE (EXHAUST)
+1761,smoke,,data.nex,778,SMOKE (EXHAUST)
+1762,smoke,,data.nex,778,SMOKE (EXHAUST)
+1763,smoke,,data.nex,778,SMOKE (EXHAUST)
+1764,smoke,,data.nex,778,SMOKE (EXHAUST)
+1765,smoke,,data.nex,778,SMOKE (EXHAUST)
+1766,smoke,,data.nex,778,SMOKE (EXHAUST)
+1767,smoke,,data.nex,778,SMOKE (EXHAUST)
+1768,snake,,data.nex,730,SNAKE
+1769,snake,,data.nex,730,SNAKE
+1770,snake,,data.nex,730,SNAKE
+1771,snake,,data.nex,730,SNAKE
+1772,snake,,data.nex,730,SNAKE
+1773,snake,,data.nex,730,SNAKE
+1774,snake,,data.nex,730,SNAKE
+1775,snake,,data.nex,730,SNAKE
+1776,snake,,data.nex,730,SNAKE
+1777,snake,,data.nex,730,SNAKE
+1778,snake,,data.nex,730,SNAKE
+1779,snake,,data.nex,730,SNAKE
+1780,snake,,data.nex,730,SNAKE
+1781,snake,,data.nex,730,SNAKE
+1782,snow,,data.nex,784,SNOW
+1783,snow,,data.nex,784,SNOW
+1784,snow,,data.nex,784,SNOW
+1785,snow,,data.nex,784,SNOW
+1786,snow,,data.nex,784,SNOW
+1787,snow,,data.nex,784,SNOW
+1788,snow,,data.nex,784,SNOW
+1789,snow,,data.nex,784,SNOW
+1790,spit,,data.nex,1440,SPIT
+1791,spit,,data.nex,1440,SPIT
+1792,spit,,data.nex,1440,SPIT
+1793,spit,,data.nex,1440,SPIT
+1794,spit,,data.nex,1440,SPIT
+1795,spit,,data.nex,1440,SPIT
+1796,spit,,data.nex,1440,SPIT
+1797,spit,,data.nex,1440,SPIT
+1798,spit,,data.nex,1440,SPIT
+1799,spit,,data.nex,1440,SPIT
+1800,spit,,data.nex,1440,SPIT
+1801,spit,,data.nex,1440,SPIT
+1802,spit,,data.nex,1440,SPIT
+1803,spit,,data.nex,1440,SPIT
+1804,spit,,data.nex,1440,SPIT
+1805,spit,,data.nex,1440,SPIT
+1806,stand,,data.nex,1442,STAND
+1807,stand,,data.nex,1442,STAND
+1808,stand,,data.nex,1442,STAND
+1809,stand,,data.nex,1442,STAND
+1810,stand,,data.nex,1442,STAND
+1811,stand,,data.nex,1442,STAND
+1812,stand,,data.nex,1442,STAND
+1813,stand,,data.nex,1442,STAND
+1814,stand,,data.nex,1442,STAND
+1815,stand,,data.nex,1442,STAND
+1816,stand,,data.nex,1442,STAND
+1817,stand,,data.nex,1442,STAND
+1818,stand,,data.nex,1442,STAND
+1819,stand,,data.nex,1442,STAND
+1820,stand,,data.nex,1442,STAND
+1821,stand,,data.nex,1442,STAND
+1822,stand,,data.nex,1442,STAND
+1823,stand,,data.nex,1442,STAND
+1824,stand,,data.nex,1442,STAND
+1825,stand,,data.nex,1442,STAND
+1826,stand,,data.nex,1442,STAND
+1827,stand,,data.nex,1442,STAND
+1828,star,,data.nex,1430,STAR
+1829,star,,data.nex,1430,STAR
+1830,star,,data.nex,1430,STAR
+1831,star,,data.nex,1430,STAR
+1832,star,,data.nex,1430,STAR
+1833,star,,data.nex,1430,STAR
+1834,stone,,data.nex,857,STONE
+1835,stone,,data.nex,857,STONE
+1836,stone,,data.nex,857,STONE
+1837,stone,,data.nex,857,STONE
+1838,stone,,data.nex,857,STONE
+1839,stone,,data.nex,857,STONE
+1840,stone,,data.nex,857,STONE
+1841,stone,,data.nex,857,STONE
+1842,stone,,data.nex,857,STONE
+1843,stone,,data.nex,857,STONE
+1844,stone,,data.nex,857,STONE
+1845,stone,,data.nex,857,STONE
+1846,stone,,data.nex,857,STONE
+1847,stone,,data.nex,857,STONE
+1848,stone,,data.nex,857,STONE
+1849,stone,,data.nex,857,STONE
+1850,stone,,data.nex,857,STONE
+1851,stone,,data.nex,857,STONE
+1852,stone,,data.nex,857,STONE
+1853,stone,,data.nex,857,STONE
+1854,stone,,data.nex,857,STONE
+1855,sun,,data.nex,1343,SUN
+1856,sun,,data.nex,1343,SUN
+1857,sun,,data.nex,1343,SUN
+1858,sun,,data.nex,1343,SUN
+1859,sun,,data.nex,1343,SUN
+1860,sun,,data.nex,1343,SUN
+1861,swell,,data.nex,1573,SWELL
+1862,swell,,data.nex,1573,SWELL
+1863,swell,,data.nex,1573,SWELL
+1864,swell,,data.nex,1573,SWELL
+1865,swell,,data.nex,1573,SWELL
+1866,swell,,data.nex,1573,SWELL
+1867,swell,,data.nex,1573,SWELL
+1868,swell,,data.nex,1573,SWELL
+1869,swell,,data.nex,1573,SWELL
+1870,swell,,data.nex,1573,SWELL
+1871,swell,,data.nex,1573,SWELL
+1872,swell,,data.nex,1573,SWELL
+1873,swell,,data.nex,1573,SWELL
+1874,swell,,data.nex,1573,SWELL
+1875,swell,,data.nex,1573,SWELL
+1876,that,,data.nex,78,THAT
+1877,that,,data.nex,78,THAT
+1878,that,,data.nex,78,THAT
+1879,that,,data.nex,78,THAT
+1880,that,,data.nex,78,THAT
+1881,that,,data.nex,78,THAT
+1882,that,,data.nex,78,THAT
+1883,that,,data.nex,78,THAT
+1884,that,,data.nex,78,THAT
+1885,that,,data.nex,78,THAT
+1886,that,,data.nex,78,THAT
+1887,that,,data.nex,78,THAT
+1888,that,,data.nex,78,THAT
+1889,that,,data.nex,78,THAT
+1890,that,,data.nex,78,THAT
+1891,that,,data.nex,78,THAT
+1892,that,,data.nex,78,THAT
+1893,that,,data.nex,78,THAT
+1894,that,,data.nex,78,THAT
+1895,that,,data.nex,78,THAT
+1896,that,,data.nex,78,THAT
+1897,that,,data.nex,78,THAT
+1898,that,,data.nex,78,THAT
+1899,that,,data.nex,78,THAT
+1900,that,,data.nex,78,THAT
+1901,they,,data.nex,817,THEY
+1902,they,,data.nex,817,THEY
+1903,they,,data.nex,817,THEY
+1904,they,,data.nex,817,THEY
+1905,they,,data.nex,817,THEY
+1906,they,,data.nex,817,THEY
+1907,they,,data.nex,817,THEY
+1908,they,,data.nex,817,THEY
+1909,they,,data.nex,817,THEY
+1910,they,,data.nex,817,THEY
+1911,they,,data.nex,817,THEY
+1912,they,,data.nex,817,THEY
+1913,they,,data.nex,817,THEY
+1914,they,,data.nex,817,THEY
+1915,this,,data.nex,1214,THIS
+1916,this,,data.nex,1214,THIS
+1917,this,,data.nex,1214,THIS
+1918,this,,data.nex,1214,THIS
+1919,this,,data.nex,1214,THIS
+1920,this,,data.nex,1214,THIS
+1921,this,,data.nex,1214,THIS
+1922,this,,data.nex,1214,THIS
+1923,this,,data.nex,1214,THIS
+1924,this,,data.nex,1214,THIS
+1925,this,,data.nex,1214,THIS
+1926,thou,,data.nex,1215,THOU
+1927,thou,,data.nex,1215,THOU
+1928,thou,,data.nex,1215,THOU
+1929,thou,,data.nex,1215,THOU
+1930,thou,,data.nex,1215,THOU
+1931,thou,,data.nex,1215,THOU
+1932,three,,data.nex,492,THREE
+1933,throw,,data.nex,1456,THROW
+1934,throw,,data.nex,1456,THROW
+1935,throw,,data.nex,1456,THROW
+1936,throw,,data.nex,1456,THROW
+1937,throw,,data.nex,1456,THROW
+1938,throw,,data.nex,1456,THROW
+1939,throw,,data.nex,1456,THROW
+1940,throw,,data.nex,1456,THROW
+1941,throw,,data.nex,1456,THROW
+1942,throw,,data.nex,1456,THROW
+1943,throw,,data.nex,1456,THROW
+1944,throw,,data.nex,1456,THROW
+1945,throw,,data.nex,1456,THROW
+1946,throw,,data.nex,1456,THROW
+1947,throw,,data.nex,1456,THROW
+1948,throw,,data.nex,1456,THROW
+1949,throw,,data.nex,1456,THROW
+1950,throw,,data.nex,1456,THROW
+1951,throw,,data.nex,1456,THROW
+1952,throw,,data.nex,1456,THROW
+1953,throw,,data.nex,1456,THROW
+1954,throw,,data.nex,1456,THROW
+1955,throw,,data.nex,1456,THROW
+1956,throw,,data.nex,1456,THROW
+1957,throw,,data.nex,1456,THROW
+1958,throw,,data.nex,1456,THROW
+1959,throw,,data.nex,1456,THROW
+1960,throw,,data.nex,1456,THROW
+1961,throw,,data.nex,1456,THROW
+1962,throw,,data.nex,1456,THROW
+1963,throw,,data.nex,1456,THROW
+1964,throw,,data.nex,1456,THROW
+1965,throw,,data.nex,1456,THROW
+1966,throw,,data.nex,1456,THROW
+1967,throw,,data.nex,1456,THROW
+1968,throw,,data.nex,1456,THROW
+1969,throw,,data.nex,1456,THROW
+1970,throw,,data.nex,1456,THROW
+1971,throw,,data.nex,1456,THROW
+1972,throw,,data.nex,1456,THROW
+1973,throw,,data.nex,1456,THROW
+1974,tie,,data.nex,1917,TIE
+1975,tie,,data.nex,1917,TIE
+1976,tie,,data.nex,1917,TIE
+1977,tie,,data.nex,1917,TIE
+1978,tie,,data.nex,1917,TIE
+1979,tie,,data.nex,1917,TIE
+1980,tie,,data.nex,1917,TIE
+1981,tie,,data.nex,1917,TIE
+1982,tie,,data.nex,1917,TIE
+1983,tie,,data.nex,1917,TIE
+1984,tie,,data.nex,1917,TIE
+1985,tie,,data.nex,1917,TIE
+1986,tie,,data.nex,1917,TIE
+1987,tie,,data.nex,1917,TIE
+1988,tie,,data.nex,1917,TIE
+1989,tie,,data.nex,1917,TIE
+1990,tie,,data.nex,1917,TIE
+1991,tie,,data.nex,1917,TIE
+1992,tie,,data.nex,1917,TIE
+1993,tie,,data.nex,1917,TIE
+1994,tie,,data.nex,1917,TIE
+1995,tie,,data.nex,1917,TIE
+1996,tongue,,data.nex,1205,TONGUE
+1997,tongue,,data.nex,1205,TONGUE
+1998,tongue,,data.nex,1205,TONGUE
+1999,tooth,,data.nex,1380,TOOTH
+2000,tooth,,data.nex,1380,TOOTH
+2001,tooth,,data.nex,1380,TOOTH
+2002,tooth,,data.nex,1380,TOOTH
+2003,tooth,,data.nex,1380,TOOTH
+2004,tooth,,data.nex,1380,TOOTH
+2005,tree,,data.nex,906,TREE
+2006,tree,,data.nex,906,TREE
+2007,tree,,data.nex,906,TREE
+2008,tree,,data.nex,906,TREE
+2009,tree,,data.nex,906,TREE
+2010,tree,,data.nex,906,TREE
+2011,tree,,data.nex,906,TREE
+2012,tree,,data.nex,906,TREE
+2013,tree,,data.nex,906,TREE
+2014,tree,,data.nex,906,TREE
+2015,tree,,data.nex,906,TREE
+2016,tree,,data.nex,906,TREE
+2017,tree,,data.nex,906,TREE
+2018,tree,,data.nex,906,TREE
+2019,tree,,data.nex,906,TREE
+2020,tree,,data.nex,906,TREE
+2021,tree,,data.nex,906,TREE
+2022,tree,,data.nex,906,TREE
+2023,tree,,data.nex,906,TREE
+2024,tree,,data.nex,906,TREE
+2025,tree,,data.nex,906,TREE
+2026,tree,,data.nex,906,TREE
+2027,two,,data.nex,1498,TWO
+2028,walk,,data.nex,1443,WALK
+2029,walk,,data.nex,1443,WALK
+2030,walk,,data.nex,1443,WALK
+2031,walk,,data.nex,1443,WALK
+2032,walk,,data.nex,1443,WALK
+2033,walk,,data.nex,1443,WALK
+2034,walk,,data.nex,1443,WALK
+2035,walk,,data.nex,1443,WALK
+2036,walk,,data.nex,1443,WALK
+2037,walk,,data.nex,1443,WALK
+2038,walk,,data.nex,1443,WALK
+2039,walk,,data.nex,1443,WALK
+2040,walk,,data.nex,1443,WALK
+2041,walk,,data.nex,1443,WALK
+2042,walk,,data.nex,1443,WALK
+2043,walk,,data.nex,1443,WALK
+2044,walk,,data.nex,1443,WALK
+2045,walk,,data.nex,1443,WALK
+2046,walk,,data.nex,1443,WALK
+2047,walk,,data.nex,1443,WALK
+2048,walk,,data.nex,1443,WALK
+2049,walk,,data.nex,1443,WALK
+2050,walk,,data.nex,1443,WALK
+2051,walk,,data.nex,1443,WALK
+2052,walk,,data.nex,1443,WALK
+2053,walk,,data.nex,1443,WALK
+2054,walk,,data.nex,1443,WALK
+2055,walk,,data.nex,1443,WALK
+2056,walk,,data.nex,1443,WALK
+2057,walk,,data.nex,1443,WALK
+2058,walk,,data.nex,1443,WALK
+2059,walk,,data.nex,1443,WALK
+2060,walk,,data.nex,1443,WALK
+2061,walk,,data.nex,1443,WALK
+2062,walk,,data.nex,1443,WALK
+2063,walk,,data.nex,1443,WALK
+2064,walk,,data.nex,1443,WALK
+2065,walk,,data.nex,1443,WALK
+2066,warm,,data.nex,1232,WARM
+2067,warm,,data.nex,1232,WARM
+2068,warm,,data.nex,1232,WARM
+2069,warm,,data.nex,1232,WARM
+2070,warm,,data.nex,1232,WARM
+2071,warm,,data.nex,1232,WARM
+2072,warm,,data.nex,1232,WARM
+2073,warm,,data.nex,1232,WARM
+2074,warm,,data.nex,1232,WARM
+2075,warm,,data.nex,1232,WARM
+2076,warm,,data.nex,1232,WARM
+2077,warm,,data.nex,1232,WARM
+2078,warm,,data.nex,1232,WARM
+2079,warm,,data.nex,1232,WARM
+2080,warm,,data.nex,1232,WARM
+2081,warm,,data.nex,1232,WARM
+2082,warm,,data.nex,1232,WARM
+2083,warm,,data.nex,1232,WARM
+2084,warm,,data.nex,1232,WARM
+2085,wash,,data.nex,1453,WASH
+2086,wash,,data.nex,1453,WASH
+2087,wash,,data.nex,1453,WASH
+2088,wash,,data.nex,1453,WASH
+2089,wash,,data.nex,1453,WASH
+2090,wash,,data.nex,1453,WASH
+2091,wash,,data.nex,1453,WASH
+2092,wash,,data.nex,1453,WASH
+2093,wash,,data.nex,1453,WASH
+2094,wash,,data.nex,1453,WASH
+2095,wash,,data.nex,1453,WASH
+2096,wash,,data.nex,1453,WASH
+2097,wash,,data.nex,1453,WASH
+2098,wash,,data.nex,1453,WASH
+2099,wash,,data.nex,1453,WASH
+2100,wash,,data.nex,1453,WASH
+2101,wash,,data.nex,1453,WASH
+2102,water,,data.nex,948,WATER
+2103,water,,data.nex,948,WATER
+2104,water,,data.nex,948,WATER
+2105,water,,data.nex,948,WATER
+2106,water,,data.nex,948,WATER
+2107,water,,data.nex,948,WATER
+2108,water,,data.nex,948,WATER
+2109,water,,data.nex,948,WATER
+2110,water,,data.nex,948,WATER
+2111,water,,data.nex,948,WATER
+2112,we,,data.nex,1212,WE
+2113,we,,data.nex,1212,WE
+2114,wet,,data.nex,1726,WET
+2115,wet,,data.nex,1726,WET
+2116,wet,,data.nex,1726,WET
+2117,wet,,data.nex,1726,WET
+2118,wet,,data.nex,1726,WET
+2119,wet,,data.nex,1726,WET
+2120,wet,,data.nex,1726,WET
+2121,wet,,data.nex,1726,WET
+2122,wet,,data.nex,1726,WET
+2123,wet,,data.nex,1726,WET
+2124,wet,,data.nex,1726,WET
+2125,wet,,data.nex,1726,WET
+2126,wet,,data.nex,1726,WET
+2127,wet,,data.nex,1726,WET
+2128,wet,,data.nex,1726,WET
+2129,wet,,data.nex,1726,WET
+2130,wet,,data.nex,1726,WET
+2131,wet,,data.nex,1726,WET
+2132,wet,,data.nex,1726,WET
+2133,wet,,data.nex,1726,WET
+2134,wet,,data.nex,1726,WET
+2135,wet,,data.nex,1726,WET
+2136,wet,,data.nex,1726,WET
+2137,wet,,data.nex,1726,WET
+2138,wet,,data.nex,1726,WET
+2139,wet,,data.nex,1726,WET
+2140,wet,,data.nex,1726,WET
+2141,wet,,data.nex,1726,WET
+2142,wet,,data.nex,1726,WET
+2143,what,,data.nex,1236,WHAT
+2144,what,,data.nex,1236,WHAT
+2145,what,,data.nex,1236,WHAT
+2146,what,,data.nex,1236,WHAT
+2147,what,,data.nex,1236,WHAT
+2148,when,,data.nex,1238,WHEN
+2149,when,,data.nex,1238,WHEN
+2150,when,,data.nex,1238,WHEN
+2151,when,,data.nex,1238,WHEN
+2152,when,,data.nex,1238,WHEN
+2153,when,,data.nex,1238,WHEN
+2154,when,,data.nex,1238,WHEN
+2155,where,,data.nex,1237,WHERE
+2156,where,,data.nex,1237,WHERE
+2157,where,,data.nex,1237,WHERE
+2158,where,,data.nex,1237,WHERE
+2159,where,,data.nex,1237,WHERE
+2160,where,,data.nex,1237,WHERE
+2161,where,,data.nex,1237,WHERE
+2162,where,,data.nex,1237,WHERE
+2163,white,,data.nex,1335,WHITE
+2164,white,,data.nex,1335,WHITE
+2165,white,,data.nex,1335,WHITE
+2166,white,,data.nex,1335,WHITE
+2167,white,,data.nex,1335,WHITE
+2168,white,,data.nex,1335,WHITE
+2169,white,,data.nex,1335,WHITE
+2170,white,,data.nex,1335,WHITE
+2171,white,,data.nex,1335,WHITE
+2172,white,,data.nex,1335,WHITE
+2173,white,,data.nex,1335,WHITE
+2174,white,,data.nex,1335,WHITE
+2175,white,,data.nex,1335,WHITE
+2176,white,,data.nex,1335,WHITE
+2177,white,,data.nex,1335,WHITE
+2178,white,,data.nex,1335,WHITE
+2179,white,,data.nex,1335,WHITE
+2180,white,,data.nex,1335,WHITE
+2181,white,,data.nex,1335,WHITE
+2182,white,,data.nex,1335,WHITE
+2183,white,,data.nex,1335,WHITE
+2184,who,,data.nex,1235,WHO
+2185,wide,,data.nex,1243,WIDE
+2186,wide,,data.nex,1243,WIDE
+2187,wide,,data.nex,1243,WIDE
+2188,wide,,data.nex,1243,WIDE
+2189,wide,,data.nex,1243,WIDE
+2190,wide,,data.nex,1243,WIDE
+2191,wide,,data.nex,1243,WIDE
+2192,wide,,data.nex,1243,WIDE
+2193,wide,,data.nex,1243,WIDE
+2194,wide,,data.nex,1243,WIDE
+2195,wide,,data.nex,1243,WIDE
+2196,wide,,data.nex,1243,WIDE
+2197,wide,,data.nex,1243,WIDE
+2198,wide,,data.nex,1243,WIDE
+2199,wide,,data.nex,1243,WIDE
+2200,wide,,data.nex,1243,WIDE
+2201,wide,,data.nex,1243,WIDE
+2202,wide,,data.nex,1243,WIDE
+2203,wife,,data.nex,1199,WIFE
+2204,wife,,data.nex,1199,WIFE
+2205,wife,,data.nex,1199,WIFE
+2206,wife,,data.nex,1199,WIFE
+2207,wife,,data.nex,1199,WIFE
+2208,wife,,data.nex,1199,WIFE
+2209,wife,,data.nex,1199,WIFE
+2210,wife,,data.nex,1199,WIFE
+2211,wife,,data.nex,1199,WIFE
+2212,wife,,data.nex,1199,WIFE
+2213,wife,,data.nex,1199,WIFE
+2214,wife,,data.nex,1199,WIFE
+2215,wife,,data.nex,1199,WIFE
+2216,wife,,data.nex,1199,WIFE
+2217,wife,,data.nex,1199,WIFE
+2218,wife,,data.nex,1199,WIFE
+2219,wife,,data.nex,1199,WIFE
+2220,wife,,data.nex,1199,WIFE
+2221,wife,,data.nex,1199,WIFE
+2222,wife,,data.nex,1199,WIFE
+2223,wife,,data.nex,1199,WIFE
+2224,wife,,data.nex,1199,WIFE
+2225,wife,,data.nex,1199,WIFE
+2226,wife,,data.nex,1199,WIFE
+2227,wife,,data.nex,1199,WIFE
+2228,wife,,data.nex,1199,WIFE
+2229,wife,,data.nex,1199,WIFE
+2230,wife,,data.nex,1199,WIFE
+2231,wife,,data.nex,1199,WIFE
+2232,wife,,data.nex,1199,WIFE
+2233,wife,,data.nex,1199,WIFE
+2234,wife,,data.nex,1199,WIFE
+2235,wind,,data.nex,960,WIND
+2236,wind,,data.nex,960,WIND
+2237,wind,,data.nex,960,WIND
+2238,wind,,data.nex,960,WIND
+2239,wind,,data.nex,960,WIND
+2240,wind,,data.nex,960,WIND
+2241,wind,,data.nex,960,WIND
+2242,wind,,data.nex,960,WIND
+2243,wind,,data.nex,960,WIND
+2244,wind,,data.nex,960,WIND
+2245,wind,,data.nex,960,WIND
+2246,wind,,data.nex,960,WIND
+2247,wind,,data.nex,960,WIND
+2248,wind,,data.nex,960,WIND
+2249,wind,,data.nex,960,WIND
+2250,with,,data.nex,1340,WITH
+2251,with,,data.nex,1340,WITH
+2252,with,,data.nex,1340,WITH
+2253,with,,data.nex,1340,WITH
+2254,with,,data.nex,1340,WITH
+2255,with,,data.nex,1340,WITH
+2256,with,,data.nex,1340,WITH
+2257,with,,data.nex,1340,WITH
+2258,with,,data.nex,1340,WITH
+2259,with,,data.nex,1340,WITH
+2260,with,,data.nex,1340,WITH
+2261,with,,data.nex,1340,WITH
+2262,with,,data.nex,1340,WITH
+2263,with,,data.nex,1340,WITH
+2264,with,,data.nex,1340,WITH
+2265,woman,,data.nex,962,WOMAN
+2266,woman,,data.nex,962,WOMAN
+2267,woman,,data.nex,962,WOMAN
+2268,woman,,data.nex,962,WOMAN
+2269,woman,,data.nex,962,WOMAN
+2270,woman,,data.nex,962,WOMAN
+2271,woman,,data.nex,962,WOMAN
+2272,woman,,data.nex,962,WOMAN
+2273,woman,,data.nex,962,WOMAN
+2274,woman,,data.nex,962,WOMAN
+2275,woman,,data.nex,962,WOMAN
+2276,woman,,data.nex,962,WOMAN
+2277,woman,,data.nex,962,WOMAN
+2278,woman,,data.nex,962,WOMAN
+2279,woman,,data.nex,962,WOMAN
+2280,woman,,data.nex,962,WOMAN
+2281,woman,,data.nex,962,WOMAN
+2282,woman,,data.nex,962,WOMAN
+2283,woman,,data.nex,962,WOMAN
+2284,woman,,data.nex,962,WOMAN
+2285,woman,,data.nex,962,WOMAN
+2286,woods,,data.nex,420,FOREST
+2287,woods,,data.nex,420,FOREST
+2288,woods,,data.nex,420,FOREST
+2289,woods,,data.nex,420,FOREST
+2290,woods,,data.nex,420,FOREST
+2291,woods,,data.nex,420,FOREST
+2292,woods,,data.nex,420,FOREST
+2293,woods,,data.nex,420,FOREST
+2294,woods,,data.nex,420,FOREST
+2295,woods,,data.nex,420,FOREST
+2296,woods,,data.nex,420,FOREST
+2297,woods,,data.nex,420,FOREST
+2298,woods,,data.nex,420,FOREST
+2299,woods,,data.nex,420,FOREST
+2300,woods,,data.nex,420,FOREST
+2301,woods,,data.nex,420,FOREST
+2302,woods,,data.nex,420,FOREST
+2303,woods,,data.nex,420,FOREST
+2304,woods,,data.nex,420,FOREST
+2305,woods,,data.nex,420,FOREST
+2306,woods,,data.nex,420,FOREST
+2307,woods,,data.nex,420,FOREST
+2308,woods,,data.nex,420,FOREST
+2309,woods,,data.nex,420,FOREST
+2310,woods,,data.nex,420,FOREST
+2311,woods,,data.nex,420,FOREST
+2312,year,,data.nex,1226,YEAR
+2313,year,,data.nex,1226,YEAR
+2314,year,,data.nex,1226,YEAR
+2315,year,,data.nex,1226,YEAR
+2316,year,,data.nex,1226,YEAR
+2317,year,,data.nex,1226,YEAR
+2318,year,,data.nex,1226,YEAR
+2319,year,,data.nex,1226,YEAR
+2320,year,,data.nex,1226,YEAR
+2321,year,,data.nex,1226,YEAR
+2322,year,,data.nex,1226,YEAR
+2323,yellow,,data.nex,1424,YELLOW
+2324,yellow,,data.nex,1424,YELLOW
+2325,yellow,,data.nex,1424,YELLOW
+2326,yellow,,data.nex,1424,YELLOW
+2327,yellow,,data.nex,1424,YELLOW
+2328,yellow,,data.nex,1424,YELLOW
+2329,yellow,,data.nex,1424,YELLOW
+2330,yellow,,data.nex,1424,YELLOW
+2331,yellow,,data.nex,1424,YELLOW
+2332,yellow,,data.nex,1424,YELLOW
+2333,yellow,,data.nex,1424,YELLOW
+2334,yellow,,data.nex,1424,YELLOW
+2335,yellow,,data.nex,1424,YELLOW
+2336,yellow,,data.nex,1424,YELLOW
+2337,yellow,,data.nex,1424,YELLOW
+2338,yellow,,data.nex,1424,YELLOW
+2339,yellow,,data.nex,1424,YELLOW
+2340,you,,data.nex,1213,YOU
+2341,you,,data.nex,1213,YOU
+2342,you,,data.nex,1213,YOU
+2343,you,,data.nex,1213,YOU
+2344,you,,data.nex,1213,YOU
+2345,you,,data.nex,1213,YOU
+2346,you,,data.nex,1213,YOU
+2347,you,,data.nex,1213,YOU
+2348,you,,data.nex,1213,YOU
+2349,you,,data.nex,1213,YOU
+2350,you,,data.nex,1213,YOU

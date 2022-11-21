@@ -16,7 +16,7 @@
         "scaling": "years"
     },
     "dc:title": "Phlorest phylogeny derived from Chang et al.2015'Indo-European (Chang et al. 2015)'",
-    "dcat:accessURL": "https://github.com/phlorest/chang_et_al2015",
+    "dcat:accessURL": "http://github.com/phlorest/chang_et_al2015",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "data.nex",
@@ -25,22 +25,22 @@
             "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
         },
         {
-            "rdf:about": "https://github.com/phlorest/chang_et_al2015",
+            "rdf:about": "http://github.com/phlorest/chang_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "d36de5b",
+            "dc:created": "fe53fca",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.9.6"
+            "dc:description": "3.11.0b5"
         },
         {
             "dc:title": "python-packages",
@@ -49,9 +49,6 @@
     ],
     "rdf:ID": "chang_et_al2015",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
@@ -107,7 +104,7 @@
                         },
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "required": false,
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottocode}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -215,6 +212,19 @@
                         "dc:description": "The data for this parameter is stored at 1-based index {ID} of the sequences in the DATA block of the Nexus file specified here. (See https://en.wikipedia.org/wiki/Nexus_file)",
                         "propertyUrl": "http://purl.org/dc/terms/relation",
                         "name": "Nexus_File"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[0-9]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
+                        "name": "Concepticon_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Concepticon_Gloss"
                     }
                 ],
                 "primaryKey": [
