@@ -1,4 +1,6 @@
-# Dataset chang_et_al2015
+# Phlorest phylogeny derived from Chang et al. 2015 'Indo-European (Chang et al. 2015)'
+
+[![CLDF validation](https://github.com/phlorest/chang_et_al2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/chang_et_al2015/actions?query=workflow%3ACLDF-validation)
 
 ## How to cite
 
@@ -10,7 +12,9 @@ If you use these data please cite
 ## Description
 
 
-Available online at http://dx.doi.org/10.1353/lan.2015.0005
+This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
+
+Available online at https://doi.org/10.1353/lan.2015.0005
 
 
 ## CLDF Datasets

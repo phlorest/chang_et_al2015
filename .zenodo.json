@@ -1,5 +1,5 @@
 {
-    "title": null,
+    "title": "Phlorest phylogeny derived from Chang et al. 2015 'Indo-European (Chang et al. 2015)'",
     "access_right": "open",
     "keywords": [
         "cldf:Generic",
@@ -10,6 +10,26 @@
     "communities": [
         {
             "identifier": "dplace"
+        }
+    ],
+    "creators": [
+        {
+            "name": "Chang, Will"
+        },
+        {
+            "name": "Cathcart, Chundra"
+        },
+        {
+            "name": "Hall, David"
+        },
+        {
+            "name": "Garrett, Andrew"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
         }
     ]
 }
