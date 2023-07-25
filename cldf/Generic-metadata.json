@@ -15,13 +15,19 @@
         "analysis": "bayesian",
         "scaling": "years"
     },
-    "dc:title": "Phlorest phylogeny derived from Chang et al. 2015 'Indo-European (Chang et al. 2015)'",
+    "dc:title": "Phlorest phylogeny derived from Chang et al. 2015 'Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis'",
     "dcat:accessURL": "https://github.com/phlorest/chang_et_al2015",
     "prov:wasDerivedFrom": [
         {
+            "rdf:about": "data.nex",
+            "rdf:type": "prov:Entity",
+            "dc:description": "The data underlying the analysis which created the phylogeny",
+            "dc:format": "https://en.wikipedia.org/wiki/Nexus_file"
+        },
+        {
             "rdf:about": "https://github.com/phlorest/chang_et_al2015",
             "rdf:type": "prov:Entity",
-            "dc:created": "2a15c42",
+            "dc:created": "cc3c5e9",
             "dc:title": "Repository"
         },
         {
@@ -210,7 +216,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 2,
+            "dc:extent": 3,
             "tableSchema": {
                 "columns": [
                     {
@@ -261,6 +267,78 @@
                 ]
             },
             "url": "media.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "The ParameterTable lists characters (a.k.a. sites), i.e. the (often binary) variables used as data basis to compute the phylogeny from.",
+            "dc:extent": 2350,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "dc:description": "Sequence index of the site in the corresponding Nexus file.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[a-zA-Z0-9_\\-]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "required": false,
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
+                        "required": false,
+                        "name": "Description"
+                    },
+                    {
+                        "datatype": "json",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#columnSpec",
+                        "required": false,
+                        "name": "ColumnSpec"
+                    },
+                    {
+                        "dc:description": "The data for this parameter is stored at 1-based index {ID} of the sequences in the DATA block of the Nexus file specified here. (See https://en.wikipedia.org/wiki/Nexus_file)",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#mediaReference",
+                        "name": "Nexus_File"
+                    },
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[0-9]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
+                        "name": "Concepticon_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Concepticon_Gloss"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Nexus_File"
+                        ],
+                        "reference": {
+                            "resource": "media.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "parameters.csv"
         }
     ]
 }
