@@ -39,6 +39,7 @@ class Dataset(phlorest.Dataset):
                 charlabels[site['Site']] = '{}_{}'.format(label, i)
         matrix = collections.OrderedDict()
         for lid, vals in nex.characters.get_matrix().items():
+            assert '2315' in vals
             matrix[lid] = collections.OrderedDict(
                 [(charlabels[site], val) for site, val in vals.items()])
         nex.replace_block(nex.DATA, Characters.from_data(matrix))
