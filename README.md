@@ -1,4 +1,4 @@
-# Phlorest phylogeny derived from Chang et al. 2015 'Indo-European (Chang et al. 2015)'
+# Phlorest phylogeny derived from Chang et al. 2015 'Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis'
 
 [![CLDF validation](https://github.com/phlorest/chang_et_al2015/workflows/CLDF-validation/badge.svg)](https://github.com/phlorest/chang_et_al2015/actions?query=workflow%3ACLDF-validation)
 
@@ -11,10 +11,12 @@ If you use these data please cite
 
 ## Description
 
+A [Phlorest phylogeny](https://github.com/phlorest) of the Indo-European language family computed from a bayesian analysis scaled by years.
+
 
 This dataset is licensed under a https://creativecommons.org/licenses/by/2.0/ license
 
-Available online at https://doi.org/10.1353/lan.2015.0005
+Source available online at https://doi.org/10.1353/lan.2015.0005
 
 
 ## CLDF Datasets
@@ -25,4 +27,4 @@ The following CLDF datasets are available in [cldf](cldf):
 
 ## Summary Tree
 
-![summary](./summary_tree.svg)
+![summary](https://raw.githubusercontent.com/phlorest/chang_et_al2015/main/summary_tree.svg)

@@ -1,5 +1,8 @@
 import pathlib
+import itertools
+import collections
 
+from commonnexus.blocks.characters import Characters
 import phlorest
 
 
@@ -24,7 +27,22 @@ class Dataset(phlorest.Dataset):
             args.log,
             verbose=True)
 
-        #args.writer.add_data(
-        #    self.raw_dir.read_nexus('a1-c0-d0-g1-l2-s1-t1-z8_ieo.nex'),
-        #    self.characters,
-        #    args.log)
+        # Add the semicolon terminating the MATRIX command:
+        nex = self.raw_dir.read_nexus(
+            'a1-c0-d0-g1-l2-s1-t1-z8_ieo.nex',
+            preprocessor=lambda s: s.replace('end;', ';\nend;'))
+
+        # Add meaningful character labels:
+        charlabels = {}
+        for label, sites in itertools.groupby(self.characters, lambda i: i['Label']):
+            for i, site in enumerate(sites, start=1):
+                charlabels[site['Site']] = '{}_{}'.format(label, i)
+        matrix = collections.OrderedDict()
+        for lid, vals in nex.characters.get_matrix().items():
+            assert '2315' in vals
+            matrix[lid] = collections.OrderedDict(
+                [(charlabels[site], val) for site, val in vals.items()])
+        nex.replace_block(nex.DATA, Characters.from_data(matrix))
+
+        args.writer.add_data(nex, self.characters, args.log)
+

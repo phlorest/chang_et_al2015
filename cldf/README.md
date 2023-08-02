@@ -1,6 +1,6 @@
 <a name="ds-genericmetadatajson"> </a>
 
-# Generic Phlorest phylogeny derived from Chang et al. 2015 'Indo-European (Chang et al. 2015)'
+# Generic Phlorest phylogeny derived from Chang et al. 2015 'Ancestry-constrained phylogenetic analysis supports the Indo-European steppe hypothesis'
 
 **CLDF Metadata**: [Generic-metadata.json](./Generic-metadata.json)
 
@@ -14,7 +14,7 @@ property | value
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/2.0/
 [dc:subject](http://purl.org/dc/terms/subject) | <dl><dt>family</dt><dd>Indo-European</dd><dt>analysis</dt><dd>bayesian</dd><dt>scaling</dt><dd>years</dd></dl>
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/phlorest/chang_et_al2015
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/phlorest/chang_et_al2015/tree/2a15c42">phlorest/chang_et_al2015 2a15c42</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="data.nex">data.nex </a></li><li><a href="https://github.com/phlorest/chang_et_al2015/tree/05800cb">phlorest/chang_et_al2015 05800cb</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.8">Glottolog v4.8</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>python</strong>: 3.10.6</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | chang_et_al2015
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -69,7 +69,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF MediaTable](http://cldf.clld.org/v1.0/terms.rdf#MediaTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2
+[dc:extent](http://purl.org/dc/terms/extent) | 3
 
 
 ### Columns
@@ -82,4 +82,26 @@ Name/Property | Datatype | Description
 [Media_Type](http://cldf.clld.org/v1.0/terms.rdf#mediaType) | `string` | 
 [Download_URL](http://cldf.clld.org/v1.0/terms.rdf#downloadUrl) | `anyURI` | 
 [Path_In_Zip](http://cldf.clld.org/v1.0/terms.rdf#pathInZip) | `string` | 
+
+## <a name="table-parameterscsv"></a>Table [parameters.csv](./parameters.csv)
+
+The ParameterTable lists characters (a.k.a. sites), i.e. the (often binary) variables used as data basis to compute the phylogeny from.
+
+property | value
+ --- | ---
+[dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
+[dc:extent](http://purl.org/dc/terms/extent) | 2350
+
+
+### Columns
+
+Name/Property | Datatype | Description
+ --- | --- | --- 
+[ID](http://cldf.clld.org/v1.0/terms.rdf#id) | `string` | Sequence index of the site in the corresponding Nexus file.<br>Primary key
+[Name](http://cldf.clld.org/v1.0/terms.rdf#name) | `string` | 
+[Description](http://cldf.clld.org/v1.0/terms.rdf#description) | `string` | 
+[ColumnSpec](http://cldf.clld.org/v1.0/terms.rdf#columnSpec) | `json` | 
+[Nexus_File](http://cldf.clld.org/v1.0/terms.rdf#mediaReference) | `string` | The data for this parameter is stored at 1-based index {ID} of the sequences in the DATA block of the Nexus file specified here. (See https://en.wikipedia.org/wiki/Nexus_file)<br>References [media.csv::ID](#table-mediacsv)
+[Concepticon_ID](http://cldf.clld.org/v1.0/terms.rdf#concepticonReference) | `string` | 
+`Concepticon_Gloss` | `string` | 
 
