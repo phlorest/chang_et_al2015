@@ -6,4 +6,6 @@ Chang, Will                    |  | author | Author
 Cathcart, Chundra              |  | author | Author
 Hall, David                    |  | author | Author
 Garrett, Andrew                |  | author | Author
-Simon J. Greenhill             | @SimonGreenhill | maintainer | Phlorest
+Simon J. Greenhill             | @SimonGreenhill | maintainer | Editor
+Robert Forkel            | @xrotwang | maintainer | Editor
+
