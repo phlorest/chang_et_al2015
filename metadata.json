@@ -12,6 +12,7 @@
     "family": "Indo-European",
     "missing": {
         "cldf": "not provided.",
+    "artefacts": ["raw/ieo.xml"],
         "characters": "not readily available (extractable from comment in nexus)."
     }
 }
