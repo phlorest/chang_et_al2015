@@ -1,5 +1,5 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,xd_ids,Glottolog_Name
-Adapazar,Adapazar,,,,,,,
+Adapazar,Adapazar,,40.0,45.0,nucl1235,,,Eastern Armenian
 Ancient_Greek,Ancient_Greek,,39.8155,21.9129,anci1242,,,Ionic-Attic Ancient Greek
 Assamese,Assamese,,26.0876,91.2932,assa1263,,,Assamese
 Avestan,Avestan,,34.217,62.112,aves1237,,,Avestan
@@ -28,7 +28,7 @@ Latin,Latin,,41.9026,12.4502,lati1261,,xd530,Latin
 Luxembourgish,Luxembourgish,,49.6839,6.14931,luxe1241,,,Moselle Franconian
 Marathi,Marathi,,17.9344,76.6665,mara1378,,,Marathi
 Modern_Greek,Modern_Greek,,38.36,23.13,mode1248,,xd534,Modern Greek
-Nepali,Nepali,,27.5947033333,87.6200833333,east1436,,,Eastern Pahari
+Nepali,Nepali,,28.0,85.0,nepa1254,,,Nepali
 Norwegian,Norwegian,,59.92,10.71,norw1258,,,Norwegian
 Nuorese,Nuorese,,,,nuor1238,,,Nuorese
 Old_Church_Slavic,Old_Church_Slavic,,43.7171,22.8442,chur1257,,,Church Slavic
