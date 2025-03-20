@@ -1,0 +1,827 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "Name": "Adapazar",
+        "Glottocode": "nucl1235",
+        "Glottolog_Name": "Eastern Armenian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9129,
+          39.8155
+        ]
+      },
+      "properties": {
+        "Name": "Ancient_Greek",
+        "Glottocode": "anci1242",
+        "Glottolog_Name": "Ionic-Attic Ancient Greek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2932,
+          26.0876
+        ]
+      },
+      "properties": {
+        "Name": "Assamese",
+        "Glottocode": "assa1263",
+        "Glottolog_Name": "Assamese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.112,
+          34.217
+        ]
+      },
+      "properties": {
+        "Name": "Avestan",
+        "Glottocode": "aves1237",
+        "Glottolog_Name": "Avestan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0,
+          24.0
+        ]
+      },
+      "properties": {
+        "Name": "Bengali",
+        "Glottocode": "beng1280",
+        "xd_ids": [
+          "xd664"
+        ],
+        "Glottolog_Name": "Bengali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.2211,
+          26.3817
+        ]
+      },
+      "properties": {
+        "Name": "Bihari",
+        "Glottocode": "mait1250",
+        "xd_ids": [
+          "xd662"
+        ],
+        "Glottolog_Name": "Maithili"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.03935,
+          39.0566
+        ]
+      },
+      "properties": {
+        "Name": "Cagliari",
+        "Glottocode": "camp1261",
+        "Glottolog_Name": "Campidanese Sardinian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.569,
+          41.453
+        ]
+      },
+      "properties": {
+        "Name": "Catalan",
+        "Glottocode": "stan1289",
+        "Glottolog_Name": "Catalan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.346422,
+          38.592316
+        ]
+      },
+      "properties": {
+        "Name": "Classical_Armenian",
+        "Glottocode": "clas1249",
+        "Glottolog_Name": "Classical-Middle Armenian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "Name": "Eastern_Armenian",
+        "Glottocode": "nucl1235",
+        "Glottolog_Name": "Eastern Armenian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.0,
+          53.0
+        ]
+      },
+      "properties": {
+        "Name": "English",
+        "Glottocode": "stan1293",
+        "xd_ids": [
+          "xd536",
+          "xd538"
+        ],
+        "Glottolog_Name": "English"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.88497,
+          62.0732
+        ]
+      },
+      "properties": {
+        "Name": "Faroese",
+        "Glottocode": "faro1244",
+        "Glottolog_Name": "Faroese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0,
+          48.0
+        ]
+      },
+      "properties": {
+        "Name": "French",
+        "Glottocode": "stan1290",
+        "xd_ids": [
+          "xd540"
+        ],
+        "Glottolog_Name": "French"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0493,
+          46.1473
+        ]
+      },
+      "properties": {
+        "Name": "Friulian",
+        "Glottocode": "friu1240",
+        "Glottolog_Name": "Friulian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4676,
+          48.649
+        ]
+      },
+      "properties": {
+        "Name": "German",
+        "Glottocode": "stan1295",
+        "Glottolog_Name": "German"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.9786,
+          46.9304
+        ]
+      },
+      "properties": {
+        "Name": "Gothic",
+        "Glottocode": "goth1244",
+        "Glottolog_Name": "Gothic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0962,
+          22.687
+        ]
+      },
+      "properties": {
+        "Name": "Gujarati",
+        "Glottocode": "guja1252",
+        "xd_ids": [
+          "xd671"
+        ],
+        "Glottolog_Name": "Gujarati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "Name": "Hindi",
+        "Glottocode": "hind1269",
+        "Glottolog_Name": "Hindi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "Name": "Hittite",
+        "Glottocode": "hitt1242",
+        "Glottolog_Name": "Hittite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.0212,
+          63.4837
+        ]
+      },
+      "properties": {
+        "Name": "Icelandic",
+        "Glottocode": "icel1247",
+        "xd_ids": [
+          "xd542"
+        ],
+        "Glottolog_Name": "Icelandic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.61509,
+          53.2186
+        ]
+      },
+      "properties": {
+        "Name": "Irish",
+        "Glottocode": "iris1253",
+        "xd_ids": [
+          "xd543"
+        ],
+        "Glottolog_Name": "Irish"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6489,
+          43.0464
+        ]
+      },
+      "properties": {
+        "Name": "Italian",
+        "Glottocode": "ital1282",
+        "Glottolog_Name": "Italian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.330455,
+          34.166825
+        ]
+      },
+      "properties": {
+        "Name": "Kashmiri",
+        "Glottocode": "kash1277",
+        "xd_ids": [
+          "xd670"
+        ],
+        "Glottolog_Name": "Kashmiri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.89498,
+          46.60651
+        ]
+      },
+      "properties": {
+        "Name": "Ladin",
+        "Glottocode": "ladi1250",
+        "Glottolog_Name": "Ladin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3474,
+          30.0948
+        ]
+      },
+      "properties": {
+        "Name": "Lahnda",
+        "Glottocode": "west2386",
+        "Glottolog_Name": "Western Panjabi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4502,
+          41.9026
+        ]
+      },
+      "properties": {
+        "Name": "Latin",
+        "Glottocode": "lati1261",
+        "xd_ids": [
+          "xd530"
+        ],
+        "Glottolog_Name": "Latin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14931,
+          49.6839
+        ]
+      },
+      "properties": {
+        "Name": "Luxembourgish",
+        "Glottocode": "luxe1241",
+        "Glottolog_Name": "Moselle Franconian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6665,
+          17.9344
+        ]
+      },
+      "properties": {
+        "Name": "Marathi",
+        "Glottocode": "mara1378",
+        "Glottolog_Name": "Marathi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.13,
+          38.36
+        ]
+      },
+      "properties": {
+        "Name": "Modern_Greek",
+        "Glottocode": "mode1248",
+        "xd_ids": [
+          "xd534"
+        ],
+        "Glottolog_Name": "Modern Greek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0,
+          28.0
+        ]
+      },
+      "properties": {
+        "Name": "Nepali",
+        "Glottocode": "nepa1254",
+        "Glottolog_Name": "Nepali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.71,
+          59.92
+        ]
+      },
+      "properties": {
+        "Name": "Norwegian",
+        "Glottocode": "norw1258",
+        "Glottolog_Name": "Norwegian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.8442,
+          43.7171
+        ]
+      },
+      "properties": {
+        "Name": "Old_Church_Slavic",
+        "Glottocode": "chur1257",
+        "Glottolog_Name": "Church Slavic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.31,
+          51.06
+        ]
+      },
+      "properties": {
+        "Name": "Old_English",
+        "Glottocode": "olde1238",
+        "Glottolog_Name": "Old English (ca. 450-1100)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0,
+          52.0
+        ]
+      },
+      "properties": {
+        "Name": "Old_High_German",
+        "Glottocode": "oldh1241",
+        "Glottolog_Name": "Old High German (ca. 750-1050)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.0,
+          53.0
+        ]
+      },
+      "properties": {
+        "Name": "Old_Irish",
+        "Glottocode": "oldi1245",
+        "Glottolog_Name": "Early Irish"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.38,
+          63.42
+        ]
+      },
+      "properties": {
+        "Name": "Old_West_Norse",
+        "Glottocode": "oldn1244",
+        "Glottolog_Name": "Old Norse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0,
+          21.0
+        ]
+      },
+      "properties": {
+        "Name": "Oriya",
+        "Glottocode": "oriy1255",
+        "xd_ids": [
+          "xd683"
+        ],
+        "Glottolog_Name": "Odia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6702,
+          30.0368
+        ]
+      },
+      "properties": {
+        "Name": "Panjabi",
+        "Glottocode": "panj1256",
+        "xd_ids": [
+          "xd600"
+        ],
+        "Glottolog_Name": "Eastern Panjabi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.1,
+          39.91
+        ]
+      },
+      "properties": {
+        "Name": "Portuguese",
+        "Glottocode": "port1283",
+        "xd_ids": [
+          "xd529",
+          "xd539"
+        ],
+        "Glottolog_Name": "Portuguese"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82979,
+          44.1415
+        ]
+      },
+      "properties": {
+        "Name": "Provencal",
+        "Glottocode": "occi1239",
+        "Glottolog_Name": "Occitan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.17,
+          42.67
+        ]
+      },
+      "properties": {
+        "Name": "Romani",
+        "Glottocode": "balk1252",
+        "Glottolog_Name": "Balkan Romani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2256,
+          46.3913
+        ]
+      },
+      "properties": {
+        "Name": "Romanian",
+        "Glottocode": "roma1327",
+        "xd_ids": [
+          "xd547",
+          "xd563"
+        ],
+        "Glottolog_Name": "Romanian"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.92812,
+          46.5538
+        ]
+      },
+      "properties": {
+        "Name": "Romansh",
+        "Glottocode": "roma1326",
+        "Glottolog_Name": "Romansh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.24366,
+          56.7574
+        ]
+      },
+      "properties": {
+        "Name": "Scots_Gaelic",
+        "Glottocode": "scot1245",
+        "Glottolog_Name": "Scottish Gaelic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0,
+          8.0
+        ]
+      },
+      "properties": {
+        "Name": "Singhalese",
+        "Glottocode": "sinh1246",
+        "xd_ids": [
+          "xd692"
+        ],
+        "Glottolog_Name": "Sinhala"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.11788,
+          40.4414
+        ]
+      },
+      "properties": {
+        "Name": "Spanish",
+        "Glottocode": "stan1288",
+        "xd_ids": [
+          "xd533"
+        ],
+        "Glottolog_Name": "Spanish"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.46419,
+          47.0516
+        ]
+      },
+      "properties": {
+        "Name": "Swiss_German",
+        "Glottocode": "swis1247",
+        "Glottolog_Name": "Central Alemannic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.9,
+          41.65
+        ]
+      },
+      "properties": {
+        "Name": "Tocharian_B",
+        "Glottocode": "tokh1243",
+        "Glottolog_Name": "Tokharian B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0,
+          25.0
+        ]
+      },
+      "properties": {
+        "Name": "Urdu",
+        "Glottocode": "urdu1245",
+        "Glottolog_Name": "Urdu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0,
+          20.0
+        ]
+      },
+      "properties": {
+        "Name": "Vedic_Sanskrit",
+        "Glottocode": "sans1269",
+        "xd_ids": [
+          "xd665"
+        ],
+        "Glottolog_Name": "Sanskrit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.14509,
+          50.2235
+        ]
+      },
+      "properties": {
+        "Name": "Walloon",
+        "Glottocode": "wall1255",
+        "xd_ids": [
+          "xd545"
+        ],
+        "Glottolog_Name": "Walloon"
+      }
+    }
+  ]
+}
